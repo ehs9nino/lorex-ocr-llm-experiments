@@ -1,0 +1,16 @@
+{
+  "WER_load_number": 0.6,
+  "WER_pickup_location": 0.9,
+  "WER_pickup_time": 0.62,
+  "WER_dropoff_location": 1.025,
+  "WER_dropoff_time": 0.6,
+  "WER_total_rate": 0.8,
+  "WER_rate_per_mile": 0.6,
+  "CER_load_number": 0.2563131313131313,
+  "CER_pickup_location": 0.9,
+  "CER_pickup_time": 0.5569264069264068,
+  "CER_dropoff_location": 0.9800000000000001,
+  "CER_dropoff_time": 0.6,
+  "CER_total_rate": 0.19095238095238096,
+  "CER_rate_per_mile": 0.4375
+}
