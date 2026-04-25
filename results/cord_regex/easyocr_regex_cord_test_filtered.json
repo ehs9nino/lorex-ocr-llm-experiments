@@ -1,0 +1,749 @@
+[
+  {
+    "source_image": "0.png",
+    "ocr_text": "901016\n-TICKET Cp\n60,0oo\nEO,Q00\nTOTAL dis:\n60,000\ntak\n5,455\nSubtota]\n6O,000\nToTaL\n(Oty\n00\n60\n000\nEdC CIMB NIAGA No: xx7730\n60,000",
+    "item_name": "-TICKET Cp",
+    "item_price": "60,000",
+    "sub_total": null,
+    "tax": "5,455",
+    "total": "60,000"
+  },
+  {
+    "source_image": "1.png",
+    "ocr_text": "J.STE\nFfomo\nI7300\nY.B .BaT\n460u0\nY.BaSU\nProh\n27300\nT 0 T AL\n9 1 0 0 0\nC Ash\n9 1 0 0 0",
+    "item_name": "J.STE",
+    "item_price": "0",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "2.png",
+    "ocr_text": "\"S*IF MT\n24,000\n'CONU] JELLY\n4,000\nSUB (OTA\n20,000\ntOtAL SA03\n'28 , 006\nTOTAL I6S\nCASH\n100 , 00_\nCHANGE\n72,000\nOupue Hn; 102",
+    "item_name": "\"S*IF MT",
+    "item_price": "102",
+    "sub_total": null,
+    "tax": null,
+    "total": "03"
+  },
+  {
+    "source_image": "3.png",
+    "ocr_text": "00821\n4 008o\nD\nIX\n@1\n11000\nDOnat GULA\n11,000\n1.OOxITEHs\nSUBTOTAL\n11,000\nTotal\ncash\nI1\n11,000\n,000",
+    "item_name": "4 008o",
+    "item_price": "000",
+    "sub_total": "11,000",
+    "tax": null,
+    "total": "1"
+  },
+  {
+    "source_image": "4.png",
+    "ocr_text": "Jcd\nIatuaa ML\nUlha\nIul\nqdb\nJiq&\n?.Op\nl\nICE\nBLACKCOFFE\nDow\nDoj\nAvocado COFFEE\n61\nCOO\nOUbecHIken\nFF\n54 CUj\nOloi\n8U6_TOTAL\n1974, QOg\nDiSjWT\n19,400\nT 0T &\n174,G10\nCx9 K\n200,j34\nCHANGE\n25,400\nKAtsu",
+    "item_name": "Jcd",
+    "item_price": "25,400",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "6.png",
+    "ocr_text": "EGG TART\n13,000\nL\nMHoCo CUS\" ARD PASTRY\n24,8o0\nREDBEAN BI'EAD\n9,000\nTOTAL\n46\n5\nOoo\nMASH\n50,000\nCHANCE\n4,000\nAell",
+    "item_name": "EGG TART",
+    "item_price": "4,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "46"
+  },
+  {
+    "source_image": "7.png",
+    "ocr_text": "15\n100,O00\nADD CXICKEN Box\nPo9\nSubiotal\n100,709\nPDI\n{107)\n10,071\nTotal\n11i,Doo\nLast\nRp.1fl,ooo\nKupor",
+    "item_name": "100,O00",
+    "item_price": "Rp.1",
+    "sub_total": null,
+    "tax": null,
+    "total": "11"
+  },
+  {
+    "source_image": "8.png",
+    "ocr_text": "[REG] BLACK SAKURA\n45,455\nCOOKIE DOH SAUCES\nNATA DE COCO\nSub Total\n45,455\nPB1 (16%)\n4,545\nRounding\nTotal\n50,000\nCard Payment\n50,000",
+    "item_name": "[REG] BLACK SAKURA",
+    "item_price": "50,000",
+    "sub_total": "45,455",
+    "tax": "16",
+    "total": "45,455"
+  },
+  {
+    "source_image": "9.png",
+    "ocr_text": "Burnbu Kaldu Ayam\n38000\n38000\nSub Tofal\n36000\nDiscount (0 %)\nTunai\nSQOQO\nKombalian\n14000",
+    "item_name": "Burnbu Kaldu Ayam",
+    "item_price": "00",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "10.png",
+    "ocr_text": "CINNAMON SUGAR\n17,000\n17,000\nSUB TOTAL\n17,000\nGRANDTOTAL\n17,000\nCASH IDR\n20,000\nCHANGE DUE\n3,000",
+    "item_name": "CINNAMON SUGAR",
+    "item_price": "3,000",
+    "sub_total": "17,000",
+    "tax": null,
+    "total": "17,000"
+  },
+  {
+    "source_image": "11.png",
+    "ocr_text": "BANAbeRRY FRESH CREAM CAK\n230 ,000\nTOTAL\n230,Q00\nCASH\n0\nCHANGE\n~",
+    "item_name": "BANAbeRRY FRESH CREAM CAK",
+    "item_price": "0",
+    "sub_total": null,
+    "tax": null,
+    "total": "230,"
+  },
+  {
+    "source_image": "12.png",
+    "ocr_text": "0571-1854 BLUS\n2120, Q0U\n0X\n120=\n1002-Q06Q\n'ING RAG\n2880 1002\n(2 icen)\n120, Qo0\nCc.\nRCA\n120,Q00;\nKeabalian\nManITA\nQ00\nSHOpP\nTOTAL\nVisa:E\nTotal",
+    "item_name": "0571-1854 BLUS",
+    "item_price": "00",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "13.png",
+    "ocr_text": "1\n7\n##UnVu3s\nJeURNIY\n1\nBASD KUNH\n1 43-636\n43-636\nA.MINERA CEAS\n1\n3-0\n34\n4\nTOTAL\n46,633\nIFP\n46\nTAX iO.00 %\nGRAND TOTA:\nTLNAI\n52-OO\nKEBAI\n700\n1\n3e#Lpe DGNSUarLSUUHN",
+    "item_name": "##UnVu3s",
+    "item_price": "3",
+    "sub_total": null,
+    "tax": "00",
+    "total": "46,633"
+  },
+  {
+    "source_image": "15.png",
+    "ocr_text": "3\ncald\nLemon Tea\n(L)\n25. 000\nCarame] Sma / 1\n38. 000\nTOTAL\n63,Q00\nCASH\n70. 000\nCHANGED\n7. 000",
+    "item_name": "cald",
+    "item_price": "000",
+    "sub_total": null,
+    "tax": null,
+    "total": "63,"
+  },
+  {
+    "source_image": "16.png",
+    "ocr_text": "[LG] BLACK SAKURA\n59,091\nLONGAN\nROASTED ALMOND\nNANGGO\nNINERAL WATER (bundling) 5k\n4,545\nSub Total\n63,636\nPBI (10%)\n6,364\nRounding\nTotal\n70,000\nCash Payment\n100,000\nChange\n30,000\n4*X",
+    "item_name": "[LG] BLACK SAKURA",
+    "item_price": "4",
+    "sub_total": "63,636",
+    "tax": null,
+    "total": "63,636"
+  },
+  {
+    "source_image": "17.png",
+    "ocr_text": "4\ndoplina Maer\n25,000\nMozaralla Hot\n38,000\nDog\nChlli Pepper\n14,000\nCroquelle\nChedao\n14,000\nCroquatte\nPlnatlk Amook\nPlaetik Putlh\nTako Away\nSubtotal\n91,000\nDlacount\nTOTAL\nRp. 91,000\nDobit\n91,000\nXXXXXXXX",
+    "item_name": "doplina Maer",
+    "item_price": "91,000",
+    "sub_total": "91,000",
+    "tax": null,
+    "total": "91,000"
+  },
+  {
+    "source_image": "18.png",
+    "ocr_text": "Propolis Cair\nTS60o\n150000\nSub Tofal\n156000\nTunai\n156000\nKembalian\nRp. 0",
+    "item_name": "Propolis Cair",
+    "item_price": "Rp. 0",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "19.png",
+    "ocr_text": "~oL30 WBL ChS\nQUQUu\n10 Hnqujn CaS\nJun _I6\nNE] SALES\n1JJUUU\nTax\n~1.\n~~~Jnt Due\n;oU",
+    "item_name": "~oL30 WBL ChS",
+    "item_price": "1",
+    "sub_total": null,
+    "tax": "1.",
+    "total": null
+  },
+  {
+    "source_image": "20.png",
+    "ocr_text": "Cashew nuts chkn\nS0Q\n1\ngarlic pepper beef\n7\n500\n1\nred Curry beef\n9\n500\n1 phad thai\n42500\n4\nsteamed riCe\nG00\nSUBTOTAL\n325600\nService chrg\n17.909\n107 PBi\n34,351\nTOTAL\n377,859",
+    "item_name": "Cashew nuts chkn",
+    "item_price": "377,859",
+    "sub_total": "325600",
+    "tax": null,
+    "total": "377,859"
+  },
+  {
+    "source_image": "21.png",
+    "ocr_text": "1\n35. 000\nRp35. 000\nHasi GOR Sfd TLR\n1\n3. 00O\nRr3. 000\nES TEH TAHAR\n#**TOTAL\nRp38\nOo0\ncaSH\nRp5o. 00O\nCHANGE\nRe1z . 00O",
+    "item_name": "Rp35. 000",
+    "item_price": "00",
+    "sub_total": null,
+    "tax": null,
+    "total": "38"
+  },
+  {
+    "source_image": "22.png",
+    "ocr_text": "2 [MDi SOFT STEAMED CHEESEC\n20,000\n2 [MD] SOFT STEAMED CHOCCCA\n20 ,000\nTOTAL\n40 ,000\nCASH\n106,000\nCHANGE\n60,000",
+    "item_name": "2 [MDi SOFT STEAMED CHEESEC",
+    "item_price": "60,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "40"
+  },
+  {
+    "source_image": "23.png",
+    "ocr_text": "6 TWIST DONUT\n54,000\nREDBEAN BREAD\n9,000\nTOTAL\n63 , 000\nCASH\n70 ,O0Q\nCHANGE\n7,000",
+    "item_name": "6 TWIST DONUT",
+    "item_price": "7,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "63"
+  },
+  {
+    "source_image": "24.png",
+    "ocr_text": "S0oi-Corn Flakes Codkies\nRp.Sb-DDO\nxi\n256.Odo\nSDDj-Chokoreto Cockies\nRp.62.DDO\nxi\n'P.62-DOD\nLDOz-Plastic\nMedium\nRp.0\nxi\nRp.D\nTotal\nItem:\nTotal.\nRp.418.DOD\nDebet Card\n118.OoD\nBag",
+    "item_name": "S0oi-Corn Flakes Codkies",
+    "item_price": "118",
+    "sub_total": null,
+    "tax": null,
+    "total": "418."
+  },
+  {
+    "source_image": "25.png",
+    "ocr_text": "TWIST STRAWBERRY DONUT\n10,000\nTLJ CROQUETTE\n17,000\nPOtATO PEPPER BAGEL\n16,000\nTOTAL\n43,000\nCASH\n50,000\nCHANGE\n7,000",
+    "item_name": "TWIST STRAWBERRY DONUT",
+    "item_price": "7,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "43,000"
+  },
+  {
+    "source_image": "26.png",
+    "ocr_text": "Cay\nNas| Cap Cay Porsi\n0\nesal\n05 . QQ0\n65.Duo\nHinuman\nTeh Tarar\n2\nA.ouu\nUqO\nLalni-Iain\nFu Yung Hal\n65.000\n65 .O00\nSubtotal\nRp 138.000\nTotal\nRp 138.000\nCash\nAp 138.000\nRp\n0\nChange\nCap",
+    "item_name": "Cay",
+    "item_price": "0",
+    "sub_total": "138.000",
+    "tax": null,
+    "total": "138.000"
+  },
+  {
+    "source_image": "27.png",
+    "ocr_text": "Fo\nPKT AYAM\n33\n00o\nGULAI OTAK\n23\n000\n2.00 ITEHS\nSUBTOTAL\n56 , 000\nTaX 10x\n5,600\nTOTAL\n61,,600\nCHARGES\n61,,600",
+    "item_name": "Fo",
+    "item_price": "600",
+    "sub_total": "56",
+    "tax": "10",
+    "total": "61,,600"
+  },
+  {
+    "source_image": "28.png",
+    "ocr_text": "SAMGYOPSAL\n2\n194,000\nSUL LUNG TANG\n7\n75,000\nMAKOLI\n100,000\nSub Total\n369,000\nService\n18,450\nVAT\n38,745\nDiscount\nTOTAL\n426,195",
+    "item_name": "SAMGYOPSAL",
+    "item_price": "426,195",
+    "sub_total": "369,000",
+    "tax": "38,745",
+    "total": "369,000"
+  },
+  {
+    "source_image": "29.png",
+    "ocr_text": "COLD OCHA\n1\n10,909\nBCA PROMO\n54,455\nABURA UDON SPICY\n0\n'-KAKE UDON\n0\nSKEWERED TOFUROLL\n1\n12,727\nEBI TEMPURA\n13,636\nKITSUNE UDON (KIDS}\n28,182\nSUB, TOTAL\n132,636\nRESTAURANT TAX\n13,264\nGRAND TOTAL\n~BCA EDC\n[145,900]\n145,900",
+    "item_name": "COLD OCHA",
+    "item_price": "145,900",
+    "sub_total": null,
+    "tax": "13,264",
+    "total": "145,900"
+  },
+  {
+    "source_image": "30.png",
+    "ocr_text": "Kupon\nJ\n28,636\nSubtotal\n28,636\nPBi (107)\n2,864\nDire In Tatal\n31,500\nCash\n50,000\n18, 500\nChange",
+    "item_name": "Kupon",
+    "item_price": "500",
+    "sub_total": "28,636",
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "33.png",
+    "ocr_text": "GRILLED BABY POTATO (R\n50 , 500\nHOT TUNA\n67 , 000\nHot TUNA\n67 , 000\nDisc\n1OOX(ItMO6)\n~67,000\nSUBTTL\n117,500\nSVC CHG 6X\n11,070\nPBI\n10X\n19,557\nTOTAL\n148\n127",
+    "item_name": "GRILLED BABY POTATO (R",
+    "item_price": "127",
+    "sub_total": null,
+    "tax": null,
+    "total": "148"
+  },
+  {
+    "source_image": "34.png",
+    "ocr_text": "Ashi Chick Carba\nVatah\n75.010\nJacur Gorenz\n10,Gon\nSubiota]\n05,0q0\nFalak (IOF)\nB.500\nTota |\n93-500\nTuna !\nI00.Wu\nKenbal1\n6,500\n66\ndjiolk",
+    "item_name": "Ashi Chick Carba",
+    "item_price": "66",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "35.png",
+    "ocr_text": "2\nTWIST DONUT\n18 , 000\nBANANA DOnUT\n11,000\nCREAMCHEESE\nBREAD\n13,000\nFRANKFRUT SAUSAGE ROLL\n12,000\nTOTAL\n52\n0oo\nCASH\n104,000\nCHANGE\n5(\n0oo",
+    "item_name": "TWIST DONUT",
+    "item_price": "0",
+    "sub_total": null,
+    "tax": null,
+    "total": "52"
+  },
+  {
+    "source_image": "37.png",
+    "ocr_text": "Popcorn Salt (S)\n20 . 00\nTOTAL\n20,000\nCASH\nCHANGED\n50 , 0O0\n30 . 0OO",
+    "item_name": "Popcorn Salt (S)",
+    "item_price": "0",
+    "sub_total": null,
+    "tax": null,
+    "total": "20,000"
+  },
+  {
+    "source_image": "39.png",
+    "ocr_text": "APL7DPLu: .\nJP GETWReD Bag\n4\nEpCq\nl\n6\n77{\n15844,CCn\n~.\n`\ns^\n'\nFe\nHerhdod\n:\nan\nTahal\n7c7 nno\nKPL7E4Dr !G.n >.\nLacK:Reg\nE\nv\nFal\n3\nFeraecdod:\ns\nAae\nFearaaa\nMaeane\naaas\n1\na\nWenee",
+    "item_name": "APL7DPLu: .",
+    "item_price": "1",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "40.png",
+    "ocr_text": "X3WgAll\n7 33\n54.0D?\nJ7xeka Sisin banaa\n%:\n\"3\" Taginb abon; eju cokele: dl\nD0C\n14 , D0D\nTotal\n{2\nGI_\nCasy\n;3,32\n~HSGE\nKnn\nXndeU Ah\n0Dm la\nPizzd\nYck?",
+    "item_name": "X3WgAll",
+    "item_price": "0",
+    "sub_total": null,
+    "tax": null,
+    "total": "2"
+  },
+  {
+    "source_image": "41.png",
+    "ocr_text": "Chicken Hary land\n47619,00\nCappuc ino' (Hot /Iced)\n30303,un\nNaga Lychee Juice\n34632\nCafe Latte\n30303. 00\nHot Chocolate MarshialIo\n30302 . Ulj\nChicken\nCesar Salad\n43290. QU\nMinera\nHater\n12987 ,00\n12987 . UU\nMinera\nMater\nLychee /Peach /Lemon/Mango\n25474.00\nChicken Mary land\n47619,00\n316017,00\nSubtota]\nService Charge 5x\n48982 .68\n365000,00\nTOTAL",
+    "item_name": "Chicken Hary land",
+    "item_price": "000,00",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "44.png",
+    "ocr_text": "4\na\nCombo\n30, 000\nTOTAL\n30,000\nCASH\n50, 000\nCHANGED\n20, 000",
+    "item_name": "a",
+    "item_price": "000",
+    "sub_total": null,
+    "tax": null,
+    "total": "30,000"
+  },
+  {
+    "source_image": "45.png",
+    "ocr_text": "I\n25. 000\nLemon Tea\n(L) =\n28. 000\nMike\n&\nIke Or Iginal\n000\nMike\n&\nBerry\n28.\nRot1\nKeju Manis:\n7. 000\nTOTAL\nB8, 000\n88, O00\nCASH\nCHANGED",
+    "item_name": "I",
+    "item_price": "00",
+    "sub_total": null,
+    "tax": null,
+    "total": "8,"
+  },
+  {
+    "source_image": "46.png",
+    "ocr_text": "IX S-Bubble Milk Tea\n@20 ,000\n20,000\n100x\nIX S-Caramel Milk Tea\n@20 , 000\n20,000\n1OOX\nTotal:\n40 ,000\nCash:\n40 , 000\nCHANCF\n2",
+    "item_name": "IX S-Bubble Milk Tea",
+    "item_price": "2",
+    "sub_total": null,
+    "tax": null,
+    "total": "40"
+  },
+  {
+    "source_image": "47.png",
+    "ocr_text": "COPIA\n/GB\n45 ,000 . 00\n2100252000358\n45,000 . 00\nPLASTIC BAG RED CENTRAL SI\n0. O0\n9100544260074\n0.00\nCOPIA\n/GB\n18,000. O0\n2100252000358\n18,000 . 0o\nTotal\n63,000 . 00\nTota] discount\n0.00\nTotal quantity\n3\nCard Payment DEBIT CARD\n63,000 . 00",
+    "item_name": "COPIA",
+    "item_price": "00",
+    "sub_total": null,
+    "tax": null,
+    "total": "63,000"
+  },
+  {
+    "source_image": "48.png",
+    "ocr_text": "IX S-HazeInut KOI Cafe @25,000\n25,000\n258\nLess Ice\nPBI\n2,272\nSubtotal\n22 ,728\nTota]\n25,000\nCash:\n100,000\nCHANGE:\n75,000",
+    "item_name": "IX S-HazeInut KOI Cafe @25,000",
+    "item_price": "75,000",
+    "sub_total": "22",
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "49.png",
+    "ocr_text": "Ptgs Fggtart\n17,Qoo\nChoco Neli\nM1 , OOQ\nSUDTOTAL\n27,Ono\nDUE\n23,Ooo\nCash\n3),OOQ\nCHANGE\n27,O0\nTOtAl\n@Ty\nITEM\n2 PCS",
+    "item_name": "Ptgs Fggtart",
+    "item_price": "2",
+    "sub_total": null,
+    "tax": null,
+    "total": "2"
+  },
+  {
+    "source_image": "50.png",
+    "ocr_text": "1\nSpFrie Cduvurfy\n17,727\nJuviuiaia\n17,727\nrT\nFoi:\n1,773\nTotai:\nj9,jp\nLasn;\n10o, 68R\nCfiariye:\n68 , 508",
+    "item_name": "SpFrie Cduvurfy",
+    "item_price": "508",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "51.png",
+    "ocr_text": "trai'\nCustor:\n(TA) NASI\nRG TERI\n165,460\nMEDAN\n(TA) BIHUN GORENG\n40,456\nSEAFOOD\n(TA) KWETIAW SEAFOOD\n42,274\nSIRAM\n(TA} NASI GORENG\n55,456\nITEMS.8\n303,646\nL 1 10%\n30.365\nRrvinding\n334,011\nRounding\nTotal\n334,000\nDEBIT BCA\n334,QOQ\njungai)\n(ovuin",
+    "item_name": "trai'",
+    "item_price": "334",
+    "sub_total": null,
+    "tax": null,
+    "total": "334,000"
+  },
+  {
+    "source_image": "52.png",
+    "ocr_text": "THAI ICED TEA\n@20 . 000\n20,000\nTHAI ICED TEA\n@20 , 000\n20,000\nSUB-TOTAL\n40 , 000\nGRAHDTOTAL\n40,000\nCASH\n100 , 000\nCHANGED\n60 , 000",
+    "item_name": "THAI ICED TEA",
+    "item_price": "000",
+    "sub_total": null,
+    "tax": null,
+    "total": "40"
+  },
+  {
+    "source_image": "53.png",
+    "ocr_text": "Jopiegi\n**x**x**********rt*****r******t*t**\n===2=5222=955920=\n132\nPecel\nKompl it\nNasi\n42\n00\nSoto\nKUDUS\n42\n0oQ\n2\nNineral\nWater\n18\n0oo\nSUbtotal\n107\n0oo\nSeru i\nChar ge\n5/\n5\n350\nPajak\nRest\n10/\n1\n235\nTotal\n123.585\n5=2==\n285",
+    "item_name": "Jopiegi",
+    "item_price": "285",
+    "sub_total": "107",
+    "tax": null,
+    "total": "123.585"
+  },
+  {
+    "source_image": "54.png",
+    "ocr_text": "Dja F\nKaCAnG MERAH\n10 ,000\nSUBTOTAL\n10 ,000\nTotaL\n10,000\ncash\n10,000",
+    "item_name": "Dja F",
+    "item_price": "10,000",
+    "sub_total": "10",
+    "tax": null,
+    "total": "10,000"
+  },
+  {
+    "source_image": "55.png",
+    "ocr_text": "APPLE CINNAMON PASTRY\n22,000\n2 ROYAL CHEESE TART\n32 ,000\nTOTAL\n52\n000\nCARD\n52\n00O",
+    "item_name": "APPLE CINNAMON PASTRY",
+    "item_price": "00",
+    "sub_total": null,
+    "tax": null,
+    "total": "52"
+  },
+  {
+    "source_image": "56.png",
+    "ocr_text": "AIR\nMINERAL\n8 , 18 1\nSUBTOTAL\n'8 , 18 1\nTaX\n8 18\nTL\n8 .\n999\nCASH\n10,000\nCG\n1\n00 1",
+    "item_name": "AIR",
+    "item_price": "1",
+    "sub_total": "8",
+    "tax": "8",
+    "total": null
+  },
+  {
+    "source_image": "57.png",
+    "ocr_text": "ICED\nTT\n20\nICED\nGT\n22\nCash\n42",
+    "item_name": "ICED",
+    "item_price": "42",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "60.png",
+    "ocr_text": "Topping Mi lo Sparkle (untuk\nPo\nrsi)\nIx\n250\n250\nBola Ubi Mini\nOrigina !\n(14 Pcs\n1\nZx\n12.500\n25,000\nSubtotal\n26 .250\nPajak\nTotal\n26,250\nPembayaran\nGo-Pay",
+    "item_name": "Topping Mi lo Sparkle (untuk",
+    "item_price": "26,250",
+    "sub_total": "26",
+    "tax": null,
+    "total": "26,250"
+  },
+  {
+    "source_image": "61.png",
+    "ocr_text": "5500\nUNGU\n50u\nOISC ITEH\n40 . UOo .\nAHOUNT\nGJU\nJ0uo\nAREH\nAREH\nUUU\nDISC ITEH\n-40 . OQu\"\nAHOUNT\nFJ,2Uu\nJ000\nLEMPER\nDISC ITeH\nOnu\"\nAMUUMT\nMIKA SEDANG\nPLASTIK KECIL\n5000\nTEH KotAk\nQ\n7.0C ITEHs\nSUBTOTAL\n24,50U\nTotaL\n24,50u\nCARD\n24,5Uu\nTALAH",
+    "item_name": "UNGU",
+    "item_price": "5",
+    "sub_total": "24,50",
+    "tax": null,
+    "total": "24,50"
+  },
+  {
+    "source_image": "62.png",
+    "ocr_text": "T\n4i\nXXI\nJava Tea\n(M)\n18. 00o\nCombo\n2\n30. 000\nTOTAL\n48,O00\nCASH\n50,\nCHANGED\n2.\n0oo\n00o",
+    "item_name": "T",
+    "item_price": "00",
+    "sub_total": null,
+    "tax": null,
+    "total": "48,"
+  },
+  {
+    "source_image": "63.png",
+    "ocr_text": "Kopi Susu Kanipung _\nx1\n19.000\nIce\nKopi Susu Kampung\nLess Ice\nKopi Susu Kampung .\nx2\n38 . 000\nIce\nSubtota]\n57 ,O00\nTotal\n57. 000\nCash\n60 , QQQ\nChange\n3.000",
+    "item_name": "Kopi Susu Kanipung _",
+    "item_price": "3.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "57."
+  },
+  {
+    "source_image": "64.png",
+    "ocr_text": "SINGLE SCOOP\n16. Ou\nToTAL\n16.OOO\nCATEND\n50. OOo\nCHANGE\n34- OOO",
+    "item_name": "SINGLE SCOOP",
+    "item_price": "34",
+    "sub_total": null,
+    "tax": null,
+    "total": "16."
+  },
+  {
+    "source_image": "65.png",
+    "ocr_text": "4\niubur Polos\n+\nTelur\n13.O00\n13.000\nJubtotal\n13.000\n'ajak\n'otal\n13,000",
+    "item_name": "iubur Polos",
+    "item_price": "13,000",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "66.png",
+    "ocr_text": "PILLX SURIA\n362364\nPLGSTIK 25\nSUBTOTRL\n36,364\nPBL 102\n10,0002\nGNOUKT\n3.(36\nTDTAL\n40,\nCAs\n50\nCHAKE\n102",
+    "item_name": "PILLX SURIA",
+    "item_price": "102",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "67.png",
+    "ocr_text": "2005-CHEEsE\nJOHP\n500,0}\n?.500,00\nTotal Item:\ns00,00\nCash\nsq0.00\nTendered:\nTotal.",
+    "item_name": "2005-CHEEsE",
+    "item_price": "0.00",
+    "sub_total": null,
+    "tax": null,
+    "total": "00,00"
+  },
+  {
+    "source_image": "68.png",
+    "ocr_text": "TT\n20 ,00\n20\n0\n50\n0\n30\nICED\nToTAL\nCASH\nCHANGE",
+    "item_name": "TT",
+    "item_price": "30",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "70.png",
+    "ocr_text": "2\nUDANC RE\n216,000 432,000\n2\n=#LARGEX==\nAYM GR JUN NJAN\n408,000\n=SMEDIUMI=\n1\nSAPO\nTk SEAFOOD\n172,000\n=XLARGE#==\n2\nPOCAI\n3\n111,000 222,000\n2\n=XMEDIUMZ=\n1\nGURAME FILLET\nM\n163,000\nASAM MANIS\nBIHUN GORENB JJ\n116,000\n=PLARGET==\n5\nICED\nTEA\n12,000\n60,000\n7\nNASI\nPUTIH\nL0,000\n0oo\nFooD\n1,213,000\nBEVERACES\n60,0Qo\nOTHERS\nQoQ\nSUBTOTAL\n1,343,000\nSERVICE CHARGE\n80,580\nTax 104\n142,358\nDU\n1\n565,938\n70,C\n70,C",
+    "item_name": "UDANC RE",
+    "item_price": "70",
+    "sub_total": "1,343,000",
+    "tax": "104",
+    "total": null
+  },
+  {
+    "source_image": "71.png",
+    "ocr_text": "Cuka Apel Tefes 1\nTS8000\n198000\nSub Tolal\n19a000\nTunai\n200200\nKorribalian\n22000",
+    "item_name": "Cuka Apel Tefes 1",
+    "item_price": "00",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "72.png",
+    "ocr_text": "8\nZf\nJelE\nChoco Devil\n15,9095)\n~iea\nSubTotal:\nPBl:\n15,909\n1,591\nTotal:\n17,500-\ncash;\nChanget\n2,\nZZ=EEEEE5\n1\nr\n20,5\nOQo\n5001\n52223223",
+    "item_name": "Zf",
+    "item_price": "23",
+    "sub_total": "15,909",
+    "tax": null,
+    "total": "17,500-"
+  },
+  {
+    "source_image": "73.png",
+    "ocr_text": "100i-Choco Bun\n22.000\nxi\n22.000\n6001-Plastic\nSmall\nxl\nTotal\nItem:\n22 . 000\nTotal.\nCash\n25.000\nTendered:\n3 .00o\nChange:\nBag",
+    "item_name": "100i-Choco Bun",
+    "item_price": "00",
+    "sub_total": null,
+    "tax": null,
+    "total": "22"
+  },
+  {
+    "source_image": "75.png",
+    "ocr_text": "choco PUFF\n29,091\nCREAMY BEEF CLS FTC\n42,727\nNEW URIENTAL\nCKk RICE\n34,545\nLIPTON PITCHER\n54,545\nSC/P\nSUPER SUPRENE\n47,273\nCBZP BLACK PEPP BEEF\n48\nSUBTOTAL\n256,363\nTax\n254637\nTOTAL\n282\nE\nDoo\n182",
+    "item_name": "choco PUFF",
+    "item_price": "182",
+    "sub_total": "256,363",
+    "tax": "254637",
+    "total": "282"
+  },
+  {
+    "source_image": "76.png",
+    "ocr_text": "BASO TAHU\n*46000\nNASI PUTIH\n~6000\nBaso TAhU\n*46000\n2* 6000\nNASI PUTI#\n+12000\nTEMS\n54\nASH\n*110000",
+    "item_name": "BASO TAHU",
+    "item_price": "000",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "79.png",
+    "ocr_text": "1001-Choco\nBun\n22.000\nxl\n22.000\n6001-Plastic\nSmall\nxi\nTotal Item:\notal.\n'22.000\nash\nndered:\n22.000\nBag",
+    "item_name": "1001-Choco",
+    "item_price": "22.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "22.000"
+  },
+  {
+    "source_image": "80.png",
+    "ocr_text": "25.000\nViet Milk Coffee\n+Ice\n25,000\nSubtotal\n25,000\nTotal\nCaSH\n25,000\nKenbalian",
+    "item_name": "Viet Milk Coffee",
+    "item_price": "25,000",
+    "sub_total": "25,000",
+    "tax": null,
+    "total": "25,000"
+  },
+  {
+    "source_image": "82.png",
+    "ocr_text": "40\n225\nChocolate Log Cake\nIx\n115,000\n115,000\nSnowman Cake Chocolate\nIx\n60,000\n60,000\nRA\nStrawberry Log Cake\n2x\n105,O00\n210,000\nSub Total\n385, 000\nGRAND TOTAL\n385, 000\nVISA MASTER\n385,000\n8213\nCHANGE\nTIME WN",
+    "item_name": "Chocolate Log Cake",
+    "item_price": "3",
+    "sub_total": "385,",
+    "tax": null,
+    "total": "385,"
+  },
+  {
+    "source_image": "83.png",
+    "ocr_text": "COCKIES AnD CREAM\n20,909\nSbtotal\n20,909\nFajfX 107\n2,091\nTotal\n23,000\nJendered\n25.000\nKerbali\n2,000",
+    "item_name": "COCKIES AnD CREAM",
+    "item_price": "2,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "23,000"
+  },
+  {
+    "source_image": "84.png",
+    "ocr_text": "Kroket\nIx\n@12.000\n12.000\nArem Arem\nZx\nO00\n24.000\nSubtotal\nRp 36. 00O\nTax (10.03)\nRp 3.600\nTotal\nRp 39.600\nOther\nRp 39.600\n@12_",
+    "item_name": "Kroket",
+    "item_price": "12",
+    "sub_total": "36.",
+    "tax": "10.03",
+    "total": "39.600"
+  },
+  {
+    "source_image": "86.png",
+    "ocr_text": "Unn\na\nChcezemania\n9,5o0\nMamamia\n12,500\nSUBTOTAL\n22,Ooo\nDUE\n22,0oo\nCASH\n52,O0o\nCHANGE\n3o,000\nToTAL QTy\n2\nITEM\n2 PCS",
+    "item_name": "Unn",
+    "item_price": "2",
+    "sub_total": "22,",
+    "tax": null,
+    "total": "2"
+  },
+  {
+    "source_image": "87.png",
+    "ocr_text": "2\n4\n2\n0\n@\n5\n36,500\n2\nPhotAl\nTota)\n36500\n10086\n3,50\nTotal\n40,4150\nCARD\n40,50\nW\n# #9-\n:\nW\n:\n2\n;\nCHIN\n2\nSub\nPBi\nGrand\n51832301O CREDIT\n#4#0",
+    "item_name": "PhotAl",
+    "item_price": "0",
+    "sub_total": null,
+    "tax": null,
+    "total": "40,4150"
+  },
+  {
+    "source_image": "88.png",
+    "ocr_text": "4uu(\nGI\n5\nSTIX ECLAIRS\nX\n19,000\n19,000\nALMOND CREAM CHEESE\nX\n28,000\n28,000\nSUB TOTAL\n47,000\nGRAND TOTAL\n47,000\nVISA 8945\n47,000\nCHANGE DUE",
+    "item_name": "4uu(",
+    "item_price": "47,000",
+    "sub_total": "47,000",
+    "tax": null,
+    "total": "47,000"
+  },
+  {
+    "source_image": "89.png",
+    "ocr_text": "#R2f02996E#8080 *04+\n3192353\nKAL\nChicken\n40,OOo\nPedas sedikit\nITEMS:\nCash 50,0OQ\n808\nnJ,OO\nI'_r D F`\nBaEen\nEESsR####Z3\n1041012138208209429262\nCnspy\nTata\nPay\nChange",
+    "item_name": "#R2f02996E#8080 *04+",
+    "item_price": "2",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "90.png",
+    "ocr_text": "1 CIRENG PANDAWA\n26,818\nSubtotal\n26,818\nPbl\n2,681\nTotal\n29,500\nCASH\n29,500\nTotal Item\n1\nTotal Qty\n1",
+    "item_name": "1 CIRENG PANDAWA",
+    "item_price": "1",
+    "sub_total": "26,818",
+    "tax": null,
+    "total": "29,500"
+  },
+  {
+    "source_image": "91.png",
+    "ocr_text": "BAKSO; BNGKS\n16.0dQ\nGurengan\n6, @pd\n21\n000\nGash\n80.000\nC6\n000\nerhaeetaSe",
+    "item_name": "BAKSO; BNGKS",
+    "item_price": "000",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "92.png",
+    "ocr_text": "901016\nTICKET C?\n60,Oo0\n240,000\nTotaL\n(Qtv=4\n00)240.000\nCASH\n250,000\nCHANGE\n10,000",
+    "item_name": "TICKET C?",
+    "item_price": "10,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "4"
+  },
+  {
+    "source_image": "93.png",
+    "ocr_text": "THAI ICED TEA (L)\n1\nX\n16,363\n16,363\nJumlah Item\nSub Total\n16,363\nPajak Resto\n1,636\nGrand Total\n17,999",
+    "item_name": "THAI ICED TEA (L)",
+    "item_price": "17,999",
+    "sub_total": "16,363",
+    "tax": null,
+    "total": "17,999"
+  },
+  {
+    "source_image": "94.png",
+    "ocr_text": "0)\n1\nSp\n2\n2\n1\n1\nTAHU GORENG\n28,000\n2\n1\nCAKWE\n17,000\n1\nPHO TAI CHIN ( R)\n63,000\n1\nTEA\n11,000\nSub Total\n119,000\nServ,\n7,0%\n8,330\n1\nPB ]\n10,0%\n12,733\nGrand Total\n140,063\n0\n2 9H\nCREDIT CAR:\n140,063\n2\nF\n0\nWww:\nI\n2\n1\n2\n;",
+    "item_name": "Sp",
+    "item_price": "2",
+    "sub_total": "119,000",
+    "tax": null,
+    "total": "140,063"
+  },
+  {
+    "source_image": "95.png",
+    "ocr_text": "':,\n1\n181\n43.184\nRASO\n1\n13.000\n13.C0O\nES JERUK\n56.181\nTOTAL\n5.618\nTAX 10.00 %\n61.7n\nGD TOI\n62,6\nTAI\nAFBLI\nenier\n434\nTAHU\n7",
+    "item_name": "RASO",
+    "item_price": "7",
+    "sub_total": null,
+    "tax": "10.00",
+    "total": "5.618"
+  },
+  {
+    "source_image": "96.png",
+    "ocr_text": "BBQ Chicken\n41,008\nTidak Pedas\nITEMS :1\n41,808\nTetal.\n\"Cash\" 50,000 Change\n:9,000\nPay",
+    "item_name": "BBQ Chicken",
+    "item_price": "9,000",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "97.png",
+    "ocr_text": "2\n20,000\nBUBUR GO\n40 .000\nPUYUh GO\n6,000\n3\n3 , 000\nSATETATIcGO\n9,000\n6 , OOxITEMS\nTOTAL\n55. 000\nCASH\n55, 000",
+    "item_name": "BUBUR GO",
+    "item_price": "000",
+    "sub_total": null,
+    "tax": null,
+    "total": "55."
+  },
+  {
+    "source_image": "99.png",
+    "ocr_text": "FL-Xmas 30 Off\n68,180\nPAKET SLICES\nFL Cake\nFrench:\nVanila SLC\nPAKET SLICES\nFL Cake\nGreen\nTea SLC\nPAKET SLICES\nFL Cake\nBelgium\nChoco SLC\nSUBTOTAL\n68,180\nDISKON\nBIAYA TAMBAHAN\nPAJAK PPN 10 %\n6,818\nPAJAK\n0 %\nBIAYA CC\nPEMBULATAN\n2\nTOTAL\n75,000\nTUNAI\nNON TUNAI\n75,000\nKEMBALI",
+    "item_name": "FL-Xmas 30 Off",
+    "item_price": "75,000",
+    "sub_total": "68,180",
+    "tax": null,
+    "total": "75,000"
+  }
+]

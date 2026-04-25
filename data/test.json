@@ -1,0 +1,244 @@
+[
+  {
+    "source_image": "137.jpg",
+    "load_number": "T-113N75BZM",
+    "pickup_location": "MEM3 HORN LAKE, MS 38637",
+    "pickup_time": "Mon, Sep 29, 10:15 CDT",
+    "dropoff_location": "MGEY Union City, GA 30291",
+    "dropoff_time": "Mon, Sep 29, 20:47 EDT",
+    "total_rate": "$803,74",
+    "rate_per_mile": "$1.91/mi"
+  },
+  {
+    "source_image": "138.jpg",
+    "load_number": "116MTTHW7",
+    "pickup_location": "BTR1 Baton Rouge, LA 70...",
+    "pickup_time": "Mon, Sep 29, 02:15 CDT",
+    "dropoff_location": "MOB5 THEODORE, AL 365...",
+    "dropoff_time": "Mon, Sep 29,06:35 CDT",
+    "total_rate": "$634.16",
+    "rate_per_mile": "$3.46/mi"
+  },
+  {
+    "source_image": "139.jpg",
+    "load_number": "11384WM5P",
+    "pickup_location": "IND9 GREENWOOD, IN 46143",
+    "pickup_time": "Mon, Sep 29, 16:30 EDT",
+    "dropoff_location": "ORD5 MATTESON, IL 60403",
+    "dropoff_time": "Mon, Sep 29, 20:26 CDT",
+    "total_rate": "$297.02",
+    "rate_per_mile": "$1.60/mi"
+  },
+  {
+    "source_image": "140.jpg",
+    "load_number": "114Q4HM9G",
+    "pickup_location": "MQJ9 Franklin, IN 46131",
+    "pickup_time": "Mon, Sep 29, 04:00 EDT",
+    "dropoff_location": "MSP8 WOODBURY, MN 55129",
+    "dropoff_time": "Mon, Sep 29, 15:17 CDT",
+    "total_rate": "$2,500",
+    "rate_per_mile": "$4.10/mi"
+  },
+  {
+    "source_image": "141.jpg",
+    "load_number": "T-111J8XKWZ",
+    "pickup_location": "VENDOR-176318221 NORTH EAST, ...",
+    "pickup_time": "Mon, Sep 29, 05:00 EDT",
+    "dropoff_location": "MDT5 LEWISBERRY, PA 17339",
+    "dropoff_time": "Mon, Sep 29, 10:35 EDT",
+    "total_rate": "$399.54",
+    "rate_per_mile": "$3.97/mi"
+  },
+  {
+    "source_image": "142.jpg",
+    "load_number": "1162342LK",
+    "pickup_location": "DEN3 Thornton, CO 80023",
+    "pickup_time": "Sun, Sep 28, 20:45 MDT",
+    "dropoff_location": "MCI9 LIBERTY, MO 64068",
+    "dropoff_time": "Mon, Sep 29, 10:04 CDT",
+    "total_rate": "$1,900.54",
+    "rate_per_mile": "$2.98/mi"
+  },
+  {
+    "source_image": "143.jpg",
+    "load_number": "T-115KV4Y9G",
+    "pickup_location": "HOU7 Houston, TX 77064",
+    "pickup_time": "Mon, Sep 29, 03:15 CDT",
+    "dropoff_location": "MOB5 THEODORE, AL 36582",
+    "dropoff_time": "Tue, Sep 30, 02:10 CDT",
+    "total_rate": "$813,77",
+    "rate_per_mile": "$1.60/mi"
+  },
+  {
+    "source_image": "144.jpg",
+    "load_number": "T-1165BTKTZ",
+    "pickup_location": "MEM1 Memphis, TN 38118",
+    "pickup_time": "Mon, Sep 29, 04:47 CDT",
+    "dropoff_location": "RDU4 Fayetteville, NC 28303",
+    "dropoff_time": "Tue, Sep 30, 09:00 EDT",
+    "total_rate": "$1,442.93",
+    "rate_per_mile": "$1.88/mi"
+  },
+  {
+    "source_image": "145.jpg",
+    "load_number": "1168FPZ2M",
+    "pickup_location": "IUSF Dallas, TX 75241",
+    "pickup_time": "Sun, Sep 28, 10:00 CDT",
+    "dropoff_location": "IUST Greencastle, PA 17225",
+    "dropoff_time": "Tue, Sep 30, 14:30 EDT",
+    "total_rate": "$2,700",
+    "rate_per_mile": "$2.04/mi"
+  },
+  {
+    "source_image": "146.jpg",
+    "load_number": "113G883WS",
+    "pickup_location": "CLE3 Euclid, OH 44132",
+    "pickup_time": "Sun, Sep 28, 22:00 EDT",
+    "dropoff_location": "PHL7 MIDDLETOWN, DE 19709",
+    "dropoff_time": "Mon, Sep 29, 07:45 EDT",
+    "total_rate": "$806,91",
+    "rate_per_mile": "$1.81/mi"
+  },
+  {
+    "source_image": "147.jpg",
+    "load_number": "116DDVRC",
+    "pickup_location": "116TLQD2C_ITR Old Pascagoula Rd, AL 365582",
+    "pickup_time": "Sun, Sep 28, 04:00 CDT",
+    "dropoff_location": "BTR1 Baton Rouge, LA 70815",
+    "dropoff_time": "Sun, Sep 28, 09:27 CDT",
+    "total_rate": "$802,21",
+    "rate_per_mile": "$4.30/mi"
+  },
+  {
+    "source_image": "148.jpg",
+    "load_number": "T-116FCY213",
+    "pickup_location": "MEM6 OLIVE BRANCH, MS 38654",
+    "pickup_time": "Sun, Sep 28, 13:00 CDT",
+    "dropoff_location": "MQJ2 WHITELAND, IN 46184",
+    "dropoff_time": "Mon, Sep 29, 02:47 EDT",
+    "total_rate": "$969,01",
+    "rate_per_mile": "$2.00/mi"
+  },
+  {
+    "source_image": "149.jpg",
+    "load_number": "111833VCY",
+    "pickup_location": "ROC5 ROCHESTER, NEW YORK 14...",
+    "pickup_time": "Sun, Sep 28, 06:00 EDT",
+    "dropoff_location": "CLE3 Euclid, OH 44132",
+    "dropoff_time": "Sun, Sep 28, 12:12 EDT",
+    "total_rate": "$374.79",
+    "rate_per_mile": "$1.55/mi"
+  },
+  {
+    "source_image": "150.jpg",
+    "load_number": "111GXX61Q",
+    "pickup_location": "MDW2 Joliet, IL 60433",
+    "pickup_time": "Sat, Sep 27, 16:00 CDT",
+    "dropoff_location": "IAH3 Houston, TX 77032",
+    "dropoff_time": "Sun, Sep 28, 22:00 CDT",
+    "total_rate": "$2118,81",
+    "rate_per_mile": "$2.03/mi"
+  },
+  {
+    "source_image": "151.jpg",
+    "load_number": "115VP7Z6D",
+    "pickup_location": "XIN4 INDIANAPOLIS, Indiana 4...",
+    "pickup_time": "Sun, Sep 28, 12:00 EDT",
+    "dropoff_location": "TEB9 Somerset, NJ 08873",
+    "dropoff_time": "Mon, Sep 29, 13:00 EDT",
+    "total_rate": "$1 227,39",
+    "rate_per_mile": "$1.70/mi"
+  },
+  {
+    "source_image": "152.jpg",
+    "load_number": "11147RR7K",
+    "pickup_location": "JAN1 CANTON, MS 39046",
+    "pickup_time": "Fri, Sep 26, 02:30 CDT",
+    "dropoff_location": "BNA8 Lebanon, TN 37090",
+    "dropoff_time": "Fri, Sep 26, 10:54 CDT",
+    "total_rate": "$970",
+    "rate_per_mile": "$2.27/mi"
+  },
+  {
+    "source_image": "153.jpg",
+    "load_number": "T-114D2CVP1",
+    "pickup_location": "RFD2 HUNTLEY, IL 60142",
+    "pickup_time": "Fri, Sep 26, 06:58 CDT",
+    "dropoff_location": "ABE4 EASTON, PA 18045",
+    "dropoff_time": "Sat, Sep 27, 12:00 EDT",
+    "total_rate": "$1,928.74",
+    "rate_per_mile": "$2.37/mi"
+  },
+  {
+    "source_image": "154.jpg",
+    "load_number": "115P4ZZ1V",
+    "pickup_location": "FSD Sioux Falls, SD 57107",
+    "pickup_time": "Fri, Sep 26, 04:30 CDT",
+    "dropoff_location": "DEN5 AURORA, CO 80011",
+    "dropoff_time": "Fri, Sep 26, 17:01 MDT",
+    "total_rate": "$2,255.04",
+    "rate_per_mile": "$3.13/mi"
+  },
+  {
+    "source_image": "155.jpg",
+    "load_number": "113B21C75",
+    "pickup_location": "RDU2 SMITHFIELD, NC 27...",
+    "pickup_time": "Fri, Sep 26, 03:00 EDT",
+    "dropoff_location": "AGS Jefferson, GA 30549",
+    "dropoff_time": "Fri, Sep 26, 11:24 EDT",
+    "total_rate": "$783.55",
+    "rate_per_mile": "$2.08/mi"
+  },
+  {
+    "source_image": "156.jpg",
+    "load_number": "114LLJMK1",
+    "pickup_location": "SHV1 Shreveport, LA 71107",
+    "pickup_time": "Thu, Sep 25, 23:13 CDT",
+    "dropoff_location": "LIT1 LITTLE ROCK, AR 72206",
+    "dropoff_time": "Fri, Sep 26, 02:46 CDT",
+    "total_rate": "$483.73",
+    "rate_per_mile": "$2.26/mi"
+  },
+  {
+    "source_image": "157.jpg",
+    "load_number": "T-11449VS3G",
+    "pickup_location": "TUL2 Tulsa, OK 74116",
+    "pickup_time": "Fri, Sep 26, 07:42 CDT",
+    "dropoff_location": "CVG9 Hebron, KY 41048",
+    "dropoff_time": "Sat, Sep 27, 00:04 EDT",
+    "total_rate": "$1,268.45",
+    "rate_per_mile": "$1.68/mi"
+  },
+  {
+    "source_image": "158.jpg",
+    "load_number": "114CZVQT6",
+    "pickup_location": "SAT6 SAN MACROS, Texas 78666",
+    "pickup_time": "Sat, Jan 20, 13:41 CST",
+    "dropoff_location": "BNSF-ALLIANCE-MC HASLET, TX 76052",
+    "dropoff_time": "Sat, Jan 20, 21:11 CST",
+    "total_rate": "$618,73",
+    "rate_per_mile": "$2.67/mi"
+  },
+  {
+    "source_image": "159.jpg",
+    "load_number": "T-11398DWRQ",
+    "pickup_location": "SAT2 SAN MARCOS, TX 78666",
+    "pickup_time": "Sat, jan 20, 18:15 CST",
+    "dropoff_location": "STL3 Republic, Missouri 65738",
+    "dropoff_time": "Sun, Jan 21, 23:06 CST",
+    "total_rate": "$1 336,74",
+    "rate_per_mile": "$1.86/mi"
+  },
+  {
+    "source_image": "160.jpg",
+    "load_number": "T-113R7954F",
+    "pickup_location": "STL8 St Charles, MO 63376",
+    "pickup_time": "Sat, Jan 20, 16:15 CST",
+    "dropoff_location": "MDW9 AURORA, IL 60502",
+    "dropoff_time": "Sun, Jan 21, 05:05 CST",
+    "total_rate": "$918,59",
+    "rate_per_mile": "$2.09/mi"
+  }
+  
+  
+]

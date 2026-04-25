@@ -1,0 +1,12 @@
+[
+  {
+    "split": "val",
+    "source_image": "9.jpg",
+    "raw_output": "{\n  \"source_image\": \"9.jpg\",\n  \"load_number\": \"114F61LDK\",\n  \"pickup_location\": \"ELP1 EL PASO, Texas 79928\",\n  \"pickup_time\": \"Sun, Aug 18, 04:30 MDT\",\n  \"dropoff_location\": \"LBB5 LUBBOCK, Texas 79403\",\n  \"dropoff_time\": \"Sat, 17 Aug 04:30 Mountain\",\n  \"total_rate\": \"$1,281.19\",\n  \"rate_per_mile\": \"$3.69\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "19.jpg",
+    "error": "Server error '500 Internal Server Error' for url 'https://router.huggingface.co/v1/chat/completions' (Request ID: Root=1-69cba7ee-05bfd97d7b38537549355b0c;83719ec2-5d13-4aa5-bad2-bf6fa842efc7)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500\n\n{'code': 50001, 'message': 'Internal Error, please report to us.', 'type': '', 'param': None}"
+  }
+]

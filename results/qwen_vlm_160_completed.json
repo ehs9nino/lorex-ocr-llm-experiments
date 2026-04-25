@@ -1,0 +1,802 @@
+[
+  {
+    "split": "test",
+    "source_image": "137.jpg",
+    "error": "(Request ID: Root=1-69dcc743-448f13a34fe4a536288df6fe;f57311c3-8ff5-4dbb-9086-8cd04bf28919)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "test",
+    "source_image": "138.jpg",
+    "raw_output": "{\n  \"source_image\": \"138.jpg\",\n  \"load_number\": \"116MTTHW7\",\n  \"pickup_location\": \"BTR1 Baton Rouge, LA 70201\",\n  \"pickup_time\": \"Mon, Sep 29, 02:15 CDT\",\n  \"dropoff_location\": \"MOB5 Theodore, AL 36580\",\n  \"dropoff_time\": \"Mon, Sep 29, 06:35 CDT\",\n  \"total_rate\": \"$634.16\",\n  \"rate_per_mile\": \"$3.46/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "139.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"139.jpg\",\n  \"load_number\": \"11384WM5P\",\n  \"pickup_location\": \"IND9 GREENWOOD, IN 46143\",\n  \"pickup_time\": \"Mon, Sep 29, 16:30 EDT\",\n  \"dropoff_location\": \"ORD5 MATTESON, IL 60443\",\n  \"dropoff_time\": \"Mon, Sep 29, 20:26 CDT\",\n  \"total_rate\": \"$297.02\",\n  \"rate_per_mile\": \"$1.60/mi\"\n}\n```"
+  },
+  {
+    "split": "test",
+    "source_image": "140.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"140.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"MQJ9 Franklin, IN 46131\",\n  \"pickup_time\": \"Mon, Sep 29, 04:00 EDT\",\n  \"dropoff_location\": \"MSP8 WOODBURY, MN 55129\",\n  \"dropoff_time\": \"Mon, Sep 29, 15:17 CDT\",\n  \"total_rate\": \"$2,500\",\n  \"rate_per_mile\": \"$4.10/mi\"\n}\n```"
+  },
+  {
+    "split": "test",
+    "source_image": "141.jpg",
+    "raw_output": "{\n  \"source_image\": \"141.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"NORTH EAST, MDW5, MD\",\n  \"pickup_time\": \"Mon, Sep 29, 05:00 EDT\",\n  \"dropoff_location\": \"LEWISBERRY, PA 17339\",\n  \"dropoff_time\": \"Mon, Sep 29, 10:35 EDT\",\n  \"total_rate\": \"$399.54\",\n  \"rate_per_mile\": \"$3.97/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "142.jpg",
+    "raw_output": "{\n  \"source_image\": \"1162342LK\",\n  \"load_number\": null,\n  \"pickup_location\": \"DEN3 Thornton, CO 80023\",\n  \"pickup_time\": \"Sun, Sep 28, 20:45 MDT\",\n  \"dropoff_location\": \"MCI9 LIBERTY, MO 64068\",\n  \"dropoff_time\": \"Mon, Sep 29, 10:04 CDT\",\n  \"total_rate\": \"$1,900.54\",\n  \"rate_per_mile\": \"$2.98/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "143.jpg",
+    "raw_output": "{\n  \"source_image\": \"143.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"HOU7 Houston, TX 77064\",\n  \"pickup_time\": \"Mon, Sep 29, 03:15 CDT\",\n  \"dropoff_location\": \"MOB5 THEODORE, AL 36582\",\n  \"dropoff_time\": \"Tue, Sep 30, 02:10 CDT\",\n  \"total_rate\": \"$813.77\",\n  \"rate_per_mile\": \"$1.60/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "144.jpg",
+    "raw_output": "{\n  \"source_image\": \"144.jpg\",\n  \"load_number\": \"T-1165BTKTZ\",\n  \"pickup_location\": \"MEM1 Memphis, TN 38118\",\n  \"pickup_time\": \"Mon, Sep 29, 04:47 CDT\",\n  \"dropoff_location\": \"RDU4 Fayetteville, NC 28303\",\n  \"dropoff_time\": \"Tue, Sep 30, 09:00 EDT\",\n  \"total_rate\": \"$1,442.93\",\n  \"rate_per_mile\": \"$1.88/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "145.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"145.jpg\",\n  \"load_number\": \"1168FPZ2M\",\n  \"pickup_location\": \"IUSF Dallas, TX 75241\",\n  \"pickup_time\": \"Sun, Sep 28, 10:00 CDT\",\n  \"dropoff_location\": \"IUST Greencastle, PA 17225\",\n  \"dropoff_time\": \"Tue, Sep 30, 14:30 EDT\",\n  \"total_rate\": \"$2,700\",\n  \"rate_per_mile\": \"$2.04/mi\"\n}\n```"
+  },
+  {
+    "split": "test",
+    "source_image": "146.jpg",
+    "raw_output": "{\n  \"source_image\": \"146.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"CLE3 Euclid, OH 44132\",\n  \"pickup_time\": \"Sun, Sep 28, 22:00 EDT\",\n  \"dropoff_location\": \"PHL7 MIDDLETOWN, DE 19709\",\n  \"dropoff_time\": \"Mon, Sep 29, 07:45 EDT\",\n  \"total_rate\": \"$806.91\",\n  \"rate_per_mile\": \"$1.81/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "147.jpg",
+    "raw_output": "{\n  \"source_image\": \"147.jpg\",\n  \"load_number\": \"116TDDVRC\",\n  \"pickup_location\": \"116TLQD2C_ITR Old Pascagoula Rd, AL 36582\",\n  \"pickup_time\": \"04:00 CDT\",\n  \"dropoff_location\": \"BTR1 Baton Rouge, LA 70815\",\n  \"dropoff_time\": \"09:27 CDT\",\n  \"total_rate\": \"$802,21\",\n  \"rate_per_mile\": \"$4.30/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "148.jpg",
+    "raw_output": "{\n  \"source_image\": \"148.jpg\",\n  \"load_number\": \"T-116FCY213\",\n  \"pickup_location\": \"MEM6 OLIVE BRANCH, MS 38654\",\n  \"pickup_time\": \"Sun, Sep 28, 13:00 CDT\",\n  \"dropoff_location\": \"MQJ2 WHITELAND, IN 46184\",\n  \"dropoff_time\": \"Mon, Sep 29, 02:47 EDT\",\n  \"total_rate\": \"$969,01\",\n  \"rate_per_mile\": \"$2.00/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "149.jpg",
+    "raw_output": "{\n  \"source_image\": \"149.jpg\",\n  \"load_number\": \"111833VCY\",\n  \"pickup_location\": \"ROC5 ROCHESTER, New York 14...\",\n  \"pickup_time\": \"Sun, Sep 28, 06:00 EDT\",\n  \"dropoff_location\": \"CLE3 Euclid, OH 44132\",\n  \"dropoff_time\": \"Sun, Sep 28, 12:12 EDT\",\n  \"total_rate\": \"$374.79\",\n  \"rate_per_mile\": \"$1.55/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "150.jpg",
+    "error": "(Request ID: Root=1-69dcc745-45050e30137a7aa871829f5a;fafe878f-9d47-4ef3-8ccf-2acd6e186898)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "test",
+    "source_image": "151.jpg",
+    "raw_output": "{\n  \"source_image\": \"115VP7Z6D\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"XIN4 INDIANAPOLIS, Indiana 4...\",\n  \"pickup_time\": \"Sun, Sep 28, 12:00 EDT\",\n  \"dropoff_location\": \"TEB9 Somerset, NJ 08873\",\n  \"dropoff_time\": \"Mon, Sep 29, 13:00 EDT\",\n  \"total_rate\": \"$1 227,39\",\n  \"rate_per_mile\": \"$1.70/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "152.jpg",
+    "raw_output": "{\n  \"source_image\": \"152.jpg\",\n  \"load_number\": \"11147RR7K\",\n  \"pickup_location\": \"JAN1 CANTON, MS 39046\",\n  \"pickup_time\": \"Fri, Sep 26, 02:30 CDT\",\n  \"dropoff_location\": \"BNA8 Lebanon, TN 37909\",\n  \"dropoff_time\": \"Fri, Sep 26, 10:54 CDT\",\n  \"total_rate\": \"$970\",\n  \"rate_per_mile\": \"$2.27/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "153.jpg",
+    "error": "(Request ID: Root=1-69dcc748-61db67306c3fdb0505800ea3;eafdcca3-0f65-4828-bb03-fb17964b7acd)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "test",
+    "source_image": "154.jpg",
+    "raw_output": "{\n  \"source_image\": \"115P4ZZ1V\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"FSD1 Sioux Falls, SD 57107\",\n  \"pickup_time\": \"Fri, Sep 26, 04:30 CDT\",\n  \"dropoff_location\": \"DENS AURORA, CO 80011\",\n  \"dropoff_time\": \"Fri, Sep 26, 17:01 MDT\",\n  \"total_rate\": \"$2,255.04\",\n  \"rate_per_mile\": \"$3.13/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "155.jpg",
+    "error": "(Request ID: Root=1-69dcc74a-594c9e6a7998ad9a4e2202ee;13fb1536-b0d0-45b0-b81d-8eadd0d48ab0)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "test",
+    "source_image": "156.jpg",
+    "raw_output": "{\n  \"source_image\": \"156.jpg\",\n  \"load_number\": \"114LLJKM1\",\n  \"pickup_location\": \"SHV1 Shreveport, LA 71107\",\n  \"pickup_time\": \"Thu, Sep 25, 22:13 CDT\",\n  \"dropoff_location\": \"LIT1 LITTLE ROCK, AR 72206\",\n  \"dropoff_time\": \"Fri, Sep 26, 02:46 CDT\",\n  \"total_rate\": \"$483.73\",\n  \"rate_per_mile\": \"$2.26/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "157.jpg",
+    "raw_output": "{\n  \"source_image\": \"T-11449VS3G\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"TUL2 Tulsa, OK 74116\",\n  \"pickup_time\": \"Fri, Sep 26, 07:42 CDT\",\n  \"dropoff_location\": \"CVG9 Hebron, KY 41048\",\n  \"dropoff_time\": \"Sat, Sep 27, 00:04 EDT\",\n  \"total_rate\": \"$1,268.45\",\n  \"rate_per_mile\": \"$1.68/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "158.jpg",
+    "raw_output": "{\n  \"source_image\": \"158.jpg\",\n  \"load_number\": \"114CZVQT6\",\n  \"pickup_location\": \"SAT6 1346 Fortuna Road SAN MARCOS, Texas 78666\",\n  \"pickup_time\": \"Sat, Jan 20, 13:41 CST\",\n  \"dropoff_location\": \"BNSF-ALLIANCE-MC HASLET, TX 76052\",\n  \"dropoff_time\": \"Sat, Jan 20, 21:11 CST\",\n  \"total_rate\": \"$618,73\",\n  \"rate_per_mile\": \"$2.67/mi\"\n}"
+  },
+  {
+    "split": "test",
+    "source_image": "159.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"159.jpg\",\n  \"load_number\": \"T-11398DWRQ\",\n  \"pickup_location\": \"SAT2 San Marcos, TX 78666\",\n  \"pickup_time\": \"Sat, Jan 20, 18:15 CST\",\n  \"dropoff_location\": \"STL3 Republic, Missouri 65738\",\n  \"dropoff_time\": \"Sun, Jan 21, 23:06 CST\",\n  \"total_rate\": \"$1,336,74\",\n  \"rate_per_mile\": \"$1.86/mi\"\n}\n```"
+  },
+  {
+    "split": "test",
+    "source_image": "160.jpg",
+    "raw_output": "{\n  \"source_image\": \"160.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"STL8 St Charles, MO 63376\",\n  \"pickup_time\": \"Sat, Jan 20, 16:15 CST\",\n  \"dropoff_location\": \"MDW9 AURORA, IL 60502\",\n  \"dropoff_time\": \"Sun, Jan 21, 05:05 CST\",\n  \"total_rate\": \"$918,59\",\n  \"rate_per_mile\": \"$2.09/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "17.jpg",
+    "raw_output": "{\n  \"source_image\": \"113TC2VC1\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"MDW7 MONEE, ILLINOIS 60449\",\n  \"pickup_time\": \"Thu, May 9, 11:00 CDT\",\n  \"dropoff_location\": \"OMA2 OMAHA, Nebraska 68138\",\n  \"dropoff_time\": \"Thu, May 9, 21:30 CDT\",\n  \"total_rate\": \"$769,64\",\n  \"rate_per_mile\": \"$1.60/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "18.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"18.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"OAK5 NEWARK, California 94560\",\n  \"pickup_time\": \"Thu, May 9, 01:45 PDT\",\n  \"dropoff_location\": \"AZAS PHOENIX, Arizona 85043\",\n  \"dropoff_time\": \"Thu, May 9, 16:44 MST\",\n  \"total_rate\": \"$1,435,828\",\n  \"rate_per_mile\": \"$2.00/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "19.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"19.png\",\n  \"load_number\": \"1118BVHHK\",\n  \"pickup_location\": \"TUS2 TUCSON, Arizona 85756\",\n  \"pickup_time\": \"Wed, May 8, 03:45 MST\",\n  \"dropoff_location\": \"TCY9 OAKLEY, California 94561\",\n  \"dropoff_time\": \"Wed, May 8, 22:46 PDT\",\n  \"total_rate\": \"$1 675,52\",\n  \"rate_per_mile\": \"$1.92/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "20.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"20.png\",\n  \"load_number\": null,\n  \"pickup_location\": \"MC05 | 305 Deen Still Rd DAVENPORT, FLORIDA 33897\",\n  \"pickup_time\": \"Wed, May 1, 00:13 EDT\",\n  \"dropoff_location\": \"MEM2 | 191 NORFOLK SOUTHERN WAY BYHALIA, Mississippi 38611\",\n  \"dropoff_time\": \"Thu, May 2, 00:38 CDT\",\n  \"total_rate\": \"$974,04\",\n  \"rate_per_mile\": \"$1.31/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "21.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"21.png\",\n  \"load_number\": \"115KYJTQM\",\n  \"pickup_location\": \"6735 Trippel Rd, THEODORE, AL 36582\",\n  \"pickup_time\": \"Sun, Dec 17, 20:25 CST\",\n  \"dropoff_location\": \"219 MADISON COUNTY PKWY, CANTON, Mississippi 39046\",\n  \"dropoff_time\": \"Mon, Dec 18, 01:33 CST\",\n  \"total_rate\": \"$488,22\",\n  \"rate_per_mile\": \"$2.26/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "22.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"22.jpg\",\n  \"load_number\": \"111YH4536\",\n  \"pickup_location\": \"BOS5 STOUGHTON, MASSACH...\",\n  \"pickup_time\": \"Wed, Dec 13, 05:00 EST\",\n  \"dropoff_location\": \"MTN2 ABERDEEN, Maryland 2...\",\n  \"dropoff_time\": \"Wed, Dec 13, 14:08 EST\",\n  \"total_rate\": \"$1 300\",\n  \"rate_per_mile\": \"$3.34/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "23.png",
+    "error": "(Request ID: Root=1-69dcc71a-58552f865441f2f761619699;5b3ceac5-c21b-4fd5-9680-2d6e540f4865)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "24.png",
+    "raw_output": "{\n  \"source_image\": \"24.png\",\n  \"load_number\": \"11451645R\",\n  \"pickup_location\": \"FOE1 KANSAS CITY, Kansas 66109\",\n  \"pickup_time\": \"00:45 CST\",\n  \"dropoff_location\": \"MKES KENOSHA, WISCONSIN 53144\",\n  \"dropoff_time\": \"11:53 CST\",\n  \"total_rate\": \"$1 621,25\",\n  \"rate_per_mile\": \"$2,87/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "25.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"25.png\",\n  \"load_number\": \"T-11348Z9N9\",\n  \"pickup_location\": \"GRR1 CALEDONIA, MI 49316\",\n  \"pickup_time\": \"Sun, Dec 3, 08:50 EST\",\n  \"dropoff_location\": \"KILN\",\n  \"dropoff_time\": \"Sun, Dec 3, 12:53 EST\",\n  \"total_rate\": \"$2,300\",\n  \"rate_per_mile\": \"$5.03/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "26.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"111813DCK.png\",\n  \"load_number\": \"111813DCK\",\n  \"pickup_location\": \"BHM1 BESSEMER, Alabama 35022\",\n  \"pickup_time\": \"Mon, Dec 18, 02:05 CST\",\n  \"dropoff_location\": \"AGS1 APPLING, Georgia 30802\",\n  \"dropoff_time\": \"Mon, Dec 18, 10:28 EST\",\n  \"total_rate\": \"$1,015,78\",\n  \"rate_per_mile\": \"$3.36/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "27.png",
+    "error": "(Request ID: Root=1-69dcc71d-3a01094a671a19040eabb3df;51186494-52c4-48b6-ae11-af5612a7ce79)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "28.png",
+    "raw_output": "{\n  \"source_image\": \"28.png\",\n  \"load_number\": \"1169NLR3F\",\n  \"pickup_location\": \"BHM1 BESSEMER, Alabama 35022\",\n  \"pickup_time\": \"Mon, Dec 18, 01:00 CST\",\n  \"dropoff_location\": \"MIA2 OPA LOCKA, Florida 33054\",\n  \"dropoff_time\": \"Mon, Dec 18, 19:46 EST\",\n  \"total_rate\": \"$2,700\",\n  \"rate_per_mile\": \"$3.34/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "29.png",
+    "error": "(Request ID: Root=1-69dcc720-265adeee574797d06d89a3f1;4c9753f7-d8fb-4648-8524-0c1e58213a4c)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "30.jpg",
+    "raw_output": "{\n  \"source_image\": \"30.jpg\",\n  \"load_number\": \"1135BVFGV\",\n  \"pickup_location\": \"DLT6 KERNERSVILLE, North Carolina\",\n  \"pickup_time\": \"Sat, Dec 9, 14:00 EST\",\n  \"dropoff_location\": \"CLT4 CHARLOTTE, North Carolina\",\n  \"dropoff_time\": \"Sat, Dec 9, 16:45 EST\",\n  \"total_rate\": \"$320\",\n  \"rate_per_mile\": \"$3.24/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "31.png",
+    "error": "(Request ID: Root=1-69dcc723-4c53c6807fde671935317e88;73e50096-ab2d-4ef2-a645-fc9d8ccbd1be)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "32.jpg",
+    "raw_output": "{\n  \"source_image\": \"115CCBBR6\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"IGQ1 Harvey, Illinois 60428\",\n  \"pickup_time\": \"Sat, Dec 9, 21:14 CST\",\n  \"dropoff_location\": \"MQ5 PLAINFIELD, Indiana 4\",\n  \"dropoff_time\": \"Sun, Dec 10, 02:46 EST\",\n  \"total_rate\": \"$588,164\",\n  \"rate_per_mile\": \"$3.45/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "33.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"33.jpg\",\n  \"load_number\": 1115B4MX3,\n  \"pickup_location\": \"MEM8 BYHALIA, Mississippi 38611\",\n  \"pickup_time\": \"Sun, Dec 3, 08:33 CST\",\n  \"dropoff_location\": \"LIT2 NORTH LITTLE ROCK, Arkansas 72201\",\n  \"dropoff_time\": \"Sun, Dec 3, 12:26 CST\",\n  \"total_rate\": \"$391,205\",\n  \"rate_per_mile\": \"$2.42/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "34.png",
+    "error": "(Request ID: Root=1-69dcc726-72992e3d0e05a8a36f195e71;acffcb02-eb7d-4840-ab6b-3398360bc93b)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "35.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"35.png\",\n  \"load_number\": \"115PLLQ21\",\n  \"pickup_location\": \"ALBUQUERQUE, New Mexico 87120\",\n  \"pickup_time\": \"Sun, Dec 3, 03:15 MST\",\n  \"dropoff_location\": \"Humble, Texas 77338\",\n  \"dropoff_time\": \"Sun, Dec 3, 22:40 CST\",\n  \"total_rate\": \"$4 800\",\n  \"rate_per_mile\": \"$5.42/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "36.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"36.png\",\n  \"load_number\": \"114L93JXD\",\n  \"pickup_location\": \"HFDS Manchester, Connecticut\",\n  \"pickup_time\": \"Mon, Dec 18, 08:00 EST\",\n  \"dropoff_location\": \"SYR1 LIVERPOOL, New York\",\n  \"dropoff_time\": \"Mon, Dec 18, 14:30 EST\",\n  \"total_rate\": \"$774,85%\",\n  \"rate_per_mile\": \"$2.43/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "37.png",
+    "raw_output": "{\n  \"source_image\": \"37.png\",\n  \"load_number\": null,\n  \"pickup_location\": \"RDU1 GARNER, North Carolina 27529\",\n  \"pickup_time\": \"Tue, Dec 5, 12:00 EST\",\n  \"dropoff_location\": \"ACY9 LOGAN TOWNSHIP, New Jersey 08085\",\n  \"dropoff_time\": \"Tue, Dec 5, 21:36 EST\",\n  \"total_rate\": \"$1,246,82\",\n  \"rate_per_mile\": \"$3.16/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "38.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"38.png\",\n  \"load_number\": \"112QPPPDL\",\n  \"pickup_location\": \"RBD5 DFW AIRPORT, TEXAS 75261\",\n  \"pickup_time\": \"Tue, Dec 5, 13:45 CST\",\n  \"dropoff_location\": \"MDW5 CREST HILL, ILLINOIS 60403\",\n  \"dropoff_time\": \"Wed, Dec 6, 08:46 CST\",\n  \"total_rate\": \"$2,146,59\",\n  \"rate_per_mile\": \"$2.34/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "39.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"39.png\",\n  \"load_number\": \"112NH7KXZ\",\n  \"pickup_location\": \"DDV3 BROOMFIELD, Colorado 80023\",\n  \"pickup_time\": \"Sun, Dec 3, 02:01 MST\",\n  \"dropoff_location\": \"DEN4 COLORADO SPRINGS, Colorado 80916\",\n  \"dropoff_time\": \"Sun, Dec 3, 04:58 MST\",\n  \"total_rate\": \"$328,92\",\n  \"rate_per_mile\": \"$3.27/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "40.jpg",
+    "raw_output": "{\n  \"source_image\": \"40.jpg\",\n  \"load_number\": \"1118G1MWR\",\n  \"pickup_location\": \"SDF8 900 Patrol Rd JEFFERSONVILLE, IN 47130\",\n  \"pickup_time\": \"Mon, Dec 18, 12:35 EST\",\n  \"dropoff_location\": \"GSP1 402 John Dodd Rd. SPARTANBURG, SC 29303\",\n  \"dropoff_time\": \"Mon, Dec 18, 21:20 EST\",\n  \"total_rate\": \"$881.369\",\n  \"rate_per_mile\": \"$2.12/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "41.jpg",
+    "raw_output": "{\n  \"source_image\": \"41.jpg\",\n  \"load_number\": \"T-114FJW26Z\",\n  \"pickup_location\": \"CLT5 Concord, NC 28027\",\n  \"pickup_time\": \"Mon, Sep 29, 23:30 EDT\",\n  \"dropoff_location\": \"BHM1 Bessemer, AL 35022\",\n  \"dropoff_time\": \"Tue, Sep 30, 08:58 CDT\",\n  \"total_rate\": \"$912.11\",\n  \"rate_per_mile\": \"$2.14/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "42.png",
+    "raw_output": "{\n  \"source_image\": \"42.png\",\n  \"load_number\": null,\n  \"pickup_location\": \"LEX1\",\n  \"pickup_time\": \"18 Dec, 08:08 EST\",\n  \"dropoff_location\": \"CMH4\",\n  \"dropoff_time\": \"18 Dec, 13:00 EST\",\n  \"total_rate\": \"$433.3\",\n  \"rate_per_mile\": \"$2.40/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "43.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"43.png\",\n  \"load_number\": null,\n  \"pickup_location\": \"KAFW Haslet, TX 76177\",\n  \"pickup_time\": \"Sun, Dec 3, 01:45 CST\",\n  \"dropoff_location\": \"TULS TULSA, Oklahoma 74116\",\n  \"dropoff_time\": \"Sun, Dec 3, 09:36 CST\",\n  \"total_rate\": \"$1 199\",\n  \"rate_per_mile\": \"$4.03/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "44.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"44.png\",\n  \"load_number\": \"112ZP8W58\",\n  \"pickup_location\": \"116B7G1BR_ITR Anna, TX 75409\",\n  \"pickup_time\": \"Sun, Dec 3, 06:20 CST\",\n  \"dropoff_location\": \"NLD9 Laredo, Texas 78045\",\n  \"dropoff_time\": \"Sun, Dec 3, 15:58 CST\",\n  \"total_rate\": \"$2,200\",\n  \"rate_per_mile\": \"$4.66/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "45.jpg",
+    "raw_output": "{\n  \"source_image\": \"116CQYNYB\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"CMH1 ETNA, OH 43062\",\n  \"pickup_time\": \"Mon, Dec 18, 17:00 EST\",\n  \"dropoff_location\": \"LGA5 EDISON, NJ 08817\",\n  \"dropoff_time\": \"Tue, Dec 19, 03:53 EST\",\n  \"total_rate\": \"$1,460.42\",\n  \"rate_per_mile\": \"$2.68/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "46.png",
+    "error": "(Request ID: Root=1-69dcc729-1f70e4812746dedb69b548e2;90548f0e-87d6-44aa-a083-d9b027da3e64)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "47.png",
+    "raw_output": "{\n  \"source_image\": \"47.png\",\n  \"load_number\": null,\n  \"pickup_location\": \"2361 S WITHERS RD LIBERTY, Missouri 64068\",\n  \"pickup_time\": \"Sun, Dec 3, 01:45 CST\",\n  \"dropoff_location\": \"9186 VAN HORN DR DALLAS, Texas 75241\",\n  \"dropoff_time\": \"Sun, Dec 3, 12:53 CST\",\n  \"total_rate\": \"$2 200\",\n  \"rate_per_mile\": \"$4.20/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "48.png",
+    "error": "(Request ID: Root=1-69dcc72b-66d059d4244f871731cb5844;b07ba427-1103-4714-8525-69334beae5da)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "49.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"49.jpg\",\n  \"load_number\": \"112GRN9M2\",\n  \"pickup_location\": \"MDW7 MONEE, ILLINOIS 60449\",\n  \"pickup_time\": \"Mon, Dec 18, 17:15 CST\",\n  \"dropoff_location\": \"EWR8 TETERBORO, NJ 07608\",\n  \"dropoff_time\": \"Tue, Dec 19, 09:59 EST\",\n  \"total_rate\": \"$1,580.929\",\n  \"rate_per_mile\": \"$1.98/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "50.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"50.png\",\n  \"load_number\": null,\n  \"pickup_location\": \"EWR8 TETERBORO, NJ 07608\",\n  \"pickup_time\": \"Sun, Dec 3, 03:33 EST\",\n  \"dropoff_location\": \"MTN5 BALTIMORE, MD 21224\",\n  \"dropoff_time\": \"Sun, Dec 3, 08:17 EST\",\n  \"total_rate\": \"$753,17\",\n  \"rate_per_mile\": \"$3.89/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "51.jpg",
+    "raw_output": "{\n  \"source_image\": \"51.jpg\",\n  \"load_number\": \"1145YCLFX\",\n  \"pickup_location\": \"SAN3 6971 OTAY MESA RD SAN DIEGO, California 92154\",\n  \"pickup_time\": \"Mon, Dec 18, 13:45 PST\",\n  \"dropoff_location\": \"TCY9 4500 Wilbur Ave OAKLEY, California 94561\",\n  \"dropoff_time\": \"Tue, Dec 19, 01:40 PST\",\n  \"total_rate\": \"$1,296.55\",\n  \"rate_per_mile\": \"$2.50/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "52.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"52.png\",\n  \"load_number\": \"115H37CDK\",\n  \"pickup_location\": \"7001 Zeuber Road LITTLE ROCK, Arkansas 72206\",\n  \"pickup_time\": \"0h 28m\",\n  \"dropoff_location\": \"3550 NE EVANGELINE TRWY CARENCRO, Louisiana 70520\",\n  \"dropoff_time\": \"11h 02m\",\n  \"total_rate\": \"$156,65\",\n  \"rate_per_mile\": \"$2.33/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "53.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"1128CVV2G.png\",\n  \"load_number\": \"1128CVV2G\",\n  \"pickup_location\": \"KRIC RICHMOND, VA 23250\",\n  \"pickup_time\": \"Sun, Dec 3, 08:00 EST\",\n  \"dropoff_location\": \"RDU1 GARNER, North Carolina 27529\",\n  \"dropoff_time\": \"Sun, Dec 3, 12:00 EST\",\n  \"total_rate\": \"$850\",\n  \"rate_per_mile\": \"$4.96/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "54.png",
+    "raw_output": "{\n  \"source_image\": \"111SXVK22.png\",\n  \"load_number\": \"111SXVK22\",\n  \"pickup_location\": \"JAX5 JACKSONVILLE, FLORIDA 32219\",\n  \"pickup_time\": \"Sat, Dec 2, 10:13 EST\",\n  \"dropoff_location\": \"DAL2 DFW AIRPORT, Texas 75261\",\n  \"dropoff_time\": \"Sun, Dec 3, 13:56 CST\",\n  \"total_rate\": \"$1 562,22\",\n  \"rate_per_mile\": \"$1.54/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "55.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"55.png\",\n  \"load_number\": null,\n  \"pickup_location\": \"CMHS WEST JEFFERSON, Ohio 43162\",\n  \"pickup_time\": \"Mon, Dec 18, 15:33 EST\",\n  \"dropoff_location\": \"DTW1 ROMULUS, MICHIGAN 48174\",\n  \"dropoff_time\": \"Mon, Dec 18, 20:24 EST\",\n  \"total_rate\": \"$376,47\",\n  \"rate_per_mile\": \"$2.04/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "56.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"112RC73KM.png\",\n  \"load_number\": \"112RC73KM\",\n  \"pickup_location\": \"AGS1 APPLING, Georgia 30802\",\n  \"pickup_time\": \"Mon, Dec 18, 22:15 EST\",\n  \"dropoff_location\": \"AGS2 PENDERGRASS, Georgia 30567\",\n  \"dropoff_time\": \"Tue, Dec 19, 01:45 EST\",\n  \"total_rate\": \"$302.98\",\n  \"rate_per_mile\": \"$2.85/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "57.png",
+    "raw_output": "```json\n{\n  \"source_image\": \"57.png\",\n  \"load_number\": \"11189DQD1\",\n  \"pickup_location\": \"BW15 BALTIMORE, MARYLAND 21224\",\n  \"pickup_time\": \"Thu, Dec 7, 19:00 EST\",\n  \"dropoff_location\": \"TY55 Maryville, TN 37801\",\n  \"dropoff_time\": \"Fri, Dec 8, 06:31 EST\",\n  \"total_rate\": \"$1,028\",\n  \"rate_per_mile\": \"$1.88/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "58.jpg",
+    "raw_output": "{\n  \"source_image\": \"58.jpg\",\n  \"load_number\": \"114N44MC7\",\n  \"pickup_location\": \"AUS3 2000 EXCHANGE PARKWAY WACO, Texas 76712\",\n  \"pickup_time\": \"Tue, Dec 19, 03:45 CST\",\n  \"dropoff_location\": \"FTW6 2601 W Bethel Road Dallas, TX 75261\",\n  \"dropoff_time\": \"Tue, Dec 19, 06:57 CST\",\n  \"total_rate\": \"$244.475\",\n  \"rate_per_mile\": \"$2.03/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "59.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"59.jpg\",\n  \"load_number\": \"T-115MLCLS3\",\n  \"pickup_location\": \"HOU2 HOUSTON, TEXAS 77038\",\n  \"pickup_time\": \"Sat, Jan 20, 11:49 CST\",\n  \"dropoff_location\": \"BNA8 LEBANON, Tennessee 37090\",\n  \"dropoff_time\": \"Sun, Jan 21, 07:02 CST\",\n  \"total_rate\": \"$1 475,73\",\n  \"rate_per_mile\": \"$1.71/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "60.png",
+    "raw_output": "{\n  \"source_image\": \"60.png\",\n  \"load_number\": \"1161M5F95\",\n  \"pickup_location\": \"PIT9 Imperial, Pennsylvania 15126\",\n  \"pickup_time\": \"Sat, May 4, 12:30 EDT\",\n  \"dropoff_location\": \"RIC4 RICHMOND, Virginia 23227\",\n  \"dropoff_time\": \"Sat, May 4, 14:30 EDT\",\n  \"total_rate\": \"$1 071,62\",\n  \"rate_per_mile\": \"$3.07/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "61.jpg",
+    "error": "(Request ID: Root=1-69dcc72e-5fc5fb633befc3734bace928;b7ab53e2-1ba0-48cd-9b9a-e8f2e38e6eb6)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "62.png",
+    "raw_output": "{\n  \"source_image\": \"62.png\",\n  \"load_number\": \"1118BVHHK\",\n  \"pickup_location\": \"6701 S KOLB RD TUCSON, Arizona 85756\",\n  \"pickup_time\": \"Sch. 8 May, 03:45 MST\",\n  \"dropoff_location\": \"4500 Wilbur Ave OAKLEY, California 94561\",\n  \"dropoff_time\": \"Sch. 8 May, 22:46 PDT\",\n  \"total_rate\": \"$1 675,52\",\n  \"rate_per_mile\": \"$1.92/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "63.jpg",
+    "raw_output": "{\n  \"source_image\": \"63.jpg\",\n  \"load_number\": \"112HMZ4M1\",\n  \"pickup_location\": \"MTN1 WILMINGTON, Delaware 19804\",\n  \"pickup_time\": \"Wed, May 8, 13:15 EDT\",\n  \"dropoff_location\": \"CLT9 CHARLOTTE, NC 28214\",\n  \"dropoff_time\": \"Thu, May 9, 01:27 EDT\",\n  \"total_rate\": \"$877.43\",\n  \"rate_per_mile\": \"$1.69/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "64.jpg",
+    "error": "(Request ID: Root=1-69dcc731-15a9c52336ff27d80d8fe119;8619fd4c-fa1f-433d-b6f9-3f07c1dc87f7)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "65.jpg",
+    "raw_output": "{\n  \"source_image\": \"113TC2VC1\",\n  \"load_number\": \"113TC2VC1\",\n  \"pickup_location\": \"MDW7 MONEE, ILLINOIS 60449\",\n  \"pickup_time\": \"Thu, May 9, 11:00 CDT\",\n  \"dropoff_location\": \"OMA2 OMAHA, Nebraska 68138\",\n  \"dropoff_time\": \"Thu, May 9, 21:30 CDT\",\n  \"total_rate\": \"$769,64\",\n  \"rate_per_mile\": \"$1.60/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "66.jpg",
+    "raw_output": "{\n  \"source_image\": \"1154W7Q5J\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"HOU5 Katy, TX 77449\",\n  \"pickup_time\": \"Tue, Oct 7, 13:30 CDT\",\n  \"dropoff_location\": \"MKE5 KENOSHA, WI 53144\",\n  \"dropoff_time\": \"Wed, Oct 8, 13:11 CDT\",\n  \"total_rate\": \"$1,947.25\",\n  \"rate_per_mile\": \"$1.68/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "67.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"67.jpg\",\n  \"load_number\": \"11162NHJK\",\n  \"pickup_location\": \"SBN1 BRISTOL, Indiana 46507\",\n  \"pickup_time\": \"Tue, Oct 7, 12:45 EDT\",\n  \"dropoff_location\": \"MC15 LENEXA, KS 66219\",\n  \"dropoff_time\": \"Wed, Oct 8, 00:56 CDT\",\n  \"total_rate\": \"$1,716.72\",\n  \"rate_per_mile\": \"$2.78/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "68.jpg",
+    "raw_output": "{\n  \"source_image\": \"1161HDS18\",\n  \"load_number\": \"1161HDS18\",\n  \"pickup_location\": \"RDU1 GARNER, NC 27529\",\n  \"pickup_time\": \"Tue, Oct 7, 13:15 EDT\",\n  \"dropoff_location\": \"MGE9 Union City, GA 30291\",\n  \"dropoff_time\": \"Tue, Oct 7, 22:25 EDT\",\n  \"total_rate\": \"$683,47\",\n  \"rate_per_mile\": \"$1.58/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "69.jpg",
+    "raw_output": "{\n  \"source_image\": \"69.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"SHV1 Shreveport, LA 71107\",\n  \"pickup_time\": \"Tue, Oct 7, 11:30 CDT\",\n  \"dropoff_location\": \"MGEY Union City, GA 30291\",\n  \"dropoff_time\": \"Wed, Oct 8, 00:14 EDT\",\n  \"total_rate\": \"$1,004.98\",\n  \"rate_per_mile\": \"$1.68/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "70.jpg",
+    "raw_output": "{\n  \"source_image\": \"70.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"ELS TWINSBURG, OH 44087\",\n  \"pickup_time\": \"Tue, Oct 7, 08:57 EDT\",\n  \"dropoff_location\": \"HSV1 MADISON, AL 35756\",\n  \"dropoff_time\": \"Thu, Oct 9, 05:30 CDT\",\n  \"total_rate\": \"$1,784.89\",\n  \"rate_per_mile\": \"$2.76/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "71.jpg",
+    "raw_output": "{\n  \"source_image\": \"71.jpg\",\n  \"load_number\": \"114Y8SBJH\",\n  \"pickup_location\": \"CVG9 Hebron, KY 41048\",\n  \"pickup_time\": \"Tue, Oct 7, 12:15 EDT\",\n  \"dropoff_location\": \"DAL9 WILMER, TX 75172\",\n  \"dropoff_time\": \"Wed, Oct 8, 07:07 CDT\",\n  \"total_rate\": \"$1,930.14\",\n  \"rate_per_mile\": \"$2.06/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "72.jpg",
+    "error": "(Request ID: Root=1-69dcc733-5f2cee984a424e831711d5a0;0b9662c3-24ab-4f5d-8a1e-82587a34257a)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "73.jpg",
+    "raw_output": "{\n  \"source_image\": \"73.jpg\",\n  \"load_number\": \"T-116BC9R3D\",\n  \"pickup_location\": \"RDU4 Fayetteville, NC 28303\",\n  \"pickup_time\": \"Tue, Oct 7, 08:00 EDT\",\n  \"dropoff_location\": \"HDC3 BETHEL, Pennsylvania\",\n  \"dropoff_time\": \"Wed, Oct 8, 06:01 EDT\",\n  \"total_rate\": \"$882.34\",\n  \"rate_per_mile\": \"$1.76/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "74.jpg",
+    "raw_output": "{\n  \"source_image\": \"116GGB4F3\",\n  \"load_number\": null,\n  \"pickup_location\": \"RDU2 SMITHFIELD, NC 27577\",\n  \"pickup_time\": \"Tue, Oct 7, 10:00 EDT\",\n  \"dropoff_location\": \"TY5 Maryville, TN 37801\",\n  \"dropoff_time\": \"Tue, Oct 7, 18:56 EDT\",\n  \"total_rate\": \"$667.76\",\n  \"rate_per_mile\": \"$1.65/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "75.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"75.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"MQY1 MOUNT JULIET, TN 37122\",\n  \"pickup_time\": \"Tue, Oct 7, 05:27 CDT\",\n  \"dropoff_location\": \"JAN1 CANTON, MS 39046\",\n  \"dropoff_time\": \"Wed, Oct 8, 05:38 CDT\",\n  \"total_rate\": \"$1,445,12\",\n  \"rate_per_mile\": \"$2.08/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "76.jpg",
+    "raw_output": "{\n  \"source_image\": \"76.jpg\",\n  \"load_number\": \"113V1M8XH\",\n  \"pickup_location\": \"ICT2 Park City, KS 67219\",\n  \"pickup_time\": \"Mon, Oct 6, 22:00 CDT\",\n  \"dropoff_location\": \"FTW2 Coppell, TX 75019\",\n  \"dropoff_time\": \"Tue, Oct 7, 06:21 CDT\",\n  \"total_rate\": \"$1,268.36\",\n  \"rate_per_mile\": \"$3.53/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "77.jpg",
+    "raw_output": "{\n  \"source_image\": \"1118XKR4C.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"TY55 Maryville, TN 37801\",\n  \"pickup_time\": \"Mon, Oct 6, 23:30 EDT\",\n  \"dropoff_location\": \"MQY1 MOUNT JULIET, TN 3...\",\n  \"dropoff_time\": \"Tue, Oct 7, 02:24 CDT\",\n  \"total_rate\": \"$400\",\n  \"rate_per_mile\": \"$2.51/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "78.jpg",
+    "raw_output": "{\n  \"source_image\": \"78.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": null,\n  \"pickup_time\": null,\n  \"dropoff_location\": null,\n  \"dropoff_time\": null,\n  \"total_rate\": \"$159.24\",\n  \"rate_per_mile\": \"$15.39/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "79.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"79.jpg\",\n  \"load_number\": \"115CP3ZKN\",\n  \"pickup_location\": \"IGQ9 DEKALB, Illinois 60115\",\n  \"pickup_time\": \"Tue, Oct 7, 01:45 CDT\",\n  \"dropoff_location\": \"RBD5 DFW AIRPORT, TX 75261\",\n  \"dropoff_time\": \"Tue, Oct 7, 21:41 CDT\",\n  \"total_rate\": \"$4,000\",\n  \"rate_per_mile\": \"$4.28/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "80.jpg",
+    "raw_output": "{\n  \"source_image\": \"80.jpg\",\n  \"load_number\": \"1148TQ4FF\",\n  \"pickup_location\": \"KJFK JAMAICA, NY 11430\",\n  \"pickup_time\": \"Mon, Oct 6, 09:00 EDT\",\n  \"dropoff_location\": \"KILN WILMINGTON, OH 45177\",\n  \"dropoff_time\": \"Tue, Oct 7, 13:08 EDT\",\n  \"total_rate\": \"$1,450\",\n  \"rate_per_mile\": \"$2.24/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "81.jpg",
+    "raw_output": "{\n  \"source_image\": \"81.jpg\",\n  \"load_number\": \"T-1144WMYW5\",\n  \"pickup_location\": \"CLT3 Concord, NC 28027\",\n  \"pickup_time\": \"Mon, Oct 6, 09:30 EDT\",\n  \"dropoff_location\": \"CMH4 West Jefferson, OH 43162\",\n  \"dropoff_time\": \"Tue, Oct 7, 09:04 EDT\",\n  \"total_rate\": \"$958.24\",\n  \"rate_per_mile\": \"$1.58/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "82.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"82.jpg\",\n  \"load_number\": \"113FVTD9W\",\n  \"pickup_location\": \"IAH3 Houston, TX 77032\",\n  \"pickup_time\": \"Mon, Oct 6, 15:28 CDT\",\n  \"dropoff_location\": \"MSP1 Shakopee, MN 55379\",\n  \"dropoff_time\": \"Wed, Oct 8, 14:33 CDT\",\n  \"total_rate\": \"$1,969.39\",\n  \"rate_per_mile\": \"$1.70/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "83.jpg",
+    "raw_output": "{\n  \"source_image\": \"83.jpg\",\n  \"load_number\": \"T-116LTPL1K\",\n  \"pickup_location\": \"HIN2 WHITELAND, Indiana 46184\",\n  \"pickup_time\": \"Mon, Oct 6, 06:30 EDT\",\n  \"dropoff_location\": \"AVP1 HAZLETON, PA 18202\",\n  \"dropoff_time\": \"Mon, Oct 6, 18:00 EDT\",\n  \"total_rate\": \"$2,038.85\",\n  \"rate_per_mile\": \"$2.91/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "84.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"84.jpg\",\n  \"load_number\": \"T-1142N4LWH\",\n  \"pickup_location\": \"CLT2 CHARLOTTE, NC 28214\",\n  \"pickup_time\": \"Mon, Oct 6, 07:15 EDT\",\n  \"dropoff_location\": \"WBW2 Olyphant, PA 18447\",\n  \"dropoff_time\": \"Mon, Oct 6, 23:30 EDT\",\n  \"total_rate\": \"$1,336.83\",\n  \"rate_per_mile\": \"$1.81/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "85.jpg",
+    "raw_output": "{\n  \"source_image\": \"111RX42L7\",\n  \"load_number\": null,\n  \"pickup_location\": \"SDF1 CAMPBELLSVILLE, KY 42718\",\n  \"pickup_time\": \"Mon, Oct 6, 03:45 EDT\",\n  \"dropoff_location\": \"CLE5 TWINSBURG, OH 44087\",\n  \"dropoff_time\": \"Mon, Oct 6, 19:20 EDT\",\n  \"total_rate\": \"$2,800\",\n  \"rate_per_mile\": \"$5.27/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "86.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"11695Z3FF\",\n  \"load_number\": null,\n  \"pickup_location\": \"DIAS Ankeny, IA 50021\",\n  \"pickup_time\": \"Mon, Oct 6, 00:13 CDT\",\n  \"dropoff_location\": \"DSM5 Bondurant, IA 50035\",\n  \"dropoff_time\": \"Mon, Oct 6, 01:05 CDT\",\n  \"total_rate\": \"$124.24\",\n  \"rate_per_mile\": \"$12.01/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "87.jpg",
+    "raw_output": "{\n  \"source_image\": \"87.jpg\",\n  \"load_number\": \"114BPZ76H\",\n  \"pickup_location\": \"DSM9 Bondurant, IA 50035\",\n  \"pickup_time\": \"Mon, Oct 6, 05:00 CDT\",\n  \"dropoff_location\": \"DIA5 Ankeny, IA 50021\",\n  \"dropoff_time\": \"Mon, Oct 6, 06:02 CDT\",\n  \"total_rate\": \"$158.58\",\n  \"rate_per_mile\": \"$18.18/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "88.jpg",
+    "raw_output": "{\n  \"source_image\": \"112SHHVM8\",\n  \"load_number\": null,\n  \"pickup_location\": \"KRB2 Prince George, VA 23875\",\n  \"pickup_time\": \"Sun, Oct 5, 23:30 EDT\",\n  \"dropoff_location\": \"TYS1 Rockford, TN 37777\",\n  \"dropoff_time\": \"Mon, Oct 6, 11:35 EDT\",\n  \"total_rate\": \"$775.97\",\n  \"rate_per_mile\": \"$1.75/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "89.jpg",
+    "raw_output": "{\n  \"source_image\": \"89.jpg\",\n  \"load_number\": \"115DZGJ3G\",\n  \"pickup_location\": \"ICT2 Park City, KS 67219\",\n  \"pickup_time\": \"Sun, Oct 5, 23:00 CDT\",\n  \"dropoff_location\": \"DEN5 AURORA, CO 80011\",\n  \"dropoff_time\": \"Mon, Oct 6, 07:52 MDT\",\n  \"total_rate\": \"$898,59\",\n  \"rate_per_mile\": \"$1.81/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "90.jpg",
+    "raw_output": "{\n  \"source_image\": \"90.jpg\",\n  \"load_number\": \"111BJBZYB\",\n  \"pickup_location\": \"CHO1 Fishersville, VA 22939\",\n  \"pickup_time\": \"Sun, Oct 5, 10:34 EDT\",\n  \"dropoff_location\": \"SDF8 Jeffersonville, IN 47130\",\n  \"dropoff_time\": \"Sun, Oct 5, 20:39 EDT\",\n  \"total_rate\": \"$641.77\",\n  \"rate_per_mile\": \"$1.40/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "91.jpg",
+    "error": "(Request ID: Root=1-69dcc736-3fc68a557fc7d2644ef6aa27;c0f48308-eb10-431b-b48d-0f8bc4abd9e2)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "92.jpg",
+    "raw_output": "{\n  \"source_image\": \"116JRB516\",\n  \"load_number\": \"116JRB516\",\n  \"pickup_location\": \"ORF3 SUFFOLK, VA 23435\",\n  \"pickup_time\": \"Sun, Oct 5, 05:30 EDT\",\n  \"dropoff_location\": \"HFD5 Manchester, CT 06042\",\n  \"dropoff_time\": \"Sun, Oct 5, 18:46 EDT\",\n  \"total_rate\": \"$2 144,83\",\n  \"rate_per_mile\": \"$4.26/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "93.jpg",
+    "raw_output": "{\n  \"source_image\": \"116WCVPQH\",\n  \"load_number\": null,\n  \"pickup_location\": \"MEM2 BYHALIA, MS 38611\",\n  \"pickup_time\": \"Sun, Oct 5, 12:00 CDT\",\n  \"dropoff_location\": \"XMD4 Kenosha, WI 53142\",\n  \"dropoff_time\": \"Tue, Oct 7, 01:15 CDT\",\n  \"total_rate\": \"$918.64\",\n  \"rate_per_mile\": \"$1.47/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "94.jpg",
+    "raw_output": "{\n  \"source_image\": \"113DT1RQK\",\n  \"load_number\": null,\n  \"pickup_location\": \"MCO1 Orlando, FL 32824\",\n  \"pickup_time\": \"Sun, Oct 5, 05:30 EDT\",\n  \"dropoff_location\": \"DTP3 Land O Lakes, FL 34638\",\n  \"dropoff_time\": \"Sun, Oct 5, 08:24 EDT\",\n  \"total_rate\": \"$288,45\",\n  \"rate_per_mile\": \"$2.94/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "95.jpg",
+    "raw_output": "{\n  \"source_image\": \"95.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"MQJ1 GREENFIELD, IN 46140\",\n  \"pickup_time\": \"Sun, Oct 5, 18:58 EDT\",\n  \"dropoff_location\": \"MTN1 WILMINGTON, DE 19804\",\n  \"dropoff_time\": \"Mon, Oct 6, 19:42 EDT\",\n  \"total_rate\": \"$2,000.5\",\n  \"rate_per_mile\": \"$3.08/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "96.jpg",
+    "raw_output": "{\n  \"source_image\": \"96.jpg\",\n  \"load_number\": \"1123XC93W\",\n  \"pickup_location\": \"X15 Avon, Indiana 46123\",\n  \"pickup_time\": \"Sun, Oct 5, 05:02 EDT\",\n  \"dropoff_location\": \"CVG9 Hebron, KY 41048\",\n  \"dropoff_time\": \"Sun, Oct 5, 08:17 EDT\",\n  \"total_rate\": \"$243.03\",\n  \"rate_per_mile\": \"$1.95/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "97.jpg",
+    "raw_output": "{\n  \"source_image\": \"97.jpg\",\n  \"load_number\": \"T-1126LPJ5Q\",\n  \"pickup_location\": \"DAL2 Dallas, TX 75261\",\n  \"pickup_time\": \"Sun, Oct 5, 13:45 CDT\",\n  \"dropoff_location\": \"HOU6 Richmond, TX 77407\",\n  \"dropoff_time\": \"Sun, Oct 5, 23:28 CDT\",\n  \"total_rate\": \"$715.37\",\n  \"rate_per_mile\": \"$1.92/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "98.jpg",
+    "raw_output": "{\n  \"source_image\": \"98.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"CVG5 Hebron, KY 41048\",\n  \"pickup_time\": \"Sun, Oct 5, 09:49 EDT\",\n  \"dropoff_location\": \"HOU5 Katy, TX 77449\",\n  \"dropoff_time\": \"Mon, Oct 6, 08:21 CDT\",\n  \"total_rate\": \"$3,000\",\n  \"rate_per_mile\": \"$2.81/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "99.jpg",
+    "raw_output": "{\n  \"source_image\": \"99.jpg\",\n  \"load_number\": \"114N7WZ31\",\n  \"pickup_location\": \"STL8 St Charles, MO 63376\",\n  \"pickup_time\": \"Sun, Oct 5, 03:30 CDT\",\n  \"dropoff_location\": \"LIT1 LITTLE ROCK, AR 72206\",\n  \"dropoff_time\": \"Sun, Oct 5, 13:00 CDT\",\n  \"total_rate\": \"$1 107,72\",\n  \"rate_per_mile\": \"$3.01/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "100.jpg",
+    "raw_output": "{\n  \"source_image\": \"112LGZHRZ.png\",\n  \"load_number\": \"112LGZHRZ\",\n  \"pickup_location\": \"DEN8 Aurora, CO 80018\",\n  \"pickup_time\": \"Sat, Oct 4, 10:00 MDT\",\n  \"dropoff_location\": \"ICT2 Park City, KS 67219\",\n  \"dropoff_time\": \"Sat, Oct 4, 20:10 CDT\",\n  \"total_rate\": \"$882,19\",\n  \"rate_per_mile\": \"$1.79/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "101.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"112Y18J5P\",\n  \"load_number\": null,\n  \"pickup_location\": \"AKC1 Akron, OH 44320\",\n  \"pickup_time\": \"Sat, Oct 4, 10:30 EDT\",\n  \"dropoff_location\": \"ORF4 VIRGINIA BEACH, Virginia 23454\",\n  \"dropoff_time\": \"Sat, Oct 4, 22:57 EDT\",\n  \"total_rate\": \"$2 153,45\",\n  \"rate_per_mile\": \"$3.79/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "102.jpg",
+    "raw_output": "{\n  \"source_image\": \"116T3KX1W\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"XBN3 Southaven, MS 38671\",\n  \"pickup_time\": \"Sat, Oct 4, 02:00 CDT\",\n  \"dropoff_location\": \"IGQ1 Harvey, IL 60428\",\n  \"dropoff_time\": \"Sun, Oct 5, 01:00 CDT\",\n  \"total_rate\": \"$887.86\",\n  \"rate_per_mile\": \"$1.69/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "103.jpg",
+    "raw_output": "{\n  \"source_image\": \"116BKYKJQ\",\n  \"load_number\": null,\n  \"pickup_location\": \"INDIANAPOLIS, Indiana 46221\",\n  \"pickup_time\": \"Sat, Oct 4, 04:00 EDT\",\n  \"dropoff_location\": \"Memphis, TN 38118\",\n  \"dropoff_time\": \"Sat, Oct 4, 14:05 CDT\",\n  \"total_rate\": \"$963.55\",\n  \"rate_per_mile\": \"$2.03 /mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "104.jpg",
+    "raw_output": "{\n  \"source_image\": \"104.jpg\",\n  \"load_number\": \"115ZYV584\",\n  \"pickup_location\": \"TYS1 Rockford, TN 37777\",\n  \"pickup_time\": \"Sat, Oct 4, 01:15 EDT\",\n  \"dropoff_location\": \"CLT5 Concord, NC 28027\",\n  \"dropoff_time\": \"Sat, Oct 4, 07:21 EDT\",\n  \"total_rate\": \"$939.84\",\n  \"rate_per_mile\": \"$3.70/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "105.jpg",
+    "raw_output": "{\n  \"source_image\": \"105.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"LIT2 NORTH LITTLE ROCK, AR 72117\",\n  \"pickup_time\": \"Sat, Oct 4, 00:30 CDT\",\n  \"dropoff_location\": \"BTR9 Port Allen, LA 70767\",\n  \"dropoff_time\": \"Sat, Oct 4, 09:31 CDT\",\n  \"total_rate\": \"$957.41\",\n  \"rate_per_mile\": \"$2.69/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "106.jpg",
+    "raw_output": "{\n  \"source_image\": \"1168M84KD\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"BNSF-MEMPHIS-CS Memphis, TN 38118\",\n  \"pickup_time\": \"Fri, Oct 3, 14:02 CDT\",\n  \"dropoff_location\": \"CHA2 CHARLESTON, TN 37310\",\n  \"dropoff_time\": \"Sat, Oct 4, 00:02 EDT\",\n  \"total_rate\": \"$1,107.24\",\n  \"rate_per_mile\": \"$2.96/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "107.jpg",
+    "raw_output": "{\n  \"source_image\": \"107.jpg\",\n  \"load_number\": \"113QW2XY2\",\n  \"pickup_location\": \"BTR1 Baton Rouge, LA 70815\",\n  \"pickup_time\": \"Fri, Oct 3, 03:30 CDT\",\n  \"dropoff_location\": \"MOB5 Theodore, AL 36582\",\n  \"dropoff_time\": \"Fri, Oct 3, 07:50 CDT\",\n  \"total_rate\": \"$800.38\",\n  \"rate_per_mile\": \"$4.37/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "108.jpg",
+    "raw_output": "{\n  \"source_image\": \"115NGW1QD\",\n  \"load_number\": \"115NGW1QD\",\n  \"pickup_location\": \"SDF1 Campbellsville, KY 42718\",\n  \"pickup_time\": \"Fri, Oct 3, 0500 EDT\",\n  \"dropoff_location\": \"CLE5 Twinsburg, OH 44087\",\n  \"dropoff_time\": \"Fri, Oct 3, 2035 EDT\",\n  \"total_rate\": \"$3 400\",\n  \"rate_per_mile\": \"$6.40/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "109.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"114B45RRG\",\n  \"load_number\": null,\n  \"pickup_location\": \"BNA7 Mt. Juliet, TN 37122\",\n  \"pickup_time\": \"Fri, Oct 3, 02:15 CDT\",\n  \"dropoff_location\": \"MEM4 MEMPHIS, TN 38128\",\n  \"dropoff_time\": \"Fri, Oct 3, 07:29 CDT\",\n  \"total_rate\": \"$628.29\",\n  \"rate_per_mile\": \"$2.76/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "110.jpg",
+    "raw_output": "{\n  \"source_image\": \"110.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"XBN3 Southaven, MS 38671\",\n  \"pickup_time\": \"Fri, Oct 3, 00:30 CDT\",\n  \"dropoff_location\": \"IGQ1 Harvey, IL 60428\",\n  \"dropoff_time\": \"Fri, Oct 3, 23:30 CDT\",\n  \"total_rate\": \"$901.48\",\n  \"rate_per_mile\": \"$1.72/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "111.jpg",
+    "raw_output": "{\n  \"source_image\": \"111.jpg\",\n  \"load_number\": \"114X1D998\",\n  \"pickup_location\": \"IAH3 Houston, TX 77032\",\n  \"pickup_time\": \"Fri, Oct 3, 02:13 CDT\",\n  \"dropoff_location\": \"LIT1 LITTLE ROCK, AR 72206\",\n  \"dropoff_time\": \"Fri, Oct 3, 11:55 CDT\",\n  \"total_rate\": \"$804.1\",\n  \"rate_per_mile\": \"$1.89/ml\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "112.jpg",
+    "error": "(Request ID: Root=1-69dcc738-6df0f01904d2ec557b5fe75b;3da13039-6416-47dc-afa3-89d425c09756)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "113.jpg",
+    "error": "(Request ID: Root=1-69dcc73b-739a4fd248dc38302fac34c1;a510fcf8-c97c-44a3-971e-fca6319d3fbb)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "114.jpg",
+    "raw_output": "{\n  \"source_image\": \"114.jpg\",\n  \"load_number\": \"T-116PDLT6R\",\n  \"pickup_location\": \"3M_ROANO_76262__554\",\n  \"pickup_time\": \"Thu, Oct 2, 15:30 CDT\",\n  \"dropoff_location\": \"CLT2 CHARLOTTE, NC 28214\",\n  \"dropoff_time\": \"Sat, Oct 4, 02:00 EDT\",\n  \"total_rate\": \"$2 251,36\",\n  \"rate_per_mile\": \"$2.11/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "115.jpg",
+    "raw_output": "{\n  \"source_image\": \"115.jpg\",\n  \"load_number\": \"11169PRGD\",\n  \"pickup_location\": \"OKC2 Oklahoma City, OK ...\",\n  \"pickup_time\": \"Thu, Oct 2, 08:20 CDT\",\n  \"dropoff_location\": \"AFW1 Fort Worth, TX 76131\",\n  \"dropoff_time\": \"Thu, Oct 2, 12:39 CDT\",\n  \"total_rate\": \"$442,85\",\n  \"rate_per_mile\": \"$2.30/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "116.jpg",
+    "raw_output": "{\n  \"source_image\": \"114SVRNBW\",\n  \"load_number\": \"114SVRNBW\",\n  \"pickup_location\": \"BTR1 Baton Rouge, LA 70815\",\n  \"pickup_time\": \"Thu, Oct 2, 15:00 CDT\",\n  \"dropoff_location\": \"TY55 Maryville, TN 37801\",\n  \"dropoff_time\": \"Fri, Oct 3, 04:26 EDT\",\n  \"total_rate\": \"$2,500\",\n  \"rate_per_mile\": \"$3.87/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "117.jpg",
+    "raw_output": "{\n  \"source_image\": \"117.jpg\",\n  \"load_number\": \"1144HFSCD\",\n  \"pickup_location\": \"TMB8 Homestead, FL 33032\",\n  \"pickup_time\": \"Thu, Oct 2, 13:30 EDT\",\n  \"dropoff_location\": \"IAH3 Houston, TX 77032\",\n  \"dropoff_time\": \"Sat, Oct 4, 12:01 CDT\",\n  \"total_rate\": \"$2,107.11\",\n  \"rate_per_mile\": \"$1.68/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "118.jpg",
+    "raw_output": "{\n  \"source_image\": \"118.jpg\",\n  \"load_number\": \"11391LNWJ\",\n  \"pickup_location\": \"BNSF-MEMPHIS-CS Memphis, ...\",\n  \"pickup_time\": \"Thu, Oct 2, 11:00 CDT\",\n  \"dropoff_location\": \"HSV1 Madison, AL 35756\",\n  \"dropoff_time\": \"Thu, Oct 2, 16:00 CDT\",\n  \"total_rate\": \"$882.92\",\n  \"rate_per_mile\": \"$4.69/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "119.jpg",
+    "raw_output": "{\n  \"source_image\": \"119.jpg\",\n  \"load_number\": \"T-111VSB9PS\",\n  \"pickup_location\": \"TUL5 Tulsa, OK 74116\",\n  \"pickup_time\": \"Wed, Oct 1, 05:54 CDT\",\n  \"dropoff_location\": \"OMA2 Omaha, NE 68138\",\n  \"dropoff_time\": \"Wed, Oct 1, 14:49 CDT\",\n  \"total_rate\": \"$859,28\",\n  \"rate_per_mile\": \"$2.07/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "120.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"120.jpg\",\n  \"load_number\": \"T-11182DQ9Q\",\n  \"pickup_location\": \"DAL2 Dallas, TX 75261\",\n  \"pickup_time\": \"Wed, Oct 1, 06:54 CDT\",\n  \"dropoff_location\": \"ELP1 El Paso, TX 79928\",\n  \"dropoff_time\": \"Wed, Oct 1, 21:00 MDT\",\n  \"total_rate\": \"$1,027,03\",\n  \"rate_per_mile\": \"$1.61/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "121.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"121.jpg\",\n  \"load_number\": \"T-11147P7KY\",\n  \"pickup_location\": \"XCE1 Richfield, Ohio 44286\",\n  \"pickup_time\": \"Tue, Sep 30, 23:05 EDT\",\n  \"dropoff_location\": \"LIT1 LITTLE ROCK, AR 72206\",\n  \"dropoff_time\": \"Thu, Oct 2, 10:55 CDT\",\n  \"total_rate\": \"$2 593,9\",\n  \"rate_per_mile\": \"$3,03/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "122.jpg",
+    "raw_output": "{\n  \"source_image\": \"113MK86NF\",\n  \"load_number\": null,\n  \"pickup_location\": \"ATL6 Atlanta, GA 30344\",\n  \"pickup_time\": \"Wed, Oct 1, 03:00 EDT\",\n  \"dropoff_location\": \"BHM1 Bessemer, AL 35022\",\n  \"dropoff_time\": \"Wed, Oct 1, 06:17 CDT\",\n  \"total_rate\": \"$474,47\",\n  \"rate_per_mile\": \"$2.89/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "123.jpg",
+    "raw_output": "{\n  \"source_image\": \"114JC2K5F.jpg\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"ROC1 ROCHESTER, NY 14653\",\n  \"pickup_time\": \"Wed, Oct 1, 10:45 EDT\",\n  \"dropoff_location\": \"BTR1 Baton Rouge, LA 70815\",\n  \"dropoff_time\": \"Fri, Oct 3, 13:36 CDT\",\n  \"total_rate\": \"$2 717.51\",\n  \"rate_per_mile\": \"$2.01/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "124.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"1156FF742.png\",\n  \"load_number\": null,\n  \"pickup_location\": \"BNA8 Lebanon, TN 37090\",\n  \"pickup_time\": \"Wed, Oct 1, 00:30 CDT\",\n  \"dropoff_location\": \"MCI9 LIBERTY, MO 64068\",\n  \"dropoff_time\": \"Wed, Oct 1, 12:12 CDT\",\n  \"total_rate\": \"$1 450\",\n  \"rate_per_mile\": \"$2.44/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "125.jpg",
+    "raw_output": "{\n  \"source_image\": \"T-1131T3SJ8\",\n  \"load_number\": \"1\",\n  \"pickup_location\": \"DSM9 Bondurant, IA 50035\",\n  \"pickup_time\": \"Wed, Oct 1, 01:00 CDT\",\n  \"dropoff_location\": \"DSM9 Bondurant, IA 50035\",\n  \"dropoff_time\": \"Wed, Oct 1, 06:18 CDT\",\n  \"total_rate\": \"$586.95\",\n  \"rate_per_mile\": \"$2.96/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "126.jpg",
+    "raw_output": "{\n  \"source_image\": \"126.jpg\",\n  \"load_number\": \"T-1129FVJH6\",\n  \"pickup_location\": \"DSM5 Bondurant, IA 50035\",\n  \"pickup_time\": \"Tue, Sep 30, 04:45 CDT\",\n  \"dropoff_location\": \"DSM9 Bondurant, IA 50035\",\n  \"dropoff_time\": \"Tue, Sep 30, 10:25 CDT\",\n  \"total_rate\": \"$175\",\n  \"rate_per_mile\": \"$0.73/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "127.jpg",
+    "error": "(Request ID: Root=1-69dcc73d-39a52caf281a34d936593df1;8f053134-75e8-4d72-9dd2-f044f3b469a5)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "train",
+    "source_image": "128.jpg",
+    "raw_output": "{\n  \"source_image\": \"128.jpg\",\n  \"load_number\": \"115TFHP9H\",\n  \"pickup_location\": \"DIA5 Ankeny, IA 50021\",\n  \"pickup_time\": \"Tue, Sep 30, 09:08 CDT\",\n  \"dropoff_location\": \"DSM5 Bondurant, IA 50035\",\n  \"dropoff_time\": \"Tue, Sep 30, 10:00 CDT\",\n  \"total_rate\": \"$169.24\",\n  \"rate_per_mile\": \"$16.36/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "129.jpg",
+    "raw_output": "{\n  \"source_image\": \"129.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"ATL7 UNION CITY, GA 30291\",\n  \"pickup_time\": \"Tue, Sep 30, 10:16 EDT\",\n  \"dropoff_location\": \"RDU2 SMITHFIELD, NC 27577\",\n  \"dropoff_time\": \"Tue, Sep 30, 20:00 EDT\",\n  \"total_rate\": \"$867.51\",\n  \"rate_per_mile\": \"$1.96/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "130.jpg",
+    "raw_output": "{\n  \"source_image\": \"130.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"FTW1 DALLAS, TX 75241\",\n  \"pickup_time\": \"Tue, Sep 30, 18:48 CDT\",\n  \"dropoff_location\": \"LIT1 LITTLE ROCK, AR 72206\",\n  \"dropoff_time\": \"Wed, Oct 1, 19:30 CDT\",\n  \"total_rate\": \"$989.06\",\n  \"rate_per_mile\": \"$1.72/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "131.jpg",
+    "raw_output": "{\n  \"source_image\": \"131.jpg\",\n  \"load_number\": \"T-114WQ524Z\",\n  \"pickup_location\": \"MDW5 CREST HILL, IL 60403\",\n  \"pickup_time\": \"Tue, Sep 30, 06:58 CDT\",\n  \"dropoff_location\": \"FTW1 DALLAS, TX 75241\",\n  \"dropoff_time\": \"Wed, Oct 1, 14:00 CDT\",\n  \"total_rate\": \"$2,336.1\",\n  \"rate_per_mile\": \"$2.52/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "132.jpg",
+    "raw_output": "{\n  \"source_image\": \"132.jpg\",\n  \"load_number\": \"113TRMNDY\",\n  \"pickup_location\": \"BTR1 Baton Rouge, LA 70...\",\n  \"pickup_time\": \"Tue, Sep 30, 07:00 CDT\",\n  \"dropoff_location\": \"IAH5 Humble, TX 77338\",\n  \"dropoff_time\": \"Tue, Sep 30, 13:13 CDT\",\n  \"total_rate\": \"$495.84\",\n  \"rate_per_mile\": \"$1.69/mi\"\n}"
+  },
+  {
+    "split": "train",
+    "source_image": "133.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"133.jpg\",\n  \"load_number\": \"T-111ZM31FD\",\n  \"pickup_location\": \"BTR1 Baton Rouge, LA 70..\",\n  \"pickup_time\": \"Tue, Sep 30, 01:00 CDT\",\n  \"dropoff_location\": \"BTR1 Baton Rouge, LA 70..\",\n  \"dropoff_time\": \"Tue, Sep 30, 05:32 CDT\",\n  \"total_rate\": \"$347.52\",\n  \"rate_per_mile\": \"$2.39/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "134.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"134.jpg\",\n  \"load_number\": \"116RQ4C8V\",\n  \"pickup_location\": \"RBD5 DFW AIRPORT, TX 75261\",\n  \"pickup_time\": \"Tue, Sep 30, 07:54 CDT\",\n  \"dropoff_location\": \"PNE5 Robbinsville, NJ 08691\",\n  \"dropoff_time\": \"Wed, Oct 1, 16:02 EDT\",\n  \"total_rate\": \"$3 134,79\",\n  \"rate_per_mile\": \"$2.07/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "135.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"135.jpg\",\n  \"load_number\": \"115VKYZB4\",\n  \"pickup_location\": \"MOB5 THEODORE, AL 36572\",\n  \"pickup_time\": \"Mon, Sep 29, 08:13 CDT\",\n  \"dropoff_location\": \"LIT1 LITTLE ROCK, AR 72206\",\n  \"dropoff_time\": \"Mon, Sep 29, 18:08 CDT\",\n  \"total_rate\": \"$735.72\",\n  \"rate_per_mile\": \"$1.61/mi\"\n}\n```"
+  },
+  {
+    "split": "train",
+    "source_image": "136.jpg",
+    "error": "(Request ID: Root=1-69dcc740-478c13d5242c5ee50d30826e;2f82f470-f121-45a6-a291-55efd70fecc1)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "val",
+    "source_image": "1.jpg",
+    "raw_output": "{\n  \"source_image\": \"116WQ2Q4S\",\n  \"load_number\": \"116WQ2Q4S\",\n  \"pickup_location\": \"IND2 PLAINFIELD, IN 46168\",\n  \"pickup_time\": \"Sun, Aug 18, 11:30 EDT\",\n  \"dropoff_location\": \"MDW5 CREST HILL, ILLINOIS 60403\",\n  \"dropoff_time\": \"Drop Sat, 17 Aug 11:30 Eastern\",\n  \"total_rate\": \"$1,022.07\",\n  \"rate_per_mile\": \"$5.29/mi\"\n}"
+  },
+  {
+    "split": "val",
+    "source_image": "2.jpg",
+    "raw_output": "{\n  \"source_image\": \"2.jpg\",\n  \"load_number\": \"T-112K9S5H5\",\n  \"pickup_location\": \"RDG1 HAMBURG, Pennsylvania 19526\",\n  \"pickup_time\": \"Sun, Aug 18, 01:30 EDT\",\n  \"dropoff_location\": \"DET3 PONTIAC, Michigan 48342\",\n  \"dropoff_time\": \"Mon, Aug 19, 03:04 EDT\",\n  \"total_rate\": \"$847,46\",\n  \"rate_per_mile\": \"$1.51/mi\"\n}"
+  },
+  {
+    "split": "val",
+    "source_image": "3.jpg",
+    "raw_output": "{\n  \"source_image\": \"3.jpg\",\n  \"load_number\": \"T-113MK9MSS\",\n  \"pickup_location\": \"DET3 PONTIAC, MICHIGAN 48342\",\n  \"pickup_time\": \"Sun, Aug 18, 01:08 EDT\",\n  \"dropoff_location\": \"LDJ5 STATEN ISLAND, NY 10314\",\n  \"dropoff_time\": \"Sun, Aug 18, 16:15 EDT\",\n  \"total_rate\": \"$1 459,89\",\n  \"rate_per_mile\": \"$2.17/mi\"\n}"
+  },
+  {
+    "split": "val",
+    "source_image": "4.jpg",
+    "raw_output": "{\n  \"source_image\": \"4.jpg\",\n  \"load_number\": \"T-114RDNV2\",\n  \"pickup_location\": \"ABQ2 Los Lunas, NM 87031\",\n  \"pickup_time\": \"Sat, Aug 17, 19:28 MDT\",\n  \"dropoff_location\": \"COS5 COLORADO SPRINGS, Colorado ...\",\n  \"dropoff_time\": \"Sun, Aug 18, 04:39 MDT\",\n  \"total_rate\": \"$965,968\",\n  \"rate_per_mile\": \"$2.41/mi\"\n}"
+  },
+  {
+    "split": "val",
+    "source_image": "5.jpg",
+    "raw_output": "{\n  \"source_image\": \"5.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"DCL2 AKRON, Ohio 44305\",\n  \"pickup_time\": \"Sat, Aug 17, 21:51 EDT\",\n  \"dropoff_location\": \"EWR8 TETERBORO, NJ 07608\",\n  \"dropoff_time\": \"Sun, Aug 18, 08:21 EDT\",\n  \"total_rate\": \"$902.03\",\n  \"rate_per_mile\": \"$1.92/mi\"\n}"
+  },
+  {
+    "split": "val",
+    "source_image": "6.jpg",
+    "raw_output": "{\n  \"source_image\": \"6.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"PHX5 GOODYEAR, AZ 85338\",\n  \"pickup_time\": \"Sat, Aug 17, 19:45 MST\",\n  \"dropoff_location\": \"TCY9 OAKLEY, California 94561\",\n  \"dropoff_time\": \"Sun, Aug 18, 10:43 PDT\",\n  \"total_rate\": \"$1,215.26\",\n  \"rate_per_mile\": \"$1.67/mi\"\n}"
+  },
+  {
+    "split": "val",
+    "source_image": "7.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"7.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"AMA1 Amarillo, TX 79108\",\n  \"pickup_time\": \"Sun, Aug 18, 02:00 CDT\",\n  \"dropoff_location\": \"ABQ5 ALBUQUERQUE, New Mexico 87121\",\n  \"dropoff_time\": \"Sat, 17 Aug 02:00 Central D…\",\n  \"total_rate\": \"$1,163.93\",\n  \"rate_per_mile\": \"$3.82/mi\"\n}\n```"
+  },
+  {
+    "split": "val",
+    "source_image": "8.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"8.jpg\",\n  \"load_number\": \"T-116Q2V1FP\",\n  \"pickup_location\": \"AMA1 Amarillo, TX 79108\",\n  \"pickup_time\": \"Sat, Aug 17, 05:45 CDT\",\n  \"dropoff_location\": \"ABQ1 ALBUQUERQUE, New Mexico...\",\n  \"dropoff_time\": \"Sat, Aug 17, 12:04 MDT\",\n  \"total_rate\": \"$711,07\",\n  \"rate_per_mile\": \"$2.24/mi\"\n}\n```"
+  },
+  {
+    "split": "val",
+    "source_image": "9.jpg",
+    "error": "(Request ID: Root=1-69dcc712-34d0c18920bf22794dab1d95;5c7e14eb-4435-44be-a961-b7cc54f63848)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "val",
+    "source_image": "10.jpg",
+    "error": "(Request ID: Root=1-69dcc715-7e5607e213131d5d2c8d40ca;e4269340-7cdd-4656-8d68-5e069ae0dda8)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "val",
+    "source_image": "11.jpg",
+    "raw_output": "{\n  \"source_image\": \"1117VWWV1\",\n  \"load_number\": \"1117VWWV1\",\n  \"pickup_location\": \"SAT4 SAN ANTONIO, Texas 78245\",\n  \"pickup_time\": \"Sat, Aug 17, 16:45 CDT\",\n  \"dropoff_location\": \"TUL5 TULSA, Oklahoma 74116\",\n  \"dropoff_time\": \"Sun, Aug 18, 04:29 CDT\",\n  \"total_rate\": \"$877.98\",\n  \"rate_per_mile\": \"$1.56/mi\"\n}"
+  },
+  {
+    "split": "val",
+    "source_image": "12.jpg",
+    "error": "(Request ID: Root=1-69dcc718-0aa1585363a753c2093172ee;05c4348b-8ea1-451a-b22b-d6fcf7fb1fcc)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+  },
+  {
+    "split": "val",
+    "source_image": "13.jpg",
+    "raw_output": "```json\n{\n  \"source_image\": \"13.jpg\",\n  \"load_number\": \"1148TFTZM\",\n  \"pickup_location\": \"IND1 WHITESTOWN, IN 46075\",\n  \"pickup_time\": \"Sun, Aug 18, 01:00 EDT\",\n  \"dropoff_location\": \"MDW5 CREST HILL, ILLINOIS 60403\",\n  \"dropoff_time\": \"Sat, 17 Aug 01:00 Eastern ...\",\n  \"total_rate\": \"$951,37\",\n  \"rate_per_mile\": \"$5.69/mi\"\n}\n```"
+  },
+  {
+    "split": "val",
+    "source_image": "14.jpg",
+    "raw_output": "{\n  \"source_image\": \"14.jpg\",\n  \"load_number\": \"T-111JTB6FK\",\n  \"pickup_location\": \"FWA4 FORT WAYNE, Indiana 46809\",\n  \"pickup_time\": \"Sat, Aug 17, 06:22 EDT\",\n  \"dropoff_location\": \"SAV3 Macon, Georgia 31216\",\n  \"dropoff_time\": \"Sun, Aug 18, 18:24 EDT\",\n  \"total_rate\": \"$1 319,67\",\n  \"rate_per_mile\": \"$1.76/mi\"\n}"
+  },
+  {
+    "split": "val",
+    "source_image": "15.jpg",
+    "raw_output": "{\n  \"source_image\": \"15.jpg\",\n  \"load_number\": \"115ZVR5ML\",\n  \"pickup_location\": \"IND2 PLAINFIELD, IN 46168\",\n  \"pickup_time\": \"Sat, Aug 17, 11:30 EDT\",\n  \"dropoff_location\": \"MDW5 CREST HILL, ILLINOIS 60403\",\n  \"dropoff_time\": \"Fri, 16 Aug 11:30 Eastern Daylight Time\",\n  \"total_rate\": \"$1,022,07\",\n  \"rate_per_mile\": \"$5.29/mi\"\n}"
+  },
+  {
+    "split": "val",
+    "source_image": "16.jpg",
+    "raw_output": "{\n  \"source_image\": \"16.jpg\",\n  \"load_number\": null,\n  \"pickup_location\": \"MTN1 WILMINGTON, Delaware 19804\",\n  \"pickup_time\": \"Wed, May 8, 13:15 EDT\",\n  \"dropoff_location\": \"CLT9 CHARLOTTE, NC 28214\",\n  \"dropoff_time\": \"Thu, May 9, 01:27 EDT\",\n  \"total_rate\": \"$877,43\",\n  \"rate_per_mile\": \"$1.69/mi\"\n}"
+  }
+]

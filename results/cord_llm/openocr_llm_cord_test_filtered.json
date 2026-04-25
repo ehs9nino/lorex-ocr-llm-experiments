@@ -1,0 +1,666 @@
+[
+  {
+    "source_image": "0.png",
+    "item_name": "Qty2.00 60.000",
+    "item_price": "60.000",
+    "sub_total": "60.000",
+    "tax": "5.455",
+    "total": "60.000"
+  },
+  {
+    "source_image": "1.png",
+    "item_name": "Y.B.BAT",
+    "item_price": "46000",
+    "sub_total": null,
+    "tax": null,
+    "total": "91000"
+  },
+  {
+    "source_image": "2.png",
+    "item_name": "CONUT JELLY(L",
+    "item_price": "4.000",
+    "sub_total": "28.000",
+    "tax": null,
+    "total": "28.000"
+  },
+  {
+    "source_image": "3.png",
+    "item_name": "DONAT GULA",
+    "item_price": "11,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "11,000"
+  },
+  {
+    "source_image": "4.png",
+    "item_name": "AVOCADO COFFEE",
+    "item_price": "61,000",
+    "sub_total": "194,000",
+    "tax": null,
+    "total": "174,600"
+  },
+  {
+    "source_image": "6.png",
+    "item_name": "EGG TART",
+    "item_price": "13,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "46,000"
+  },
+  {
+    "source_image": "7.png",
+    "item_name": "ADD CHICKEN BOX",
+    "item_price": "909",
+    "sub_total": "100,909",
+    "tax": "10,091",
+    "total": "111,000"
+  },
+  {
+    "source_image": "8.png",
+    "item_name": "COOKIE DOH SAUCES",
+    "item_price": "0",
+    "sub_total": "45,455",
+    "tax": "4,545",
+    "total": "50,000"
+  },
+  {
+    "source_image": "9.png",
+    "item_name": "Bumbu Kaldu Ayam 1",
+    "item_price": "36000",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "10.png",
+    "item_name": "CINNAMONSUGAR",
+    "item_price": "17.000",
+    "sub_total": "17,000",
+    "tax": null,
+    "total": "17,000"
+  },
+  {
+    "source_image": "11.png",
+    "item_name": "1BANABERRY FRESH CREAM CAK",
+    "item_price": null,
+    "sub_total": null,
+    "tax": null,
+    "total": "230,000"
+  },
+  {
+    "source_image": "12.png",
+    "item_name": "BLUS WANITA",
+    "item_price": "120,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "120,000"
+  },
+  {
+    "source_image": "13.png",
+    "item_name": "A.MINERAL GELAS",
+    "item_price": "3.000",
+    "sub_total": null,
+    "tax": "4.66",
+    "total": "51,300"
+  },
+  {
+    "source_image": "15.png",
+    "item_name": "Lemon Tea (L)",
+    "item_price": "25.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "70.000"
+  },
+  {
+    "source_image": "16.png",
+    "item_name": "LONGAN",
+    "item_price": "0",
+    "sub_total": "63,636",
+    "tax": "6,364",
+    "total": "70,000"
+  },
+  {
+    "source_image": "17.png",
+    "item_name": "Goblin's Mace",
+    "item_price": "25,000",
+    "sub_total": "91,000",
+    "tax": null,
+    "total": "Rp.91,000"
+  },
+  {
+    "source_image": "18.png",
+    "item_name": "Propolis Cair 1",
+    "item_price": "156000",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "19.png",
+    "item_name": "10 AHBUSH CHS BUR",
+    "item_price": "IGOOUO",
+    "sub_total": null,
+    "tax": "16000",
+    "total": "176000"
+  },
+  {
+    "source_image": "20.png",
+    "item_name": "1 cashew",
+    "item_price": "79,500",
+    "sub_total": "325,600",
+    "tax": "17,908",
+    "total": "377,859"
+  },
+  {
+    "source_image": "21.png",
+    "item_name": "NASI GOR SFD TLR",
+    "item_price": "13.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "Rp38.000"
+  },
+  {
+    "source_image": "22.png",
+    "item_name": "SOFT STEAMED CHEESEC",
+    "item_price": "20,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "40,000"
+  },
+  {
+    "source_image": "23.png",
+    "item_name": "6TWIST DONUT",
+    "item_price": "54,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "63,000"
+  },
+  {
+    "source_image": "24.png",
+    "item_name": "5001-Corn Flakes Cookies",
+    "item_price": "Rp.56.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "Rp.118.000"
+  },
+  {
+    "source_image": "25.png",
+    "item_name": "TWIST STRAWBERRY DONUT",
+    "item_price": "10,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "43,000"
+  },
+  {
+    "source_image": "26.png",
+    "item_name": "Nasi Cap Cay",
+    "item_price": "65.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "Rp 138.000"
+  },
+  {
+    "source_image": "27.png",
+    "item_name": "PKT AYAM",
+    "item_price": "33,000",
+    "sub_total": "56,000",
+    "tax": "TAX 10%",
+    "total": "61,600"
+  },
+  {
+    "source_image": "28.png",
+    "item_name": "SAMGYOPSAL",
+    "item_price": "194,000",
+    "sub_total": null,
+    "tax": "38,745",
+    "total": "426,195"
+  },
+  {
+    "source_image": "29.png",
+    "item_name": "COLD OCHA",
+    "item_price": "10,909",
+    "sub_total": "132,636",
+    "tax": "13,264",
+    "total": "145,900"
+  },
+  {
+    "source_image": "30.png",
+    "item_name": null,
+    "item_price": null,
+    "sub_total": null,
+    "tax": "2,864",
+    "total": "31,500"
+  },
+  {
+    "source_image": "33.png",
+    "item_name": "GRILLED BABY POTATO （R",
+    "item_price": "50,500",
+    "sub_total": "117,500",
+    "tax": "19,557",
+    "total": "148.127"
+  },
+  {
+    "source_image": "34.png",
+    "item_name": "Ash Chick Sambal Matah",
+    "item_price": "75.000",
+    "sub_total": "85.000",
+    "tax": "8.500",
+    "total": "93.500"
+  },
+  {
+    "source_image": "35.png",
+    "item_name": "2TWIST DONUT",
+    "item_price": "18,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "104,000"
+  },
+  {
+    "source_image": "37.png",
+    "item_name": "Popcorn Salt (S)",
+    "item_price": "20.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "50.000"
+  },
+  {
+    "source_image": "39.png",
+    "item_name": "HPL754DR LUNCH BOX 3P SET W/RED BAG & SPO0",
+    "item_price": "243.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "3.112.800"
+  },
+  {
+    "source_image": "40.png",
+    "item_name": "mer，Dagingabonejucokelat",
+    "item_price": "7:000",
+    "sub_total": null,
+    "tax": null,
+    "total": "68.000"
+  },
+  {
+    "source_image": "41.png",
+    "item_name": "Chicken Maryland",
+    "item_price": "316017.00",
+    "sub_total": "48982.68",
+    "tax": null,
+    "total": "365000.00"
+  },
+  {
+    "source_image": "44.png",
+    "item_name": "Combo",
+    "item_price": "30.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "50.000"
+  },
+  {
+    "source_image": "45.png",
+    "item_name": "Lemon Tea",
+    "item_price": "25.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "88.000"
+  },
+  {
+    "source_image": "46.png",
+    "item_name": "S-Bubble Milk Tea",
+    "item_price": "20,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "40,000"
+  },
+  {
+    "source_image": "47.png",
+    "item_name": "PLASTIC BAG RED CENTRAL SI",
+    "item_price": "0.00",
+    "sub_total": null,
+    "tax": null,
+    "total": "63,000.00"
+  },
+  {
+    "source_image": "48.png",
+    "item_name": "S-Hazelnut KOI Cafe",
+    "item_price": "25,000",
+    "sub_total": null,
+    "tax": "2,272",
+    "total": "25,000"
+  },
+  {
+    "source_image": "49.png",
+    "item_name": "1 Ptgs Eggtart",
+    "item_price": "12,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "23,000"
+  },
+  {
+    "source_image": "50.png",
+    "item_name": "Cauburry",
+    "item_price": "17,727",
+    "sub_total": "17,727",
+    "tax": "1,773",
+    "total": "19,500"
+  },
+  {
+    "source_image": "51.png",
+    "item_name": "TA)BIHUN GORENG",
+    "item_price": "40,456",
+    "sub_total": null,
+    "tax": null,
+    "total": "334,000"
+  },
+  {
+    "source_image": "52.png",
+    "item_name": "THAI ICED TEA",
+    "item_price": "20.000",
+    "sub_total": "40.000",
+    "tax": null,
+    "total": "100.000"
+  },
+  {
+    "source_image": "53.png",
+    "item_name": "Nasi",
+    "item_price": "42.000",
+    "sub_total": "107.000",
+    "tax": "11.235",
+    "total": "123.585"
+  },
+  {
+    "source_image": "54.png",
+    "item_name": "KACANG MERAH",
+    "item_price": "10,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "10,000"
+  },
+  {
+    "source_image": "55.png",
+    "item_name": "APPLE CINNAMON PASTRY",
+    "item_price": "22,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "5²,000"
+  },
+  {
+    "source_image": "56.png",
+    "item_name": "MINERAL",
+    "item_price": "·8,181",
+    "sub_total": null,
+    "tax": "·818",
+    "total": "·10,000"
+  },
+  {
+    "source_image": "57.png",
+    "item_name": "ICED GT",
+    "item_price": ".22,000",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "60.png",
+    "item_name": "Bola Ubi Mini Original",
+    "item_price": "25.000",
+    "sub_total": "26.250",
+    "tax": "Pajak",
+    "total": "26.250"
+  },
+  {
+    "source_image": "61.png",
+    "item_name": "LEMPER",
+    "item_price": "18.000",
+    "sub_total": "24,500",
+    "tax": null,
+    "total": "24,500"
+  },
+  {
+    "source_image": "62.png",
+    "item_name": "Java Tea (M)",
+    "item_price": "18.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "48.000"
+  },
+  {
+    "source_image": "63.png",
+    "item_name": "Kopi Susu Kampung.",
+    "item_price": "38.000",
+    "sub_total": "57.000",
+    "tax": null,
+    "total": "57.000"
+  },
+  {
+    "source_image": "64.png",
+    "item_name": "SINGLE SCOOP",
+    "item_price": "16.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "16.000"
+  },
+  {
+    "source_image": "65.png",
+    "item_name": "Polos + Telur",
+    "item_price": "13.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "13.000"
+  },
+  {
+    "source_image": "66.png",
+    "item_name": "DURIA",
+    "item_price": "36,364",
+    "sub_total": "36,364",
+    "tax": "10.0007",
+    "total": "40.000"
+  },
+  {
+    "source_image": "67.png",
+    "item_name": "2005-CHEESE JOHN",
+    "item_price": "9.500,00",
+    "sub_total": null,
+    "tax": null,
+    "total": "9.500,00"
+  },
+  {
+    "source_image": "68.png",
+    "item_name": null,
+    "item_price": null,
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "70.png",
+    "item_name": "UDANG",
+    "item_price": "216,000",
+    "sub_total": "1,343,000",
+    "tax": "142,358",
+    "total": "1,505,358"
+  },
+  {
+    "source_image": "71.png",
+    "item_name": "Cuka Apel Tetes 1",
+    "item_price": "198000",
+    "sub_total": null,
+    "tax": null,
+    "total": null
+  },
+  {
+    "source_image": "72.png",
+    "item_name": "Choco Devil",
+    "item_price": "15,909",
+    "sub_total": "15,909",
+    "tax": "1,591",
+    "total": "17,500"
+  },
+  {
+    "source_image": "73.png",
+    "item_name": "1001-Choco Bun",
+    "item_price": "22.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "22.000"
+  },
+  {
+    "source_image": "75.png",
+    "item_name": "1 CHOCO PUFF",
+    "item_price": "29元091",
+    "sub_total": "256,363",
+    "tax": "25,637",
+    "total": "282,000"
+  },
+  {
+    "source_image": "76.png",
+    "item_name": "BASO TAHU",
+    "item_price": "*46000",
+    "sub_total": null,
+    "tax": null,
+    "total": "*110000"
+  },
+  {
+    "source_image": "79.png",
+    "item_name": "1001-Choco Bun",
+    "item_price": "22.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "-22.000"
+  },
+  {
+    "source_image": "80.png",
+    "item_name": "Viet Milk Coffee",
+    "item_price": "25.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "25.000"
+  },
+  {
+    "source_image": "82.png",
+    "item_name": "Chocolate Log Cake",
+    "item_price": "115,000",
+    "sub_total": "210,000",
+    "tax": null,
+    "total": "385,000"
+  },
+  {
+    "source_image": "83.png",
+    "item_name": "S AND CREAM",
+    "item_price": "20.909",
+    "sub_total": null,
+    "tax": "2.091",
+    "total": "23.000"
+  },
+  {
+    "source_image": "84.png",
+    "item_name": "Kroket",
+    "item_price": "@12.000",
+    "sub_total": "Rp36.000",
+    "tax": "(10.0%) Rp 3.600",
+    "total": "Rp39.600"
+  },
+  {
+    "source_image": "86.png",
+    "item_name": "Chcezemania",
+    "item_price": "12,500",
+    "sub_total": null,
+    "tax": null,
+    "total": "22,000"
+  },
+  {
+    "source_image": "87.png",
+    "item_name": "PHOTAI CHIN",
+    "item_price": "36,500",
+    "sub_total": "3,650",
+    "tax": "PB110.0%",
+    "total": "40,150"
+  },
+  {
+    "source_image": "88.png",
+    "item_name": "ALMONDCREAM CHEESE",
+    "item_price": "28,000",
+    "sub_total": "47,000",
+    "tax": null,
+    "total": "47,000"
+  },
+  {
+    "source_image": "89.png",
+    "item_name": "XXL Crispy Chicken",
+    "item_price": "40.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "40:000"
+  },
+  {
+    "source_image": "90.png",
+    "item_name": "CIRENG",
+    "item_price": "26,818",
+    "sub_total": "26,818",
+    "tax": "2,681",
+    "total": "29,500"
+  },
+  {
+    "source_image": "91.png",
+    "item_name": "BAKSO BNGKS",
+    "item_price": "15.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "30.000"
+  },
+  {
+    "source_image": "92.png",
+    "item_name": "TICKET CP",
+    "item_price": "60.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "240,000"
+  },
+  {
+    "source_image": "93.png",
+    "item_name": "THAI ICED TEA",
+    "item_price": "16,363",
+    "sub_total": "1,636",
+    "tax": "17,999",
+    "total": "17,999"
+  },
+  {
+    "source_image": "94.png",
+    "item_name": "PHO TAICHIN({R)",
+    "item_price": "63,000",
+    "sub_total": "119,000",
+    "tax": "12,733",
+    "total": "140,063"
+  },
+  {
+    "source_image": "95.png",
+    "item_name": "JERUK",
+    "item_price": "56.181",
+    "sub_total": null,
+    "tax": null,
+    "total": "62,000"
+  },
+  {
+    "source_image": "96.png",
+    "item_name": "BBQ Chicken",
+    "item_price": "41,000",
+    "sub_total": null,
+    "tax": null,
+    "total": "50,000"
+  },
+  {
+    "source_image": "97.png",
+    "item_name": "BUBUR GO",
+    "item_price": "40.000",
+    "sub_total": null,
+    "tax": null,
+    "total": "55.000"
+  },
+  {
+    "source_image": "99.png",
+    "item_name": "PAKET SLICES",
+    "item_price": "0",
+    "sub_total": "68,180",
+    "tax": "6,818",
+    "total": "75,000"
+  }
+]
