@@ -112,16 +112,16 @@ HF_TOKEN=your_huggingface_token
 
 ### Models Used
 
-- **LLM**: Qwen2.5-7B-Instruct  
-- **VLM**: Qwen2.5-VL-7B-Instruct  
+- **LLM**: [Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)  
+- **VLM**: [Qwen2.5-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)  
 
 ### OCR Engines
 
-- Tesseract OCR  
-- PaddleOCR  
-- EasyOCR  
-- docTR  
-- OpenOCR  
+- **Tesseract OCR**: [GitHub](https://github.com/tesseract-ocr/tesseract)  
+- **PaddleOCR**: [GitHub](https://github.com/PaddlePaddle/PaddleOCR)  
+- **EasyOCR**: [GitHub](https://github.com/JaidedAI/EasyOCR)  
+- **docTR**: [GitHub](https://github.com/mindee/doctr)  
+- **OpenOCR**: [GitHub](https://github.com/Topdu/OpenOCR)  
 
 ### Remarks
 
