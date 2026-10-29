@@ -1,0 +1,1352 @@
+[
+  {
+    "split": "val",
+    "source_image": "1.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/1.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/1.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "2.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/2.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/2.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "3.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/3.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/3.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "4.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/4.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/4.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "5.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/5.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/5.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "6.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/6.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/6.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "7.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/7.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/7.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "8.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/8.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/8.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "9.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/9.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/9.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "10.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/10.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/10.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "11.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/11.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/11.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "12.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/12.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/12.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "13.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/13.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/13.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "14.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/14.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/14.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "15.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/15.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/15.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "val",
+    "source_image": "16.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/val/16.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/val/16.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "17.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/17.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/17.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "18.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/18.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/18.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "19.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/19.png",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/19.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "20.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/20.png",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/20.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "21.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/21.png",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/21.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "22.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/22.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/22.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "23.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/23.png",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/23.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "24.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/24.png",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/24.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "25.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/25.png",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/25.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "30.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/30.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/30.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "32.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/32.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/32.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "33.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/33.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/33.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "40.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/40.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/40.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "41.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/41.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/41.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "45.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/45.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/45.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "49.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/49.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/49.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "51.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/51.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/51.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "56.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/56.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/56.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "58.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/58.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/58.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "59.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/59.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/59.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "61.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/61.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/61.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "63.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/63.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/63.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "64.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/64.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/64.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "65.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/65.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/65.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "66.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/66.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/66.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "67.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/67.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/67.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "68.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/68.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/68.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "69.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/69.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/69.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "70.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/70.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/70.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "71.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/71.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/71.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "72.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/72.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/72.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "73.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/73.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/73.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "74.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/74.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/74.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "75.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/75.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/75.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "76.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/76.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/76.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "77.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/77.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/77.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "78.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/78.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/78.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "79.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/79.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/79.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "80.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/80.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/80.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "81.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/81.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/81.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "82.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/82.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/82.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "83.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/83.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/83.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "84.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/84.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/84.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "85.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/85.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/85.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "86.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/86.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/86.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "87.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/87.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/87.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "88.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/88.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/88.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "89.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/89.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/89.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "90.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/90.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/90.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "91.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/91.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/91.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "92.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/92.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/92.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "93.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/93.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/93.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "94.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/94.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/94.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "95.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/95.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/95.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "96.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/96.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/96.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "97.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/97.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/97.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "98.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/98.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/98.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "99.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/99.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/99.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "100.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/100.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/100.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "101.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/101.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/101.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "102.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/102.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/102.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "103.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/103.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/103.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "104.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/104.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/104.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "105.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/105.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/105.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "106.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/106.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/106.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "107.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/107.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/107.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "108.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/108.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/108.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "109.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/109.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/109.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "110.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/110.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/110.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "111.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/111.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/111.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "112.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/112.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/112.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "113.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/113.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/113.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "114.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/114.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/114.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "115.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/115.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/115.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "116.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/116.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/116.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "117.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/117.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/117.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "118.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/118.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/118.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "119.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/119.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/119.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "120.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/120.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/120.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "121.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/121.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/121.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "122.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/122.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/122.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "123.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/123.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/123.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "124.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/124.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/124.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "125.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/125.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/125.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "126.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/126.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/126.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "127.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/127.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/127.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "128.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/128.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/128.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "129.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/129.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/129.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "130.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/130.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/130.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "131.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/131.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/131.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "132.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/132.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/132.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "133.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/133.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/133.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "134.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/134.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/134.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "135.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/135.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/135.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "train",
+    "source_image": "136.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/train/136.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/train/136.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "137.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/137.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/137.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "138.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/138.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/138.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "139.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/139.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/139.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "140.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/140.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/140.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "141.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/141.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/141.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "142.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/142.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/142.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "143.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/143.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/143.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "144.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/144.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/144.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "145.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/145.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/145.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "146.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/146.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/146.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "147.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/147.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/147.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "148.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/148.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/148.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "149.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/149.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/149.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "150.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/150.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/150.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "151.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/151.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/151.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "152.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/152.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/152.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": -3
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "153.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/153.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/153.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "154.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/154.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/154.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "155.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/155.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/155.png",
+    "noise_type": "rotation",
+    "parameters": {
+      "angle_degrees": 3
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "156.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/156.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/156.png",
+    "noise_type": "gaussian_noise",
+    "parameters": {
+      "sigma": 15
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "157.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/157.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/157.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "158.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/158.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/158.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "159.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/159.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/159.png",
+    "noise_type": "jpeg",
+    "parameters": {
+      "quality": 35
+    }
+  },
+  {
+    "split": "test",
+    "source_image": "160.jpg",
+    "original_path": "/root/LoREx-160/rate_confirmations/images/test/160.jpg",
+    "noisy_path": "experiments/noise_robustness/images/mixed/test/160.png",
+    "noise_type": "blur",
+    "parameters": {
+      "radius": 0.8
+    }
+  }
+]

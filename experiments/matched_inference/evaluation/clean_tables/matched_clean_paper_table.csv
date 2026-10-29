@@ -1,0 +1,9 @@
+Method,N,Exact Match (%),F1 (%),Fuzzy Score (%),Levenshtein Similarity (%)
+Qwen-VLM,135,80.32,81.48,94.01,93.49
+PaddleOCR + LLM P2,135,68.68,68.79,93.48,91.74
+Regex + Tesseract,135,46.56,51.12,68.02,66.32
+DocTR + LLM P2,135,48.68,48.72,91.19,89.28
+Tesseract + LLM P2,135,41.8,42.51,88.01,85.13
+OpenOCR + LLM P2,135,31.43,31.43,87.88,83.78
+Tesseract + LLM P1,135,26.14,27.51,66.89,63.79
+EasyOCR + LLM P2,135,11.64,11.67,80.94,78.04

@@ -1,0 +1,9 @@
+method,load_number,pickup_location,pickup_time,dropoff_location,dropoff_time,total_rate,rate_per_mile
+qwen_vlm,-1.04,-2.96,0.39,-5.93,0.42,0.00,-1.48
+paddle_llm_p2,-5.19,5.39,-2.66,2.44,-3.53,2.23,-1.19
+regex_tesseract,-14.47,-3.29,-11.12,0.96,-23.54,-3.72,-7.49
+doctr_llm_p2,12.59,4.44,-20.74,0.64,-19.10,1.49,-6.67
+tesseract_llm_p2,-17.08,0.00,-11.08,-0.76,-16.50,-0.55,-5.04
+tesseract_llm_p1,0.00,-1.36,-8.38,-0.62,-14.75,0.15,-4.76
+openocr_llm_p2,0.00,2.22,6.67,0.00,6.67,2.22,-5.19
+easyocr_llm_p2,-13.33,-1.46,0.75,2.22,0.00,2.20,-3.45

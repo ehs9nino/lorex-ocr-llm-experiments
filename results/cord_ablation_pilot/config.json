@@ -1,0 +1,26 @@
+{
+  "model": "Qwen/Qwen2.5-VL-72B-Instruct:fastest",
+  "pilot_ids": [
+    "1.png",
+    "33.png",
+    "48.png",
+    "56.png",
+    "57.png",
+    "61.png",
+    "72.png",
+    "84.png",
+    "90.png",
+    "93.png"
+  ],
+  "seed": 20261021,
+  "max_tokens": 500,
+  "prompts": {
+    "A0_baseline": "Extract structured fields from this receipt image.\n\nReturn ONLY valid JSON with exactly these keys:\n{\n  \"item_name\": null,\n  \"item_price\": null,\n  \"sub_total\": null,\n  \"tax\": null,\n  \"total\": null\n}\n\nRules:\n- Copy values exactly as written in the image.\n- Do not normalize commas, dots, spaces, or currency symbols.\n- item_name = the first main purchased item, not store name, not payment method, not summary line.\n- item_price = the price associated with item_name, not subtotal, tax, cash, or change.\n- sub_total = value near keywords like SUBTOTAL, SUB TOTAL, or Sub Total.\n- tax = value near keywords like TAX, PB1, or service tax.\n- total = final payable amount near keywords like TOTAL, GRAND TOTAL, or Total.\n- Do NOT use CASH, CHANGE, CARD PAYMENT, CREDIT CARD, or DISCOUNT as total.\n- If multiple totals appear, choose the final payable amount.\n- If unsure, output null.\n- Return JSON only.",
+    "A1_no_field_rules": "Extract structured fields from this receipt image.\n\nReturn ONLY valid JSON with exactly these keys:\n{\n  \"item_name\": null,\n  \"item_price\": null,\n  \"sub_total\": null,\n  \"tax\": null,\n  \"total\": null\n}\n\nRules:\n- Copy values exactly as written in the image.\n- Do not normalize commas, dots, spaces, or currency symbols.\n- If unsure, output null.\n- Return JSON only.",
+    "A2_no_explicit_schema": "Extract structured fields from this receipt image.\n\nReturn ONLY valid JSON containing the fields item_name, item_price, sub_total, tax, total.\n\nRules:\n- Copy values exactly as written in the image.\n- Do not normalize commas, dots, spaces, or currency symbols.\n- item_name = the first main purchased item, not store name, not payment method, not summary line.\n- item_price = the price associated with item_name, not subtotal, tax, cash, or change.\n- sub_total = value near keywords like SUBTOTAL, SUB TOTAL, or Sub Total.\n- tax = value near keywords like TAX, PB1, or service tax.\n- total = final payable amount near keywords like TOTAL, GRAND TOTAL, or Total.\n- Do NOT use CASH, CHANGE, CARD PAYMENT, CREDIT CARD, or DISCOUNT as total.\n- If multiple totals appear, choose the final payable amount.\n- If unsure, output null.\n- Return JSON only.",
+    "A3_no_format_rules": "Extract structured fields from this receipt image.\n\nReturn ONLY valid JSON with exactly these keys:\n{\n  \"item_name\": null,\n  \"item_price\": null,\n  \"sub_total\": null,\n  \"tax\": null,\n  \"total\": null\n}\n\nRules:\n- item_name = the first main purchased item, not store name, not payment method, not summary line.\n- item_price = the price associated with item_name, not subtotal, tax, cash, or change.\n- sub_total = value near keywords like SUBTOTAL, SUB TOTAL, or Sub Total.\n- tax = value near keywords like TAX, PB1, or service tax.\n- total = final payable amount near keywords like TOTAL, GRAND TOTAL, or Total.\n- Do NOT use CASH, CHANGE, CARD PAYMENT, CREDIT CARD, or DISCOUNT as total.\n- If multiple totals appear, choose the final payable amount.\n- If unsure, output null.\n- Return JSON only."
+  },
+  "source_file": "results/cord_vlm/qwen_vlm_7b_cord_test_filtered.json",
+  "ground_truth_dataset": "naver-clova-ix/cord-v2:test",
+  "evaluation_policy": "original_CORD_2026"
+}
