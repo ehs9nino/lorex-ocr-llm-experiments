@@ -1,0 +1,677 @@
+[
+  {
+    "split": "val",
+    "source_image": "1.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/1.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "2.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/2.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "3.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/3.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "4.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/4.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "5.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/5.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "6.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/6.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "7.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/7.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "8.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/8.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "9.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/9.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "10.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/10.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "11.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/11.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "12.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/12.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "13.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/13.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "14.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/14.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "15.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/15.jpg"
+  },
+  {
+    "split": "val",
+    "source_image": "16.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/val/16.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "17.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/17.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "18.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/18.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "19.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/19.png"
+  },
+  {
+    "split": "train",
+    "source_image": "20.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/20.png"
+  },
+  {
+    "split": "train",
+    "source_image": "21.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/21.png"
+  },
+  {
+    "split": "train",
+    "source_image": "22.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/22.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "23.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/23.png"
+  },
+  {
+    "split": "train",
+    "source_image": "24.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/24.png"
+  },
+  {
+    "split": "train",
+    "source_image": "25.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/25.png"
+  },
+  {
+    "split": "train",
+    "source_image": "30.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/30.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "32.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/32.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "33.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/33.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "40.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/40.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "41.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/41.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "45.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/45.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "49.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/49.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "51.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/51.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "56.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/56.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "58.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/58.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "59.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/59.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "61.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/61.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "63.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/63.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "64.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/64.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "65.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/65.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "66.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/66.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "67.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/67.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "68.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/68.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "69.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/69.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "70.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/70.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "71.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/71.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "72.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/72.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "73.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/73.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "74.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/74.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "75.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/75.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "76.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/76.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "77.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/77.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "78.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/78.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "79.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/79.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "80.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/80.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "81.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/81.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "82.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/82.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "83.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/83.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "84.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/84.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "85.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/85.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "86.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/86.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "87.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/87.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "88.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/88.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "89.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/89.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "90.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/90.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "91.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/91.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "92.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/92.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "93.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/93.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "94.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/94.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "95.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/95.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "96.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/96.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "97.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/97.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "98.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/98.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "99.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/99.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "100.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/100.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "101.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/101.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "102.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/102.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "103.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/103.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "104.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/104.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "105.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/105.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "106.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/106.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "107.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/107.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "108.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/108.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "109.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/109.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "110.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/110.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "111.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/111.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "112.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/112.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "113.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/113.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "114.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/114.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "115.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/115.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "116.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/116.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "117.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/117.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "118.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/118.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "119.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/119.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "120.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/120.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "121.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/121.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "122.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/122.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "123.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/123.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "124.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/124.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "125.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/125.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "126.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/126.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "127.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/127.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "128.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/128.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "129.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/129.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "130.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/130.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "131.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/131.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "132.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/132.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "133.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/133.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "134.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/134.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "135.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/135.jpg"
+  },
+  {
+    "split": "train",
+    "source_image": "136.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/train/136.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "137.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/137.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "138.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/138.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "139.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/139.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "140.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/140.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "141.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/141.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "142.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/142.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "143.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/143.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "144.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/144.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "145.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/145.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "146.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/146.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "147.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/147.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "148.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/148.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "149.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/149.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "150.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/150.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "151.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/151.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "152.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/152.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "153.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/153.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "154.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/154.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "155.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/155.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "156.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/156.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "157.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/157.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "158.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/158.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "159.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/159.jpg"
+  },
+  {
+    "split": "test",
+    "source_image": "160.jpg",
+    "source_path": "/root/LoREx-160/rate_confirmations/images/test/160.jpg"
+  }
+]

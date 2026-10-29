@@ -1,0 +1,81 @@
+variant,source_image,model,error,elapsed_s,parser,parse_error,parse_ok,item_name,item_price,sub_total,tax,total
+A0_baseline,1.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,ConnectError: [Errno -3] Temporary failure in name resolution,20.049,with_fence_stripping,missing_response,False,,,,,
+A0_baseline,1.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,ConnectError: [Errno -3] Temporary failure in name resolution,20.049,strict_json_only,missing_response,False,,,,,
+A0_baseline,33.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,ConnectError: [Errno -3] Temporary failure in name resolution,20.048,with_fence_stripping,missing_response,False,,,,,
+A0_baseline,33.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,ConnectError: [Errno -3] Temporary failure in name resolution,20.048,strict_json_only,missing_response,False,,,,,
+A0_baseline,48.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,ConnectError: [Errno -3] Temporary failure in name resolution,20.056,with_fence_stripping,missing_response,False,,,,,
+A0_baseline,48.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,ConnectError: [Errno -3] Temporary failure in name resolution,20.056,strict_json_only,missing_response,False,,,,,
+A0_baseline,56.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,ConnectError: [Errno -3] Temporary failure in name resolution,20.095,with_fence_stripping,missing_response,False,,,,,
+A0_baseline,56.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,ConnectError: [Errno -3] Temporary failure in name resolution,20.095,strict_json_only,missing_response,False,,,,,
+A0_baseline,57.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.089,with_fence_stripping,,True,ICED TT,"20,000",,,
+A0_baseline,57.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.089,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A0_baseline,61.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.24,with_fence_stripping,,True,TALAM UNGU,6.500,"24,500",,"24,500"
+A0_baseline,61.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.24,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A0_baseline,72.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.779,with_fence_stripping,,True,Choco Devil,"15,909","15,909","1,591","17,500"
+A0_baseline,72.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.779,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A0_baseline,84.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.901,with_fence_stripping,,True,Kroket,12.000,Rp 36.000,Rp 3.600,Rp 39.600
+A0_baseline,84.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.901,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A0_baseline,90.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.626,with_fence_stripping,,True,CIRENG PANDAWA,"26,818","26,818","2,681","29,500"
+A0_baseline,90.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.626,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A0_baseline,93.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.094,with_fence_stripping,,True,THAI ICED TEA (L),"16,363","16,363","1,636","17,999"
+A0_baseline,93.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.094,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A1_no_field_rules,1.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.434,with_fence_stripping,,True,J.STB PROMO,17500,,,91000
+A1_no_field_rules,1.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.434,strict_json_only,,True,J.STB PROMO,17500,,,91000
+A1_no_field_rules,33.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.967,with_fence_stripping,,True,GRILLED BABY POTATO (R),"50,500","117,500","11,070","148,127"
+A1_no_field_rules,33.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.967,strict_json_only,,True,GRILLED BABY POTATO (R),"50,500","117,500","11,070","148,127"
+A1_no_field_rules,48.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.906,with_fence_stripping,,True,S-Hazelnut KOI Cafe,"25,000","22,728","2,272","25,000"
+A1_no_field_rules,48.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.906,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A1_no_field_rules,56.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,6.214,with_fence_stripping,,True,AIR MINERAL,"8,181","8,181",818,"8,999"
+A1_no_field_rules,56.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,6.214,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A1_no_field_rules,57.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,3.599,with_fence_stripping,,True,ICED TT,"20,000",,,"42,000"
+A1_no_field_rules,57.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,3.599,strict_json_only,,True,ICED TT,"20,000",,,"42,000"
+A1_no_field_rules,61.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,3.93,with_fence_stripping,,True,TALAM UNGU,6.500,"24,500",,"24,500"
+A1_no_field_rules,61.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,3.93,strict_json_only,,True,TALAM UNGU,6.500,"24,500",,"24,500"
+A1_no_field_rules,72.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.023,with_fence_stripping,,True,Choco Devil,"15,909","15,909","1,591","17,500"
+A1_no_field_rules,72.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.023,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A1_no_field_rules,84.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.793,with_fence_stripping,,True,Kroket,12.000,Rp 36.000,Rp 3.600,Rp 39.600
+A1_no_field_rules,84.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.793,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A1_no_field_rules,90.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.017,with_fence_stripping,,True,CIRENG PANDAWA,"26,818","26,818","2,681","29,500"
+A1_no_field_rules,90.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.017,strict_json_only,,True,CIRENG PANDAWA,"26,818","26,818","2,681","29,500"
+A1_no_field_rules,93.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.906,with_fence_stripping,,True,THAI ICED TEA (L),"16,363","16,363","1,636","17,999"
+A1_no_field_rules,93.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.906,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A2_no_explicit_schema,1.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.196,with_fence_stripping,,True,J.STB PROMO,17500,,,91000
+A2_no_explicit_schema,1.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.196,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A2_no_explicit_schema,33.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,6.139,with_fence_stripping,,True,GRILLED BABY POTATO (R,"50,500","117,500","19,557","148,127"
+A2_no_explicit_schema,33.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,6.139,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A2_no_explicit_schema,48.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,7.776,with_fence_stripping,,True,S-Hazelnut KOI Cafe,"25,000","22,728","2,272","25,000"
+A2_no_explicit_schema,48.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,7.776,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A2_no_explicit_schema,56.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,7.563,with_fence_stripping,,True,AIR MINERAL,"8,181","8,181",818,"8,999"
+A2_no_explicit_schema,56.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,7.563,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A2_no_explicit_schema,57.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,3.402,with_fence_stripping,,True,ICED TT,"20,000",,,
+A2_no_explicit_schema,57.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,3.402,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A2_no_explicit_schema,61.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.1,with_fence_stripping,,True,TALAM UNGU,6.500,"24,500",,"24,500"
+A2_no_explicit_schema,61.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.1,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A2_no_explicit_schema,72.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.555,with_fence_stripping,,True,Choco Devil,"15,909","15,909","1,591","17,500"
+A2_no_explicit_schema,72.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.555,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A2_no_explicit_schema,84.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.727,with_fence_stripping,,True,Kroket,12.000,Rp 36.000,Rp 3.600,Rp 39.600
+A2_no_explicit_schema,84.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.727,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A2_no_explicit_schema,90.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.681,with_fence_stripping,,True,CIRENG PANDAWA,"26,818","26,818","2,681","29,500"
+A2_no_explicit_schema,90.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.681,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A2_no_explicit_schema,93.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.831,with_fence_stripping,,True,THAI ICED TEA (L),"16,363","16,363","1,636","17,999"
+A2_no_explicit_schema,93.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.831,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A3_no_format_rules,1.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,13.69,with_fence_stripping,,True,J.STB PROMO,17500,,,91000
+A3_no_format_rules,1.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,13.69,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A3_no_format_rules,33.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.678,with_fence_stripping,,True,GRILLED BABY POTATO (R),"50,500","117,500","30,627","148,127"
+A3_no_format_rules,33.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.678,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A3_no_format_rules,48.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,6.596,with_fence_stripping,,True,S-Hazelnut KOI Cafe,"25,000","22,728","2,272","25,000"
+A3_no_format_rules,48.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,6.596,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A3_no_format_rules,56.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.651,with_fence_stripping,,True,AIR MINERAL,"8,181","8,181",818,"8,999"
+A3_no_format_rules,56.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.651,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A3_no_format_rules,57.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,3.787,with_fence_stripping,,True,ICED TT,"20,000",,,
+A3_no_format_rules,57.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,3.787,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A3_no_format_rules,61.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.341,with_fence_stripping,,True,TALAM UNGU,6500,24500,,24500
+A3_no_format_rules,61.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.341,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A3_no_format_rules,72.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.081,with_fence_stripping,,True,Choco Devil,"15,909","15,909","1,591","17,500"
+A3_no_format_rules,72.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,5.081,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A3_no_format_rules,84.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.539,with_fence_stripping,,True,Kroket,12.000,Rp 36.000,Rp 3.600,Rp 39.600
+A3_no_format_rules,84.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,4.539,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A3_no_format_rules,90.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,13.012,with_fence_stripping,,True,CIRENG PANDAWA,"26,818","26,818","2,681","29,500"
+A3_no_format_rules,90.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,13.012,strict_json_only,parse_error:JSONDecodeError,False,,,,,
+A3_no_format_rules,93.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,6.273,with_fence_stripping,,True,THAI ICED TEA (L),"16,363","16,363","1,636","17,999"
+A3_no_format_rules,93.png,Qwen/Qwen2.5-VL-72B-Instruct:fastest,,6.273,strict_json_only,parse_error:JSONDecodeError,False,,,,,

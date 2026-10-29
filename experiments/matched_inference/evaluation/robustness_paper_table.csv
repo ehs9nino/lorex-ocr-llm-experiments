@@ -1,0 +1,9 @@
+Method,Historical clean F1,Matched clean F1,Noisy F1,Noisy − matched (pp)
+Qwen-VLM,72.20,81.48,79.97,-1.51
+PaddleOCR + LLM P2,65.69,68.79,68.43,-0.36
+Regex + Tesseract,52.41,51.12,42.17,-8.95
+DocTR + LLM P2,44.79,48.72,44.81,-3.91
+Tesseract + LLM P2,39.50,42.51,35.22,-7.29
+OpenOCR + LLM P2,25.61,31.43,33.23,1.80
+Tesseract + LLM P1,30.26,27.51,23.27,-4.24
+EasyOCR + LLM P2,9.96,11.67,9.80,-1.87

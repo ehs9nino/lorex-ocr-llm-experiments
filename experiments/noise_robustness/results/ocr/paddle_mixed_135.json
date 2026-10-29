@@ -1,0 +1,947 @@
+[
+  {
+    "split": "val",
+    "source_image": "1.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "116WQ2Q45\nStarts in\n14h 58m\nIND2 PLAINFIELD, IN 46168\n193 mi\nSun, Aug 18, 11:30 EDT\n5h57m\n53' TrailerR\n↓\nMDW5 CREST HILL, ILLINOIS 60403\nDrop\nSun, Aug 18, 15:56 CDT\nSat, 17 Aug 11:30 Easterrt.\n$1022,07\n$5.29/mi\nB. RUHULLOI\n:",
+    "time_seconds": 4.298
+  },
+  {
+    "split": "val",
+    "source_image": "2.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "T-112K9S5H5\nStarts in\nSpot\n9h11m\nRDG1 HAMBURG, Pennsylvania 19526\n560 mi\nSun, Aug 18, 01:30 EDT\n1d 2h\n53' Trailer\nDET3 PONTIAC, Michigan 48342\nMon, Aug 19, 03:04 EDT\nDrap/Live\n$847,46\n$1.51/mi\nA. Nurov\n^",
+    "time_seconds": 3.24
+  },
+  {
+    "split": "val",
+    "source_image": "3.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-113MK9MSS\nStarts in\npot\n10h 33m\nDET3 PONTIAC, Michigan 48342\n672mi\nSun, Aug 18, 01:08 EDT\n15h 38m\n53' Trailer\nLDJ5 STATEN ISLAND, NY 10314\nSun, Aug 18, 16:15 EDT\nDrop\n$1 459,89\n$2.17/mi\nD. Suleimonov, H. Bandishoev",
+    "time_seconds": 3.23
+  },
+  {
+    "split": "val",
+    "source_image": "4.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-114RDNVV2\nStarts in\npot\n9h 22m\nABQ2 Los Lunas, NM 87031\n400 mi\nSat, Aug 17, 19:28 MDT\n9h 42m\n53' Trailer\nCOS5 COLORADO SPRINGS, Colorado\nSun, Aug 18, 04:39 MDT\nDrop\n$965,968\n$2.41/mi\nO. Mirzoev",
+    "time_seconds": 3.589
+  },
+  {
+    "split": "val",
+    "source_image": "5.jpg",
+    "noise_type": "blur",
+    "ocr_text": "T-113JFVVRZ\nStarts in\nSpot\n11h 57m\nDCL2 AKRON, Ohio 44305\n470 mi\nSat, Aug 17, 21:51 EDT\n11h 1m\n53' Trailer\nEWR8 TETERBORO, NJ 07608\nSun, Aug 18, 08:21 EDT\nDrop\n$902,03\n$1.92/mi\nO. Mukhtorov",
+    "time_seconds": 4.206
+  },
+  {
+    "split": "val",
+    "source_image": "6.jpg",
+    "noise_type": "blur",
+    "ocr_text": "11Y66J3D\nStarts in\npot\n13h 46m\nPHX5 GOODYEAR, AZ 85338\n729 mi\nSat, Aug 17, 19:45 MST\n15h 29m\n53' Trailer P\nTCY9 OAKLEY, California 94561\nSun, Aug 18, 10:43 PDT\nDrop\n$1 215,26\n$1.67/mi\nA. Shomurodov, A. Sharifzoda",
+    "time_seconds": 3.232
+  },
+  {
+    "split": "val",
+    "source_image": "7.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "112YL5VHQ\nStarts in\n20h 1m\nAMA1 Amarillo, TX 79108\n305 mi\nSun, Aug 18, 02:00 CDT\n7h 3m\n53'Trailer\nABQ5 ALBUQUERQUE, New MexiCo 87121\nDrop\nSun, Aug 18, 07:32 MDT\nSat, 17 Aug 02:00 Central D\n$1 163,93\n$3.82/mi\nS. Aralov",
+    "time_seconds": 3.421
+  },
+  {
+    "split": "val",
+    "source_image": "8.jpg",
+    "noise_type": "blur",
+    "ocr_text": "T-116Q2V1FP\nStarts in\nSpot\n1h 8m\nAMA1 Amarillo, TX 79108\n318 mi\nSat, Aug 17, 05:45 CDT\n7h 50m\n53' Trailer\nABQ1 ALBUQUERQUE, New Mexico..\nSat, Aug 17, 12:04 MDT\nLive/Drop\n$711,07\n$2.24/mi\nO. Mirzoev",
+    "time_seconds": 2.882
+  },
+  {
+    "split": "val",
+    "source_image": "9.jpg",
+    "noise_type": "blur",
+    "ocr_text": "114F61LDK\nStarts in\n1d 2h\nELP1 EL PASO, Texas 79928\n347 mi\nSun, Aug 18, 04:30 MDT\n8h 9m\n53' Trailer\nLBB5 LUBBOCK, Texas 79403\nDrop\nSun, Aug 18, 13:08 CDT\nSat, 17 Aug 04:30 Mountai...\n$1 281,19\n$3.69/mi\nE. Makhmadov",
+    "time_seconds": 2.721
+  },
+  {
+    "split": "val",
+    "source_image": "10.jpg",
+    "noise_type": "blur",
+    "ocr_text": "111C2HNDW\nStarts in\n22h 57m\nIND1 WHITESTOWN, IN 46075\n167 mi\nSun, Aug 18, 03:00 EDT\n4h 58m\n53' Trailer\nMDW5 CREST HILL, ILLINOIS 60403\nDrop\nSun, Aug 18, 06:27 CDT\nSat, 17 Aug 03:00 Eastern ..\n$951,37\n$5.69/mi\nB. Bobiev",
+    "time_seconds": 2.453
+  },
+  {
+    "split": "val",
+    "source_image": "11.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "1117VWVW1\nStarts in\npot\n13h 47m\nSAT4 SAN ANTONIO, Texas 78245\n563 mi\nSat, Aug 17, 16:45 CDT\n12h 15m\n53' Trailer\nTUL5 TULSA, Oklahoma 74116\nSun, Auq 18, 04:29 CDT\nDrop\n$877,98\n$1.56/mi\nS. Karimov\nC",
+    "time_seconds": 2.7
+  },
+  {
+    "split": "val",
+    "source_image": "12.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "115L1W2PY\nStarts in\n19h 57m\nHIN9 WHITELAND, Indiana 46184\n498 mi\nSat, Aug 17, 21:00 EDT\n11h 2m\n53'Trailer\nHMC9 Liberty, Missouri 64068\nDrop\nSun, Aug 18, 06:31 CDT\nFri, 16 Aug 21:00 Eastern D..\n$1654,35\n$3.32/mi\nA. Marynchyk, M. Mamatkhonov",
+    "time_seconds": 2.505
+  },
+  {
+    "split": "val",
+    "source_image": "13.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "1148TFTZM\nStarts in\n1d Oh\nIND1 WHITESTOWN, IN 46075\n167 mi\nSun, Aug 18, 01:00 EDT\n4h 57m\n53'Trailer\nMDW5 CREST HILL, ILLINOIS 60403\nDrop\nSun, Aug 18, 04:26 CDT\nSat, 17 Aug 01:00 Eastern.\n$951,37\n$5.69/mi\nd. orifov",
+    "time_seconds": 3.208
+  },
+  {
+    "split": "val",
+    "source_image": "14.jpg",
+    "noise_type": "blur",
+    "ocr_text": "T-111JTB6FK\nStarts in\npot\n6h 18m\nFWA4 FORT WAYNE, Indiana 46809\n748 mi\nSat, Aug 17, 06:22 EDT\n1d 13h\n53'Trailer\nSAV3 Macon, Georgia 31216\nSun, Aug 18, 18:24 EDT\nDrop\n$1319,67\n$1.76/mi\nD. Dzhuraev",
+    "time_seconds": 3.973
+  },
+  {
+    "split": "val",
+    "source_image": "15.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "115ZVR5ML\nStarts in\n9h 30m\nIND2 PLAINFIELD, IN 46168\n193 mi\nSat, Aug 17, 11:30 EDT\n5h 57m\n53' Trailer \nMDW5 CREST HILL, ILLINOIS 60403\nDrop\nSat, Aug 17, 15:56 CDT\nFri, 16 Aug 11:30 Easter D...\n$1022,07\n$5.29/mi\nS. Gapparov",
+    "time_seconds": 3.83
+  },
+  {
+    "split": "val",
+    "source_image": "16.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "112HMZ4M1\nStarts in\npot\n7h 42m\nMTN1 WILMINGTON, Delaware 19804\n518mi\nWed, May 8, 13:15 EDT\n12h 43m\n53' Trailer P\nCLT9 CHARLOTTE, NC 28214\nThu, May 9, 01:27 EDT\nDrop\n$877,43\n$1.69/mi\nA. Sharipov, S. Qalandarov",
+    "time_seconds": 3.494
+  },
+  {
+    "split": "train",
+    "source_image": "17.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "113TC2VC1\nStarts in\nSpot\n5h 46m\nMDW7 MONEE, ILLINOIS 60449\n481 mi\nThu, May 9, 11:00 CDT\n11h 1m\n53'Trailer P\nOMA2 OMAHA, Nebraska 68138\nThu, May 9, 21:30 CDT\nDrop\n$769,64\n$1.60/mi\nP. Ashurov",
+    "time_seconds": 3.327
+  },
+  {
+    "split": "train",
+    "source_image": "18.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "1112426R4\nStarts in\nSpot\n6h 44m\nOAKS NEWARK, CALIFORNIA 94560\n718 mi\nThu, May 9, 01:45 PDT\n15h 30m\n53' Trailer P\nAZA5 PHOENIX, Arizona 85043\nThu, May 9, 16:44 MST\nDrop\n$1435,828\n$2.00/mi\nU. Mukimov, E. Sulaimonov",
+    "time_seconds": 2.654
+  },
+  {
+    "split": "train",
+    "source_image": "19.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "18BVHHK\nStarts in\nTUS2 TUCSON, Arizona 85756\nTCY9 OAKLEY, California 94561\n874 mi\n53' TrailerP\nDrop\n$1 675,52\n2\n6h 15m\nWed, May 8, 03:45 MST\nWed, May 8, 22:46 PDT\n19h 32m\n$1.92/mi\n1118BVHHK\nTCY9\n874 mi\nTUS2\nDrop\n$393,11\n19h 32m\ntop\nEquipment\nArrival\nDeparture\nTUS2\nTractor ID -\n53'Trailer\nSch. 8 May, 03:4S MST\nSch.  CPT8 May, 04:30 MST\n701 S KOLB RD\nReport delay\nReport delay\nSON, Arizona 85756\nTrailer ID -\nPreloaded\nPick-up instructions\nTCY9\nTractor ID --\n53'Trailer\nSch, 8 May, 22:46 PDT\nSch., 8 May, 23:17 PDT\n00 Wilbur Ave\nReport delay\nKLEY, California 94561\nTrailer ID --",
+    "time_seconds": 6.554
+  },
+  {
+    "split": "train",
+    "source_image": "20.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "113CYW4VG\nStarts in\nMCO5 DAVENPORT, FLORIDA 33897\nMEM2 BYHALIA, Mississippi 38611\n744 mi\nDrop\n$974,04\nSpot\n6h 12m\nThu, May 2, 00:38 CDT\n1d Th\n53' Trailer P\nR. Nodirov\n°\nWed, May 1, 00:13 EDT\n$1.31/mi\n113CYW4VG\nMCO5\nMEM2\n744 mi\ne\n2\nDrop\n$341,67\nR. Nodirov\n^\n1d Th\nstop\nEquipment\nArrival\nDeparture\nMCO5\nTractor ID -\n--\n05 Deen Still Rd\n53'Trailer\nSch. 1 May, 00:13 EDT\nSch, 1 May, 00:58 EDT\nReport delay\nAVENPORT, FLORIDA 33897\nReport delay\nTrailer ID \nPreloaded\nPick-up instructions\nMEM2\nTractor ID -\n-\n191 NORFOLK SOUTHERN WAY\n53'Trailer\nSch.2 May, 00:38 CDT\nSch.2 May, 01:09 CDT\nBYHALIA, Mississippi 38611\nTrailer ID -\nReport delay\nDrop\nDrop-off instructions\n$\n©\nView all shipment details\nReject\nRequest trip support\nReport delay\n<< < Previous 1 Next >",
+    "time_seconds": 9.039
+  },
+  {
+    "split": "train",
+    "source_image": "21.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "1h 51m\nSun, Dec 17, 20:25 CST\nMOB5 THEODORE, AL 36582\nJAN1 CANTON, Mississippi 39046\n216 mi\n53' Trailer\nDrop\n$488,22\n5h 39m\nZ. Karimov\nMon, Dec 18, 01:33 CST\n$2.26/mi\n15KYJTQM\nMOB5\nJAN1\n216 mi\nDrop\n$97,02\nZ. Karimov\n5h 39m\nop\nEquipment\nArrival\nDeparture\nMOB5\nTractor ID -\n35 Trippel Rd\nO 53'Trailer\nSch. 17 Dec, 20:25 CST\nSch. 17 Dec., 21:10 CST\nEODORE, AL 36582\nTrailer ID -\nReport delay\nReport delay\nPreloaded\nPick-up instructions\nJAN1\nTractor ID -\n9 MADISON COUNTY PKWY\n 53'Trailer\nSch. 18 Dec, 01:33 CST\nSch. 18 Dec, 02:04 CST\nNTON, Mississippi 39046\nTrailer ID\nReport delay\nDrop\nDrop-off instructions",
+    "time_seconds": 6.576
+  },
+  {
+    "split": "train",
+    "source_image": "22.jpg",
+    "noise_type": "blur",
+    "ocr_text": "111YH4536\nStarts in\nSpot\n4h 53m\nBOS5 STOUGHTON, MASSACH...\n389 mi\n1\nWed, Dec 13, 05:00 EST\n9h 39m\n↓\n53' Trailer\nP\nMTN2 ABERDEEN, Maryland 2...\n2\nDrop\nWed, Dec 13, 14:08 EST\n$1 300\n$3.34/mi\nJ. Rahimzoda\n^",
+    "time_seconds": 6.139
+  },
+  {
+    "split": "train",
+    "source_image": "23.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "564 mi\nDrop\n$1550,1\n80431H\nStarts in\nMKC6 KANSAS CITY, KANSAS 66102\nMKE5 KENOSHA, WISCONSIN 53144\n53' TrailerP\n→\nMon, Dec 18, 10:51 CST\n11h 22m\n$2.75/mi\not\n3h 8m\nMon, Dec 18, 00:00 CST\n564 mi\nMKE5\nDrop\n$280,4\n1168D431H\nMKC6\n→\n2\n11h 22m\nArrival\nDeparture\nStop\nEquipment\n0--\n1\nMKC6\nTractor ID 23080PF\nSch. 18 Dec, 00:45 CST\nTn\nSch. 18Dec, 00:0D CST\n53'Trailer\nReport delay\n6925 Riverview Avenue\nReport delay\nKANSAS CITY, KANSAS 66102\nTrailer ID AZNG V500292\nPreloaded\nready for pickup\nPick-up instructions\nmKE5\nTractor ID 23080PF\na\nSch. 18 Dec, 10:51 CST\nSch. 18 Dec, 11:22 CST\n11211 BURLINGTON RD\n•53' Trailer\nReport delay\nKENOSHA, WISCONSIN 53144\nTrailer ID V500292\nDrop",
+    "time_seconds": 8.477
+  },
+  {
+    "split": "train",
+    "source_image": "24.jpg",
+    "noise_type": "blur",
+    "ocr_text": "ot\nMon, Dec 18, D0:45 CST\nMon, Dec 18, 11:53 CST\n11h 39m\n564 mi\n53' Trailer P\nDrop\n$1 621,25\nB. Abdulloev\n$2.87/mi\n11451645R\nFOE1\nMKE5\n564 mi\nDrop\n11h 39m\n$280,53\nB. Abdulloev\nStop\nEquipment\nArrival\nDeparture\n Foe1\nTractor ID --\n400 LEAVENWORTH RD\n53'Trailer\nSch. 18 Dec, 00:45 CST\nSch.\nA CPT 18 Dec, 01:30 CST\nCANSAS CITY, Kansas 66109\nTrailer ID AZNG HV2304259\nReport delay\nReport delay\nPreloaded\nPick-up instructions\n2 MKE5\nTractor ID --\n11211 BURLINGTON RD\n53'Trailer\nSch. 18 Dec, 11:53 CST\nSch. 18 Dec, 12:24 CST\nKENOSHA, WISCONSIN 53144\nTrailer ID HV2304259\nReport delay\nDrop\nDrop-off instructions",
+    "time_seconds": 6.774
+  },
+  {
+    "split": "train",
+    "source_image": "25.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "I1348Z9N9\nGRR1 CALEDONIA, MI 49316\nMQJ1 GREENFIELD, Indiana 46140\n458 mi\n$2 300\n53' TrailerP\nF. Nizomov\n2/2 L\not\nSun, Dec 3, 08:50 EST\nSun, Dec 3, 20:03 EST\n11h 44m\n$5.03/mi\n316 mi\nKilN\n$151,91\nFarkhod Nizomov\n\n 115RD9JCR\nGRR1\n→\n8h 16m\nStop\nArrival\nDeparture\nEquipment\n3 Dec, 06:50 ESTY+\n3 DeC, 07:04 ESTY+\nGRR1\nTractor ID 22639PF\nSch. 3 Dec, 08:50 EST\nSch. A CPT3 Dec, 09:35 EST\n4500 68th Street SE\n•53' Trailer\nReport delay\nReport delay\nTrailer ID AZNG HV2303848\nCALEDONIA, MI 49316\nPreloaded\ndeparted\n> Pick-up instructions\nKiln\nTractor ID 22639PF\n3 Dec, 12:53 ESTY+\n3 Dec, 13:02 ESTM\n53'Trailer\nSch. 3 Dec, 16:35 EST\nSch. 3 Dec, 17:06 EST\n145 Hunter Drive.\nWILMINGTON, OH 45177\nTrailer ID HV2303848\nReport delay\nDrop\ndeparted\nDrop-off instructions",
+    "time_seconds": 11.79
+  },
+  {
+    "split": "train",
+    "source_image": "30.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "1135BVFGV\nStarts in\nSpot\n2h 16m\nDLT6 KERNERSVILLE, North Ca...\n1\n99 mi\nSat, Dec 9, 14:00 EST\n3h 16m\n53' Trailer\nP\nCLT4 CHARLOTTE, North Carol..\n2\nSat, Dec 9, 16:45 EST\nDrop\n$320\n$3.24/mi\nF. Nizomov",
+    "time_seconds": 6.663
+  },
+  {
+    "split": "train",
+    "source_image": "32.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "115CCBBR6\nStarts in\nSpot\n1h15m\nIGQ1 Harvey, Illinois 60428\n170 mi\nSat, Dec 9, 21:14 CST\n5h3m\n53' Trailer\nMQJ5 PLAINFIELD, Indiana 4..\nSun, Dec 10, 02:46 EST\nDrop\n$588,164\n$3.45/mi\nR. Nodirov",
+    "time_seconds": 3.115
+  },
+  {
+    "split": "train",
+    "source_image": "33.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "1115B4MX3\nStarts in\npot\n1h 15m\nMEM8 BYHALIA, Mississippi 38..\n161 mi\nSun, Dec 3, 08:33 CST\n4h 24m\n53 Trailer P\nLIT2 NORTH LITTLE ROCK, Ark...\nDrop\nSun, Dec 3, 12:26 CST\n$391,205\n$2.42/mi\nN. Sanoev\n^",
+    "time_seconds": 2.82
+  },
+  {
+    "split": "train",
+    "source_image": "40.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "I8G1MWR\nStarts in\nSDF8 JEFFERSONVILLE, IN 47130\nGSP1 SPARTANBURG, 5C Z9303\n415 mi\n53' Trailer P\nDrop\n$881.369\nK., Iuldashev\not\n4n 36m\nMon, ec 18, 12:35 ESt\nMon, Dec 18, 21:20 EST\n9h 16m\n$2.12/m1\nGSP1\n415 mi\nSDF8\nDrop\n$201.085\n/ 1118G1MWR\nK. luldashev\n9h 16m\nArrival\nDeparture\nStop\nEquipment\n5DF8\nTractor (D --\nSch. 18 Dec, 12:35 EST\nSch.  CPT 18 DeC, 13:20 EST\n900 Patrol Rd\n53'Trailer\nReport delay\nReport delay\nJEFFERSONVILLE, IN 47130\nTrailer ID -\nPreloaded\nPick-up instructions\n2 GSP1\nTractor ID \nSch, 18Dec, 21:20 EST\nSch. 18 Dec, 21:51 EST\n402 John Dodd Rd.\n53'Trailer\nReport delay\nSPARTANBURG, SC 29303\nTrailer ID \nDrop\nDrop-off instructions\nReject\nRequest trip support\nReport del",
+    "time_seconds": 7.615
+  },
+  {
+    "split": "train",
+    "source_image": "41.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-114FJW26Z\nStarts in\nSpot\n1h 41m\nCLT5 Concord, NC 28027\n427 mi\nMon, Sep 29, 23:30 EDT\n10h 59m\n53' Trailer\nBHM1 Bessemer, AL 35022\nTue, Sep 30, 08:58 CDT\nDrop\n$912.11\n$2.14/mi\nF. Mirsalimov",
+    "time_seconds": 3.377
+  },
+  {
+    "split": "train",
+    "source_image": "45.jpg",
+    "noise_type": "blur",
+    "ocr_text": "JAP DeC 19.05:55 E51\n11h 24m\nDrop\n$2.68/mi\nS. Rakhimiov\n6CQYNYB\nCMH1\nLGA5\n545 mi\nDrop\n11h 24m\n$460.94\n5. Rakhimov\nEquipment\nArrival\nDeparture\nMH1\nTractor ID --\nNational Road SW\n53'Trailer\nSch. 18 Dec, 17:00 EST\nSch. 18 Dec, 17:45 EST\nOH 43062\nTrailer ID -\nReport delay\nReport delay\nPreloaded\nup instructions\nTractor ID --\nTE ROUTE 27\n53'Trailer\nSch. 19 Dec, 03:53 EST\nSch. 19 Dec, 04:24 EST\nReport delay\nNJ 08817\nTrailer ID --\nDrop",
+    "time_seconds": 5.094
+  },
+  {
+    "split": "train",
+    "source_image": "49.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "2GRN9M2\nStarts in\nMDW7 MONEE, ILLINOIS 60449\nEWR8 TETERBORO, NJ 07608\n797 mi\nBh 42m\n53' Trailer P\nDrop\n$1,580.929\nMon, Dec 18, 17:15 CST\nF. Gulomi, G. Rahim...\not\nTue, Dec 19, 09:59 EST\n16h 15m\n$1.98/mj\n112GRN9M2\nMDW7\nEWRB\n797 mi\nDrop\n$487.507\nF. Gulomi, G. Rahi...\n16h 15m\nStop\nEquipment\nArrival\nDeparture\n1 MDW7\nTractor ID -\n605 W Monee Manhattan Rd\n•53' Trailer\nSch. 18 Dec, 37:15 CST\nSch. A CPT18 Dec, 18:00 CST\nTONEE, (LLUINOIS 60449\nReport delay\nTrailer ID -\nReport delay\nPreloaded\nPick-up instructions\nEWR8\nTractor ID-\n•53' Trailer\nSch. 19 Dec, 09:59 EST\nSch. 19 Dec, 10:30 EST\n598 Route 46\nReport delay\nTrailer ID \nTETERBORO, NJ 07608\nDrop\nDrop-off instructions\nReject\nRequest trip suppart\nReport detiay",
+    "time_seconds": 8.109
+  },
+  {
+    "split": "train",
+    "source_image": "51.jpg",
+    "noise_type": "blur",
+    "ocr_text": "SAN3 SAN DiEGO, California 92154\nCY9 OAKLEY, California 94561\n519 mi\n53' Trailer P\nDrop\n$1,296.55\nMon, Dec 18, 13:45 PST\nTue, Dec 19, 01:40 PST\n12h 26m\nU. Mukimov, S. Sho...\n$2.50/mi\n1145YCLFX\nSAN3\nTCY9\n519 mi\n12h 26m\nDrop\n$233.57\nU. Mukimov, 5. Sho...\nStop\nEquipment\nArrival\nDeparture\nSAN3\nTractor ID -\n971 OTAY MESA RD\n53' Trailer\nSch. 18 Dec, 13:45 PST\nSch. A CPT 18 Dec, 14:30 PST\nAN DIEGO, California 92154\nTrailer ID AZNG V502440\nReport delay\nReport delay\nPreloaded\nPick-up instructions\nTCY9\nTractor ID -\n4500 Wilbur Ave\n•53'Trailer\nSch. 19 Dec, 01:40 PST\nSch. 19 Dec. 02:11 PST\nOAKLEY, California 94561\nTrailer ID V502440\nReport delay\nDrop\nDrop-off instructions\nReject\nRequest trip support\nReport",
+    "time_seconds": 7.181
+  },
+  {
+    "split": "train",
+    "source_image": "56.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "12RC73KM\nStarts in\nAGS1 APPLING, Georgia 30802\nAGS2 PENDERGRASS, Georgia 30567\n107 mi\n53' Trailer P\nDrop\n$302.98\npot\n7h 5m\nMon, Dec 18. 22:15 E5T\nR. Nodirov\nTue, Dec 19, 01:45 ESt\n4h 1m\n$2.85/m\n112RC73KM\nAGS1\nAGS2\n107 mi\nDrop\n$48.25\nR. Nodirov\n4h 1m\nStop\nEquipment\nArrival\nDeparture\n1AGS1\nTractor ID\n150 DISCOVERY DR\n53Trailer\nSch. 18 Dec. 22:15 EST\nSch.  CPT 18 Dec. 23:00 EST\nAPPLING, Georgia 30802\nReport delay\nReport delay\nTrailer ID AZNU 209094\nPreloaded\nPick-up instructions\n2 AGS2\nTractor ID --\nP\n53' Trailer\nSch. 19 Dec, 01:45 EST\nSch. 19 Dec, 02:16 EST\n429 Toy Wright Road\nReport delay\nPENDERGRASS, Georgia 30567\nTrailer ID 209094\n9\nDrop\nDrop-off instructions",
+    "time_seconds": 6.183
+  },
+  {
+    "split": "train",
+    "source_image": "58.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "144MC7\nStarts in\nAUS3 WACO, Texa5 76712\nFTW6 Dallas, TX 75261\n120 mi\n53' ContainerP\nDrop\n$244.475\nM. Latipov\n12h 38m\nTur, Ooc 19, 03:45 CST\nTue, Dec 19, 06:57 CST\n3h 43m\n$2.03/m\n→  FTW6\n120 mi\n114N44MC7\nAUS3\nDrop\n$54.16\nM. Latipov\n3h 43m\nStop\nArrival\nDeparture\nEquipment\nAUS3\nTractor (0 -\n5ch. 19 Dec, 03:45 CST\nSch. A CPT 19 Dec, 04:30 CST\n2000 EXCHANGE PARKWAY\n•53' Container\nReport delay\nReport delay\nNACO, Texas 76712\nTrailer ID -\nPreloaded\nPick-up instructions\n2FTW6\nTractor ID\nSch. 19 Dec, 06:57 CST\nSch. 19 Dec, 07:2B CST\n601 W Bethel Road\n•53' Container\nReport delay\nDallas, TX 75261\nTrailer ID\nDrop\nDrop-off instructions\nReject\nRequest trip support.\nReport dela",
+    "time_seconds": 6.389
+  },
+  {
+    "split": "train",
+    "source_image": "59.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "T-115MLCLS3\nStarts in\npot\n9h 57m\nHOU2 HOUSTON, TEXAS 77038\n863 mi\nSat, Jan 20, 11:49 CST\n19h 44m\n53' Trailer P\nBNA8 LEBANON, TennesSee 37090\nDrop\nSun, Jan 21, 07:02 CST\n$1 475,73\n$1.71/mi\n:\nA. Zakiloev, A. Kurbonov",
+    "time_seconds": 3.307
+  },
+  {
+    "split": "train",
+    "source_image": "61.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "11N8QLPW\nStarts in\nDFL8 GROVELAND, Florida 34736\nBNA7 Mt. Juliet, TN 37122\n664 mi\n53' Trailer\nDrop\n$870,26\not\nOh 42m\nSat, May 4, 14:40 EOT\n>\nSun, May 5, 15:11 CDT\n1d Zh\nA. Marynchyk\n$131/mi\n111N8QLPW\nDFL8\nBNA7\n664 mi\n-\n1d 2h\nDrop\n$305,74\nA. Marynchyk\nStop\nEquipment\nArrival\nDeparture\n9DFL8\nTractor ID --\n©ETA4 May, 11:40 EDT\n453 Republic Dr\n53'Trailer\nSch. 4 May, 14:40 EDT\nSch.  CPT.4 May, 15:25 EDT\nROVELAND, Florida 34736\nTrailer ID\nReport delay.\nReport delay\nPre(oaded\nPick-up instructions\nBNA7\nTractor ID-\n•53' Trailer\nSth. 5 May, 15:11 CDT\nthietes Way N\nReport delay.\nSch, 5 May, 15:42 CDT\nTrailer ID\net, TN37122\nDrop",
+    "time_seconds": 6.715
+  },
+  {
+    "split": "train",
+    "source_image": "63.jpg",
+    "noise_type": "blur",
+    "ocr_text": "112HMZ4M1\nStarts in\nSpot\n7h 42m\nMTN1 WILMINGTON, Delaware 19804\n518 mi\nWed, May 8, 13:15 EDT\n12h 43m\n53' Trailer\nCLT9 CHARLOTTE, NC 28214\nThu, May 9, 01:27 EDT\nDrop\n$877,43\n$1.69/mi\nA. Sharipov, S. Qalandarov",
+    "time_seconds": 2.825
+  },
+  {
+    "split": "train",
+    "source_image": "64.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "T-113R7954F\nStarts in\nSpot\n10h 35m\nSTL8 St Charles, MO 63376\n440 mi\nSat, Jan 20, 16:15 CST\n13h.21m\n53' Containe...\nP\nMDW9 AURORA, IL 60502\nDrop\nSun, Jan 21, 05:05 CST\n$918,59\n$2.09/mi\nB. Azamatov",
+    "time_seconds": 2.741
+  },
+  {
+    "split": "train",
+    "source_image": "65.jpg",
+    "noise_type": "blur",
+    "ocr_text": "113TC2VC1\nStarts in\nSpot\n5h 46m\nMDW7 MONEE, ILLINOIS 60449\n481 mi\nThu, May 9, 11:00 CDT\n11h1m\n53' TrailerP\nOMA2 OMAHA, Nebraska 68138\nThu, May 9, 21:30 CDT\nDrop\n$769,64\n$1.60/mi\nP. Ashurov",
+    "time_seconds": 2.389
+  },
+  {
+    "split": "train",
+    "source_image": "66.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "1154W7Q5J\nStarts in\nSpot\n8h 46m\nHOU5 Katy, TX 77449\n1156 mi\nTue, Oct 7, 13:30 CDT\n1d Oh\n53' Trailer\nP\nMKE5 KENOSHA, WI 53144\nWed, Oct 8, 13:11 CDT\nDrop\n$1,947.25\n$1.68/mi\nO. Mirzoev, S. Narzulloev",
+    "time_seconds": 2.376
+  },
+  {
+    "split": "train",
+    "source_image": "67.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "11162NHKJ\nStarts in\nSpot\n6h 49m\nSBN1 BRISTOL, Indiana 46507\n618mi\nTue, Oct 7, 12:45 EDT\n13h42m\n53' Trailer\nMCI5 LENEXA, KS 66219\nWed, Oct 8, 00:56 CDT\nDrop\n$1,716.72\n$2.78/mi\nF. Alimardonov, A. BOBOEV",
+    "time_seconds": 2.697
+  },
+  {
+    "split": "train",
+    "source_image": "68.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "1161HDS18\nStarts in\nSpot\n7h 48m\nRDU1 GARNER, NC 27529\n434mi\n1\nTue, Oct 7, 13:15 EDT\n9h 41m\n53' Trailer\nd\nMGE9 Union City, GA 30291\n2\nDrop\nTue, Oct 7, 22:25 EDT\n$683,47\n$1.58/mi\nS. Nimonzoda\nA\nA\nIN 3887309",
+    "time_seconds": 5.392
+  },
+  {
+    "split": "train",
+    "source_image": "69.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "116N8MJB3\nStarts in\nSpot\n7h 15m\nSHV1 Shreveport, LA 71107\n600 mi\nTue, Oct 7, 11:30 CDT\n12h 15m\n53' Trailer\nMGEY Union City, GA 30291\nWed, Oct 8, 00:14 EDT\nDrop\n$1,004.98\n$1.68/mi\nA. Raqibov",
+    "time_seconds": 3.015
+  },
+  {
+    "split": "train",
+    "source_image": "70.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "-714CR14R2\nStarts in\not\n5h 38m\nCLES TWINSBURG, OH 44087\n647 mi\nTue, Oct 7.08:57 EDT\n1d 22h\n53' Trailer\nP\nHSV1 Madison, AL 35756\nDrop\nThu, Oct 9. 05:30 CDT\n$1,784.89\n$2.76/mi\nA. Sharipov\n^",
+    "time_seconds": 2.839
+  },
+  {
+    "split": "train",
+    "source_image": "71.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "114Y8SBJH\nStarts in\nSpot\n8h 59m\nCVG9 Hebron, KY 41048\n939 mi\nTue, Oct 7, 12:15 EDT\n20h 23m\n53' Trailer\nDAL9 WILMER, TX 75172\nWed, Oct 8, 07:07 CDT\nDrop\n$1,930.14\n$2.06/mi\nS. Khodzhiev, F. Nurov",
+    "time_seconds": 2.662
+  },
+  {
+    "split": "train",
+    "source_image": "72.jpg",
+    "noise_type": "blur",
+    "ocr_text": "11V8F9PM\npot\n2\nKILN WILMINGTON, OH 45177\n70 mi\nTue, Oct 7, 05:00 EDT\n2h 53m\n53' Trailer\nDKY9 FLORENCE, KY 41042\n$293.91\nTue, Oct 7, 07:22 EDT\n$4.23/mi",
+    "time_seconds": 2.65
+  },
+  {
+    "split": "train",
+    "source_image": "73.jpg",
+    "noise_type": "blur",
+    "ocr_text": "T-116BC9R3D\nStarts in\nSpot\n4h 53m\nRDU4 Fayetteville, NC 28303\n502 mi\nTue, Oct 7, 08:00 EDT\n23h 1m\n53' Trailer P\nHDC3 BETHEL, Pennsylvan...\nWed, Oct 8, 06:01 EDT\nDrop\n$882.34\n$1.76/mi\nA. Oruc",
+    "time_seconds": 2.958
+  },
+  {
+    "split": "train",
+    "source_image": "74.jpg",
+    "noise_type": "blur",
+    "ocr_text": "16GGB4F3\nStarts in\npot\n8h 12m\nRDU2 SMITHFIELD, NC 27577\n404 mi\nTue, Oct 7, 10:00 EDT\n9h 27m\n53' Trailer\nTYS5 Maryville, TN 37801\nTue, Oct 7, 18:56 EDT\nDrop\n$667.76\n$1.65/mi\nH. Shovmatov",
+    "time_seconds": 2.2
+  },
+  {
+    "split": "train",
+    "source_image": "75.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-113BJ6LTY\nStarts in\nSpot\n6h 21m\nMQY1 MOUNT JULIET, TN 3...\n694 mi\nTue, Oct 7, 05:27 CDT\n1d 1h\n53'Trailer\nJAN1 CANTON, MS 39046\nWed, Oct 8, 05:38 CDT\nDrop\n$1 445,12\n$2.08/mi\nD. Suleimonov",
+    "time_seconds": 2.038
+  },
+  {
+    "split": "train",
+    "source_image": "76.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "113V1M8XH\nStarts in\nSpot\n0h 29m\nICT2 Park City, KS 67219\n359 mi\nMon, Oct 6, 22:00 CDT\n8h 52m\n53' Trailer\nP\nFTW2 Coppell, TX 75019\n2\nTue, Oct 7, 06:21 CDT\nDrop\n$1,268.36\n$3.53/mi\nO. ARESS\nAssign tractor",
+    "time_seconds": 3.231
+  },
+  {
+    "split": "train",
+    "source_image": "77.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "1118XKR4C\nStarts in\nSpot\n1h 20m\nTYS5 Maryville, TN 37801\n159 mi\nMon, Oct 6, 23:30 EDT\n4h 25m\n53' Trailer\nMQY1 MOUNT JULIET, TN 3..\nTue, Oct 7, 02:24 CDT\nDrop\n$400\nD. Suleimonov",
+    "time_seconds": 2.688
+  },
+  {
+    "split": "train",
+    "source_image": "78.jpg",
+    "noise_type": "blur",
+    "ocr_text": "16B5NY13\nStarts in\noot\n9h 53m\nDIA5 Ankeny, IA 50021\n10 mi\nTue, Oct 7, 07:00 CDT\n1h 52m\n53' Trailer\nDSM5 Bondurant, IA 50035\nTue, Oct 7, 07:52 CDT\nDrop\n$159.24\n$15.39/mi\nG. Lee",
+    "time_seconds": 2.577
+  },
+  {
+    "split": "train",
+    "source_image": "79.jpg",
+    "noise_type": "blur",
+    "ocr_text": "115CP3ZKN\nStarts in\nSpot\n5h 39m\nIGQ9 DEKALB, Illinois 60115\n935 mi\nTue, Oct 7, 01:45 CDT\n20h 27m\n53' Trailer\nRBD5 DFW AIRPORT, TX 75261\nTue, Oct 7, 21:41 CDT\nDrop\n$4,000\n$4.28/mi\nS. Miralishoev, A. Aliyorbekov",
+    "time_seconds": 2.655
+  },
+  {
+    "split": "train",
+    "source_image": "80.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "1148TQ4FF\nStarts in\nSpot\n2h 23m\nKJFK JAMAICA, NY 11430\n649 mi\nMon, Oct 6, 09:00 EDT\n1d 4h\n53' TrailerP\nKILN WILMINGTON, OH 45177\nTue, Oct 7, 13:08 EDT\nDrop\n$1,450\n$2.24/mi\nS. Khodzhiev",
+    "time_seconds": 1.691
+  },
+  {
+    "split": "train",
+    "source_image": "81.jpg",
+    "noise_type": "blur",
+    "ocr_text": "T-1144WMYW5\nStarts in\nSpot\n3h 32m\nCLT3 Concord, NC 28027\n605 mi\nMon, Oct 6, 09:30 EDT\n1d Oh\n53' Trailer\nCMH4 West Jefferson, OH 43162\nTue, Oct 7, 09:04 EDT\nDrop\n$958,24\n$1.58/mi\nF. Kodirov\nAZ AL29753, AZ AL29753",
+    "time_seconds": 2.309
+  },
+  {
+    "split": "train",
+    "source_image": "82.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "113FVTD9W\nStarts in\nSpot\n11h 5m\nIAH3 Houston, TX 77032\n1158 mi\nMon, Oct 6, 15:28 CDT\n1d 23h\n53' Trailer\nP\nMSP1 SHAKOPEE, MN 55379\nDrop\nWed, Oct 8, 14:33 CDT\n$1,969.39\n$1.70/mi\nD. Orifov",
+    "time_seconds": 3.044
+  },
+  {
+    "split": "train",
+    "source_image": "83.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "T-116LTPL1K\nStarts in\nSpot\n1h 33m\nHIN2 WHITELAND, Indiana 46184\n701 mi\nMon, Oct 6, 06:30 EDT\n12h 30m\n53' TrailerP\nAVP1 HAZLETON, PA 18202\nMon, Oct 6, 18:00 EDT\nDrop/Live\n$2,038.85\n$2.91/mi\nJ. Jonbekov",
+    "time_seconds": 2.387
+  },
+  {
+    "split": "train",
+    "source_image": "84.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-1142N4LWH\nSta\nSpot\n6h\nCLT2 CHARLOTTE, NC 28214\n738\nMon, Oct 6, 07:15 EDT\n17h 1\n53' Trailer\nWBW2 Olyphant, PA 18447\nMon, Oct 6, 23:30 EDT\nDrop/Li\n$1336,8\n$1.81/mi\nR. cruz\nOH PXD4865, OH PXD4865",
+    "time_seconds": 2.353
+  },
+  {
+    "split": "train",
+    "source_image": "85.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "111RX42L7\nStarts in\nSpot\n5h 28m\nSDF1 CAMPBELLSVILLE, KY 42718\n531 mi\nMon, Oct 6, 03:45 EDT\n16h 6m\n53' Trailer\n1\nCLE5 TWINSBURG, OH 44087\nMon, Oct 6, 19:20 EDT\nLive/Drop\n$2,800\n$5.27/mi\nA. Sharipov, S. Abdukarimi",
+    "time_seconds": 2.069
+  },
+  {
+    "split": "train",
+    "source_image": "86.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "1695Z3FF\nStarts in\npot\nDIA5 Ankeny, IA 50021\nMon, Oct 6, 00:13 CDT\n1h 23m\n53' Trailer\nP\nDSM5 Bondurant, IA 50035\nMon, Oct 6, 01:05 CDT\nDrop\n$124.24\n$12.01/mi\nG. Lee",
+    "time_seconds": 2.202
+  },
+  {
+    "split": "train",
+    "source_image": "87.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "114BPZ76H\nStarts in\nSpot\n11h 27m\nDSM9 Bondurant, IA 50035\n9 mi\nMon, Oct 6, 05:00 CDT\n1h 33m\n↓\n53' Trailer P\nDIA5 Ankeny, IA 50021\nMon, Oct 6, 06:02 CDT\nDrop\n$158.58\n$18.18/mi\nG. Lee",
+    "time_seconds": 2.278
+  },
+  {
+    "split": "train",
+    "source_image": "88.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "112SHHVM8\nStarts in\nSpot\n2h 35m\nKRB2 Prince George, VA 23875\n443 mi\nSun, Oct 5, 23:30 EDT\n12h 36m\nJ\n53'Trailer P\nTYS1 Rockford, TN 37777\nMon, Oct 6, 11:35 EDT\nDrop\n$775,97\n$1.75/mi\nD. Suleimonov",
+    "time_seconds": 1.943
+  },
+  {
+    "split": "train",
+    "source_image": "89.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "115DZGJ3G\nStarts in\nSpot\n8h 11m\nICT2 Park City, KS 67219\n496 mi\nSun, Oct 5, 23:00 CDT\n10h 23m\n53' Trailer\nDEN5 AURORA, CO 80011\nMon, Oct 6, 07:52 MDT\nDrop\n$898,59\n$1.81/mi\nO. ARESS",
+    "time_seconds": 2.744
+  },
+  {
+    "split": "train",
+    "source_image": "90.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "111BJBZYB\nStarts in\nSpot\n3h 38m\nCHO1 Fishersville, VA 22939\n459 mi\nSun, Oct 5, 10:34 EDT\n10h 36m\n53' Trailer\nd\nSDF8 JEFFERSONVILLE, IN 47130\nSun, Oct 5, 20:39 EDT\nDrop\n$641,77\n$1.40/mi\nA. Sharipov\n0\nIN 3887340",
+    "time_seconds": 2.954
+  },
+  {
+    "split": "train",
+    "source_image": "91.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "-1134XLN21\nStarts\not\n1h 48m\nDET6 Detroit, MI 48203\n306 mi\nSun, Oct 5, 07:30 EDT\n9h 1m\n53' Trailer P\nMQJ4 PLAINFIELD, Indiana 46168\nSun, Oct 5, 16:00 EDT\nDrop\n$942.5\n$3.08/mi\nI. Nusratov\n",
+    "time_seconds": 2.299
+  },
+  {
+    "split": "train",
+    "source_image": "92.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "116JRB516\nStarts in\nSpot\n1h 17m\nORF3 SUFFOLK, VA 23435\n504 mi\n1\nSun, Oct 5, 05:30 EDT\n13h 47m\n53' Trailer\nR\nHFD5 Manchester, CT 06042\n2\nLive/Drop\nSun, Oct 5, 18:46 EDT\n$2 144,83\n$4.26/mi\nF. Alimardonov, A. BOBOEV\nIN 3878338",
+    "time_seconds": 6.155
+  },
+  {
+    "split": "train",
+    "source_image": "93.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "16WCVPQH\nSta\not\n8h\nMEM2 BYHALIA, MS 38611\n623\nSun, Oct 5, 12:00 CDT\n1d 13\n53' Trailer\nXMD4 Kenosha, WI 53142\nTue, Oct 7,01:15 CDT\nDr\n$918.6\n$1.47/mi\nA. Aliyorbekov\nC",
+    "time_seconds": 2.779
+  },
+  {
+    "split": "train",
+    "source_image": "94.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "113DT1RQK\nStarts in\nSpot\n1h 38m\nMCO1 Orlando, FL 32824\n98 mi\nSun, Oct 5, 05:30 EDT\n3h 25m\n53' Trailer\nDTP3 Land O Lakes, FL 34638\nDrop\nSun, Oct S, 08:24 EDT\n$288,45\n$2.94/mi\nU. Mukimov\n:",
+    "time_seconds": 3.07
+  },
+  {
+    "split": "train",
+    "source_image": "95.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "116GKHSS9\nStarts in\nSpot\n15h 24n\nMQJ1 GREENFIELD, IN 46140\n650 mi\nSun, Oct 5, 18:58 EDT\n1d 1h\n53' Trailer\nP\nMTN1 WILMINGTON, DE 19804\nDrop\nMon, Oct 6, 19:42 EDT\n$2 000,9\n8/mi\nH. Shovmatov\nC\nIN 3807784\n:",
+    "time_seconds": 3.452
+  },
+  {
+    "split": "train",
+    "source_image": "96.jpg",
+    "noise_type": "blur",
+    "ocr_text": "1123XC93W\nStarts in\nSpot\n1h31m\nXIN5 Avon, Indiana 46123\n125 mi\nSun, Oct 5, 05:02 EDT\n3h 46m\n53' Trailer\nCVG9 Hebron, KY 41048\nSun, Oct 5, 08:17 EDT\nDrop\n$243.03\n$1.95/mi\nO. Mirzoev",
+    "time_seconds": 2.794
+  },
+  {
+    "split": "train",
+    "source_image": "97.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-1126LPJ5Q\nStarts in\nSpot\n11h 40m\nDAL2 Dallas, TX 75261\n372 mi\nSun, Oct 5, 13:45 CDT\n10h 14m\n53'Trailer\nHOU6 Richmond, TX 77407\nSun, Oct 5, 23:28 CDT\nLive/Drop\n$715.37\n$1.92/mi\nD. Orifov",
+    "time_seconds": 2.509
+  },
+  {
+    "split": "train",
+    "source_image": "98.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "T-111BCCKWZ\nStarts in\nSpot\n8h 23m\nCVG5 HEBRON, KY 41048\n1068 mi\nSun, Oct 5, 09:49 EOT\n1d Oh\n53' Trailer\nHOU5 Katy, TX 77449\nMon, Oct 6, 08:21 CDT\nDrop\n$3,000\n$2.81/mi\nO. Mirzoev, S. Narzulloev\n^",
+    "time_seconds": 2.654
+  },
+  {
+    "split": "train",
+    "source_image": "99.jpg",
+    "noise_type": "blur",
+    "ocr_text": "114N7WZ31\nStarts in\nSpot\n3h 39m\nSTL8 St Charles, MO 63376\n368 mi\nSun, Oct 5, 03:30 CDT\n10h 1m\n53' Trailer\nLIT1 LITTLE ROCK, AR 72206\nSun, Oct 5, 13:00 CDT\nDrop\n$1 107,72\n$3.01/mi\nF. Mirsalimov\nNY 42451PF",
+    "time_seconds": 2.838
+  },
+  {
+    "split": "train",
+    "source_image": "100.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "112LGZHRZ\nStarts in\nSpot\n8h 41m\nDEN8 Aurora, CO 80018\n493 mi\nSat. Oct 4, 10:00 MDT\n9h 41m\n53' Trailer\nICT2 Park City, KS 67219\nSat, Oct 4, 20:10 CDT\nDrop\n$882,19\n$1.79/mi\nO. ARESS\n",
+    "time_seconds": 2.68
+  },
+  {
+    "split": "train",
+    "source_image": "101.jpg",
+    "noise_type": "blur",
+    "ocr_text": "112Y18J5P\nStarts in\nSpot\n9h 3m\nAKC1 Akron, OH 44320\n568 mi\nSat, Oct 4, 10:30 EDT\n13h 2m\n53' Trailer\nORF4 VIRGINIA BEACH, Virginia 23454\nSat, Oct 4, 22:57 EDT\nDrop\n$2 153,45\n$3.79/mi\nA. BOBOEV, F. Alimardonov\nIN 3878338",
+    "time_seconds": 2.637
+  },
+  {
+    "split": "train",
+    "source_image": "102.jpg",
+    "noise_type": "blur",
+    "ocr_text": "116T3KX1W\nStarts\nSpot\n1h 47m\nXBN3 Southaven, MS 38671\n525 mi\nSat, Oct 4, 02:00 CDT\n23h 31m\n53' Trailer\nIGQ1 Harvey, IL 60428\nSun, Oct 5, 01:00 CDT\nDrop\n$887,86\n$1.69/mi\nA. Sharipov\n^\nIN 3887340",
+    "time_seconds": 2.645
+  },
+  {
+    "split": "train",
+    "source_image": "103.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "116BKYKJQ\nStarts in\nSpot\n4h 13m\nXIN4 INDIANAPOLIS, Indiana 46221\n476 mi&\nSat, Oct 4, 04:00 EDT\n11h 6m\n53'Trailer\nMEM1 Memphis, TN 38118\nSat, Oct 4, 14:05 CDT\nDrop\n$963.55\n$2.03/mi\nA. Raqibov",
+    "time_seconds": 2.874
+  },
+  {
+    "split": "train",
+    "source_image": "104.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "115ZYV584\nStarts in\nSpot\n2h 2m\nTYS1 Rockford, TN 37777\n254 mi\nSat, Oct 4, 01:15 EDT\n6h 37m\n53' TrailerP\nCLT5 Concord, NC 28027\nSat, Oct 4, 07:21 EDT\nDrop\n$939.84\n$3.70/mi\nI. Gafurov",
+    "time_seconds": 2.451
+  },
+  {
+    "split": "train",
+    "source_image": "105.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "1FM5BXH\nStarts in\n6h 43m\nLIT2 NORTH LITTLE ROCK, AR 72117\n357 mi\nSat, Oct 4, 00:30 CDT\n9h 32m\n53' Trailer\nBTR9 Port Allen, LA 70767\nSat, Oct 4, 09:31 CDT\nDrop\n$957,4\n$2.69/mi\nS. Saidzoda",
+    "time_seconds": 2.861
+  },
+  {
+    "split": "train",
+    "source_image": "106.jpg",
+    "noise_type": "blur",
+    "ocr_text": "|168M84KD\nStarts in\npot\n6h 58m\nBNSF-MEMPHIS-CS Memphis, TN 38118\n374 mi\nFri, Oct 3, 14:02 CDT\n9h 31m\n53' Container\nCHA2 CHARLESTON, TN 37310\nDrop\nSat, Oct 4, 00:02 EDT\nUIIA(BNSF)\n$1,107.24\n$2.96/mi\nI. Gafurov",
+    "time_seconds": 2.721
+  },
+  {
+    "split": "train",
+    "source_image": "107.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "13QW2XY2\nStarts in\npot\nOh 42m\nBTR1 Baton Rouge, LA 70815\n183 mi\nFri, Oct 3, 03:30 CDT\n4h 51m\n53' Trailer\nMOB5 THEODORE, AL 36582\nFri, Oct 3, 07:50 CDT\nDrop\n$800.38\n$4.37/mi\nD. Orifov",
+    "time_seconds": 1.95
+  },
+  {
+    "split": "train",
+    "source_image": "108.jpg",
+    "noise_type": "blur",
+    "ocr_text": "115NGW1QD\nStart\nSpot\n5h 3r\nSDF1 CAMPBELLSVILLE, KY 42718\n531 mi\nFri, Oct 3, 05:00 EDT\n16h 6m\n53' Trailer\nCLE5 TWINSBURG, OH 44087\nFri, Oct 3, 20:35 EDT\nLive/Drop\n$3 400\n$6.40/m\nF. Alimardonov, A. BOBOEV\nIN 3878338",
+    "time_seconds": 3.011
+  },
+  {
+    "split": "train",
+    "source_image": "109.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "114B45RRG\nStarts in\nSpot\n3h 34m\n8NA7 Mt. Jutiet, TN 37122\n228 mi\nFri, Oct 3, 02:75 CDT\n5h 45m\n53' Trailer\nMEM4 MEMPHIS, TN 38128\nFri, Oct 3, 07:29 CDT\nDrop\n$628.29\n$2.76/mi\nF. Kodirov",
+    "time_seconds": 2.748
+  },
+  {
+    "split": "train",
+    "source_image": "110.jpg",
+    "noise_type": "blur",
+    "ocr_text": "113J7PX1\nStarts in\npot\n1h 55m\nXBN3 Southaven, MS 38671\nFri, Oct 3, 00:30 CDT\n525 mi\n23h 31m\n53' Trailer\nIGQ1 Harvey, IL 60428\nFri, Oct 3, 23:30 CDT\nDrop\n$901,48\n$1.72/mi\nA. Sharipov\nIN 3887325",
+    "time_seconds": 2.957
+  },
+  {
+    "split": "train",
+    "source_image": "111.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "114X1D998\nStarts in\nSpot\n4h Sm\nIAH3 Houston, TX 77032\n426 mi\nFri, Oct 3, 02:13 CDT\n10h 13m\n53'Trailer P\nLIT1 LITTLE ROCK, AR 72206\nFri, Oct 3, 11:55 CDT\nDrop\n$804.1\n$1.89/mi\nS. Saidzoda",
+    "time_seconds": 2.448
+  },
+  {
+    "split": "train",
+    "source_image": "112.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "1143WS6FY\nStarts in\nSpot\n4h 1m\nHMC9 Liberty, Missouri 64068\n524 mi\nFri, Oct 3, 01:30 CDT\n12h 18m\n53'TrailerP\nHDA8 Dallas, TX 75241\nFri, Oct 3, 13:17 CDT\nDrop\n$1,347.83\n$2.57/mi\nF. Mirsalimov",
+    "time_seconds": 2.864
+  },
+  {
+    "split": "train",
+    "source_image": "113.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-115ND69LF\nStarts in\npot\n8h 22m\nDAL9 WILMER, TX 75172\n1028 mi\nFri, Oct 3, 04:05 CDT\n1d 9h\n53' Trailer\nP\nCLT2 CHARLOTTE, NC 28214\nSpecial Services\nSat, Oct 4, 14:00 EDT\nDrop\n$2,148.09\n$2.09/mi\nR. cruz",
+    "time_seconds": 2.833
+  },
+  {
+    "split": "train",
+    "source_image": "114.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "T-116PDLT6R\nStarts in\n8h 45m\nSpot\n1065 mi\n3M_ROAN0_76262_554...\n1\n1d 10h\nThu, Oct 2, 15:30 CDT\n53' Trailer\nd\nSpecial\nCLT2 CHARLOTTE, NC 28214\nServices\n3\nSat, Oct 4, 02:00 EDT\nDrop\n$2 251,36\n$2.11/mi\nR. cruz\n^",
+    "time_seconds": 5.603
+  },
+  {
+    "split": "train",
+    "source_image": "115.jpg",
+    "noise_type": "blur",
+    "ocr_text": "11169PRGD\nStarts in\nSpot\n1h 51m\nOKC2 Oklahoma City, OK ...\n193 mi\n1\nThu, Oct 2, 08:20 CDT\n4h 50m\n↑\n53'Contai...\nP\nAFW1 Fort Worth, TX 76131\n2\nDrop\nThu, Oct2, 12:39 CDT\n$442,85\n$2.30/mi\n0\nR. cruz\n^\nOH PXD4865",
+    "time_seconds": 6.233
+  },
+  {
+    "split": "train",
+    "source_image": "116.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "114SVRNBW\nStarts in\nSpot\n8h 54m\nBTR1 Baton Rouge, LA 70815\n645mi\nThu, Oct 2, 15:00 CDT\n12h 57m\n53' Trailer\nTYS5 Maryville, TN 37801\nFri, Oct 3, 04:26 EDT\nDrop\n$2,500\n$3.87/mi\nF. Nizomov, F. Nurov",
+    "time_seconds": 2.823
+  },
+  {
+    "split": "train",
+    "source_image": "117.jpg",
+    "noise_type": "blur",
+    "ocr_text": "1144HFSCD\nStarts in\nSpot\n6h 57m\nTMB8 Homestead, FL 33032\n1257 mi\nThu, Oct 2, 13:30 EDT\n2d Oh\n53' TrailerP\nIAH3 Houston, TX 77032\nSat, Oct 4, 12:01 CDT\nDrop\n$2,107.11\n$1.68/mi\nU. Mukimov",
+    "time_seconds": 2.977
+  },
+  {
+    "split": "train",
+    "source_image": "118.jpg",
+    "noise_type": "blur",
+    "ocr_text": "11391LNWJ\nStarts in\nSpot\n5h 32m\nBNSF-MEMPHIS-CS Memphis, ...\n188 mi\n1\nThu, Oct 2, 11:00 CDT\n5h 30m\n↓\n53'Container\nP\nHSV1 Madison, AL 35756\nDrop\n2\nThu, Oct 2, 16:00 CDT\nUIIA(BNSF)\n$882.92\n$4.69/mi\n0\nK. Khamrudinov",
+    "time_seconds": 4.825
+  },
+  {
+    "split": "train",
+    "source_image": "119.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "T-111VSB9PS\nStarts \npot\n7h 6m\nTUL5 Tulsa, OK 74116\n414 mi\nWed, Oct 1, 05:54 CDT\n9h 26m\n53' Trailer\nOMA2 OMAHA, NE 68138\nWed, Oct 1, 14:49 CDT\nDrop\n$859,28\n$2.07/mi\nD. Suleimonov",
+    "time_seconds": 2.233
+  },
+  {
+    "split": "train",
+    "source_image": "120.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "1\nS. Narzulloev, O. Mirzoev\n!1/19'1$\n$0'∠20 1$\n/\nLCC O01LD0 N∃C\nELP1 El Paso, TX 79928\n53' Trailer\nwg 4∠1\nWed, Oct 1, 06:54 CDT\n!w 89\nDAL2 Dallas, TX 75261\n9346\n20\nstens\n11008000-",
+    "time_seconds": 2.689
+  },
+  {
+    "split": "train",
+    "source_image": "121.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "T-11147P7KY\nStarts in\nSpot\nOh 50m\nXCE1 Richfield, Ohio 44286\n857 mi\nTue, Sep 30, 23:05 EDT\n1d 13h\nS3' Trailer\nLIT1 LITTLE ROCK, AR 72206\nThu, Oct 2, 10:55 CDT\nDrop\n$2 593,9\n$3.03/mi\nI. Gafuroy\nZ",
+    "time_seconds": 2.102
+  },
+  {
+    "split": "train",
+    "source_image": "122.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "113MK86NF\nStarts in\nSpot\n5h 9m\nATL6 Atlanta, GA 30344\n164 mi\nWed, Oct 1, 03:00 EDT\n4h 48m\n53' Trailer\n2\nBHM1 Bessemer, AL 35022\nWed, Oct 1, 06:17 CDT\nDrop\n$474,47\n$2.89/mi\nA. Dodaboev",
+    "time_seconds": 2.044
+  },
+  {
+    "split": "train",
+    "source_image": "123.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "114JC2KSF\nStarts in\nSpot\n13h 4Dm\nROC1 ROCHESTER, NY 14653\n1355 mi\nWed, Oct 1, 7D:45 EDT\n2d 4h\n53' Trailer\nBTR1 Baton Rouge, LA 70815\nDrop\nFri, Oct 3, 13:36 CDT\n$2 717,51\n$2.01/mi\nF. Alimardonov",
+    "time_seconds": 2.368
+  },
+  {
+    "split": "train",
+    "source_image": "124.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "1156FF742\nStarts in\nSpot\n4h 41m\nBNA8 Lebanon, TN 37090\n594 mi\nWed, Oct 1, 00:30 CDT\n12h 13m\n53' Trailer\nd\nMCI9 LIBERTY, MO 64068\nWed, Oct 1, 12:12 CDT\nDrop\n$1 450\n$2.44/mi\nF. Mirsalimov\n0",
+    "time_seconds": 2.174
+  },
+  {
+    "split": "train",
+    "source_image": "125.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "T-1131T3SJ8\nStarts in\nSpot\n6h 24m\nDSM9 Bondurant, IA 50035\n199 mi\nWed, Oct 1, 01:00 CDT\n5h 49m\n53' Trailer\nDSM9 Bondurant, 1A 50035\nDrop\nWed, Oct 1, 06:18 CDT\n$586.95\n$2.96/mi\nG. Lee",
+    "time_seconds": 2.229
+  },
+  {
+    "split": "train",
+    "source_image": "126.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "-1129FVJH6\n× Canceled\npot\nwithin 2h of pickup\nDSM5 Bondurant, IA 50035\n239 mia\nTue, Sep 30, 04:45 CDT\n53' Trailer\nDSM9 Bondurant, IA 50035\nTue, Sep 30, 10:25 CDT\n$0.7",
+    "time_seconds": 2.656
+  },
+  {
+    "split": "train",
+    "source_image": "127.jpg",
+    "noise_type": "blur",
+    "ocr_text": "141P5KM\nStarts in\n8h 28m\nMQJ9 Franklin, IN 46131\n582 mi\nTue, Sep 30, 13:00 EDT\n13h 2m\n53' Trailer\nROC5 ROCHESTER, New York 14624\nWed, Oct 1, 01:31 EDT\nDrop\n$2,800\n$4.81/mi\nF. Alimardonov, A. BOBOEV",
+    "time_seconds": 2.738
+  },
+  {
+    "split": "train",
+    "source_image": "128.jpg",
+    "noise_type": "blur",
+    "ocr_text": "151FHP9H\npot\n45m\nDIA5 Ankeny, IA 50021\n10 mi\nTue, Sep 30, 09:08 CDT\n1h 52m\n53' Trailer\nDSM5 Bondurant, IA 50035\nTue, Sep 30, 10:00 CDT\nDrop\n$169.24\n$16.36/mi\nG. Lee",
+    "time_seconds": 2.307
+  },
+  {
+    "split": "train",
+    "source_image": "129.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-115C6F1FQ\nStarts in\nSpot\n7h 53m\nATL7 UNION CITY, GA 30291\n444 mi\nTue, Sep 30, 10:16 EDT\n10h 14m\n53' Trailer\nd\nRDU2 SMITHFIELD, NC 27577\nTue, Sep 30, 20:00 EDT\nDrop\n$867,51\n$1.96/mi\nM. Ettai",
+    "time_seconds": 2.098
+  },
+  {
+    "split": "train",
+    "source_image": "130.jpg",
+    "noise_type": "blur",
+    "ocr_text": "ZJXWS3T\npot\nFTW1 DALLAS, TX 75241\nTue, Sep 30, 18:48 CDT\n53'T\nLIT1 LITTLE ROCK, AR 72206\nWed, Oct 1, 19:30 CDT\n$98\n$1.72\nF. Nizomov",
+    "time_seconds": 1.731
+  },
+  {
+    "split": "train",
+    "source_image": "131.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "T-114WQ524Z\nStarts in\nSpot\n6h 24m\nMDW5 CREST HILL, IL 60403\n927 mi\nTue, Sep 30, 06:58 CDT\n1d 7h\n53' Trailer\nFTW1 DALLAS, TX 75241\nWed, Oct 1, 14:00 CDT\nDrop/Live\n$2,336.1\n$2.52/mi\nK. Khamrudinov",
+    "time_seconds": 2.732
+  },
+  {
+    "split": "train",
+    "source_image": "132.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "113TRMNDY\nStarts in\nSpot\n6h 52m\nBTR1 Baton Rouge, LA 70...\n293 mi\nTue, Sep 30, 07:00 CDT\n6h 44m\n53' Trailer\nP\nIAH5 Humble, TX 77338\nTue, Sep 30, 13:13 CDT\nDrop\n$495.84\n$1.69/mi\nAssign driver",
+    "time_seconds": 2.59
+  },
+  {
+    "split": "train",
+    "source_image": "133.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "T-111ZM31FD\nStarts in\nSpot\nOh 52m\nBTR1 Baton Rouge, LA 70...\n146 mi\nTue, Sep 30, 01:00 CDT\n5h 3m\n3\n53' Trailer P\nBTR1 Baton Rouge, LA 70...\nTue, Sep 30, 05:32 CDT\nDrop\n$347.52\n$2.39/mi\nO. ARESS",
+    "time_seconds": 2.377
+  },
+  {
+    "split": "train",
+    "source_image": "134.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "116RQ4C8V\nStarts in\nSpot\n8h 19m\nRBD5 DFW AIRPORT, TX 75261\n1517 mi\nTue, Sep 30, 07:54 CDT\n1d 7h\n53' Trailer\nP\nPNE5 Robbinsville, NJ 08691\nWed, Oct 1, 16:02 EDT\nDrop\n$3 134,79\n$2.07/mi\nM. Qosimov, U. Safarov",
+    "time_seconds": 3.21
+  },
+  {
+    "split": "train",
+    "source_image": "135.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "115VKYZB4\nStarts in\nSpot\n4h 14m\nMOB5 THEODORE, AL 365...\n457 mi\nMon, Sep 29, 08:13 CDT\n10h 26m\n53' TrailerP\nLIT1 LITTLE ROCK, AR 72206\nMon, Sep 29, 18:08 CDT\nDrop\n$735.72\n$1.61/mi\nA. Dodaboev",
+    "time_seconds": 2.007
+  },
+  {
+    "split": "train",
+    "source_image": "136.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-1144GWBNN\nStarts in\n8h 16m\nSpot\nMCI5 LENEXA, KS 66219\n540 mi\nMon, Sep 29, 12:10 CDT\n11h 39m\n53' Trailer\nFTW6 Coppell, TX 75019\nSpecial Services\nMon, Sep 29, 23:48 CDT\nDrop\n$1,230\n$2.28/mi\nM. Qosimov",
+    "time_seconds": 2.01
+  },
+  {
+    "split": "test",
+    "source_image": "137.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-113N75BZM\nStarts in\nSpot\n8h 10m\nMEM3 HORN LAKE, MS 38637\n421 mi\nMon, Sep 29, 10:15 CDT\n10h 3m\n53' Trailer\nMGEY Union City, GA 30291\nMon, Sep 29, 20:47 EDT\nDrop\n$803,74\n$1.91/mi\nS. Nimonzoda",
+    "time_seconds": 2.375
+  },
+  {
+    "split": "test",
+    "source_image": "138.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "116MTTHW7\nStarts in\nSpot\nOh 51m\nBTR1 Baton Rouge, LA 70...\n183 mi\nMon, Sep 29, 02:15 CDT\n4h 51m\n53' Trailer\nMOB5 THEODORE, AL 365...\nMon, Sep 29, 06:35 CDT\nDrop\n$634.16\n$3.46/mi\nA. Dodaboev",
+    "time_seconds": 2.01
+  },
+  {
+    "split": "test",
+    "source_image": "139.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "11384WM5P\nStarts in\nSpot\n15h 19m\nIND9 GREENWOOD, IN 46143\n185 mi\nMon, Sep 29, 16:30 EDT\n5h 27m\n53'Trailer\nORD5 MATTESON, IL 60443\nMar, Sep 29, 20:26 CDT\nDrop\n$297.02\n$1.60/mi\nF. Kodirov",
+    "time_seconds": 1.99
+  },
+  {
+    "split": "test",
+    "source_image": "140.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "114Q4HM9G\nStarts in\nSpot\n4h 44m\nMQJ9 Franklin, IN 46131\n609 mi\nMon, Sep 29, 04:00 EDT\n12h 48m\n53' Trailer\nMSP8 WOODBURY, MN 55129\nMon, Sep 29, 15:17 CDT\nDrop\n$2,500\n$4.10/mi\nF. Alimardonov, A. BOBOEV\n^",
+    "time_seconds": 2.192
+  },
+  {
+    "split": "test",
+    "source_image": "141.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-111J8XKWZ\nStarts in\nSpot\n6h 35m\nVENDOR-176318221 NORTH EAST, ...\n101 mi\nMon, Sep 29, 05:00 EDT\n6h 35m\n53'TrailerP\nMDT5 LEWISBERRY, PA 17339\nMon, Sep 29, 10:35 EDT\nDrop\n$399.54\n$3.97/mi\nA. Kurbonov",
+    "time_seconds": 2.162
+  },
+  {
+    "split": "test",
+    "source_image": "142.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "1162342LK\nStarts in\nSpot\nOh 47m\nDEN3 Thornton, CO 80023\n638mi\nSun, Sep 28, 20:45 MDT\n12h 50m\n53' Trailer\nMCI9 LIBERTY, MO 64068\nDrop\nMon, Sep 29, 10:04 CDT\n$1,900.54\n$2.98/mi\nM. Qosimav, U. Safarov",
+    "time_seconds": 1.99
+  },
+  {
+    "split": "test",
+    "source_image": "143.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "T-115KV4Y9G\nStarts in\nSpot\n14h 25m\nHOU7 Houston, TX 77064\n510 mi\nMon, Sep 29, 03:15 CDT\n23h 55m\n53' Trailer P\nMOB5 THEODORE, AL 36582\nTue, Sep 30, 02:10 CDT\nLive/Drop\n$813,77\n$1.60/mi\nD. Suleimonov",
+    "time_seconds": 2.29
+  },
+  {
+    "split": "test",
+    "source_image": "144.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "T-1165BTKTZ\nStarts in\nSpot\n9h 22m\nMEM1 Memphis, TN 38118\n767 mi\nMon, Sep 29, 04:47 CDT\n1d 3h\n53' Trailer\nRDU4 Fayetteville, NC 28303\nTue, Sep 30, 09:00 EDT\nDrop/Live\n$1,442.93\n$1.88/mi\nI. Gafurov",
+    "time_seconds": 2.011
+  },
+  {
+    "split": "test",
+    "source_image": "145.jpg",
+    "noise_type": "blur",
+    "ocr_text": "1168FPZ2M\nStarts in\nSpot\n5h 47m\nIUSF Dallas, TX 75241\n1322 mi\nSun, Sep 28, 10:00 CDT\n2d 4h\n53' Trailer\nIUST Greencastle, PA 17225\nTue, Sep 30, 14:30 EDT\nDrop\n$2,700\n$2.04/mi\nS. Khodzhiev",
+    "time_seconds": 1.884
+  },
+  {
+    "split": "test",
+    "source_image": "146.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "113G883WS\nStarts in\nSpot\n17h 23m\nCLE3 Euclid, OH 44132\n446 mi\nSun, Sep 28, 22:00 EDT\n10h 16m\n53' Trailer P\nPHL7 MIDDLETOWN, DE 19709\nMon, Sep 29, 07:45 EDT\nDrop\n$806,91\n$1.81/mi\nA. Nurov",
+    "time_seconds": 2.493
+  },
+  {
+    "split": "test",
+    "source_image": "147.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "116TDDVRC\nStarts in\nSpot\nOh 49m\n116TLQD2C_ITR Old Pascagoula Rd, AL 36582\n187 mi\nSun, Sep 28, 04:00 CDT\n5h 58m\nBTR1 Baton Rouge, LA 70815\n53' Trailer\nSun, Sep 28, 09:27 CDT\nDrop\n$802,21\n$4.30/mi\nU. Mukimov\n<>",
+    "time_seconds": 2.242
+  },
+  {
+    "split": "test",
+    "source_image": "148.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "T-116FCY213\nStarts in\nSpot\n10h 37m\nMEM6 OLIVE BRANCH, M5 38654\n484 mi\nSun, Sep 28, 13:00 CDT\n13h 18m\n53'Trailer\nMQJ2 WHITELAND, IN 46184\nMon, Sep 29, 02:47 EDT\nDrop\n$969,01\n$2.00/mi\nF. Alimardonov, A. BOBOEV\n^",
+    "time_seconds": 2.209
+  },
+  {
+    "split": "test",
+    "source_image": "149.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "111833VCY\nStarts in\nSpot\n4h 5tm\nROC5 ROCHESTER, New York 14..\n242 mi\nSun, Sep 28, 06:00 EDT\n6h 43m\n53'Trailer\nCLE3 Euclid, OH 44132\nSun, Sep 28, 12:12 EDT\nDrop\n$374.79\n$7.55/mi\nR. cruz",
+    "time_seconds": 2.051
+  },
+  {
+    "split": "test",
+    "source_image": "150.jpg",
+    "noise_type": "blur",
+    "ocr_text": "|11GXX61Q\nStarts in\npot\n2h 32m\nMDW2 Joliet, IL 60433\n1046 mi\nSat, Sep 27, 16:00 CDT\n1d 6h\n53' Trailer\nIAH3 Houston, TX 77032\nDrop\nSun, Sep 28, 22:00 CDT\n$2 118,81\n$2.03/mi\nD. Suleimonov\n^",
+    "time_seconds": 2.414
+  },
+  {
+    "split": "test",
+    "source_image": "151.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "5VP7Z6D\nStarts in\npot\n17h 36m\nXIN4 INDIANAPOLIS, Indiana 4..\n724 mi\nSun, Sep 28, 12:00 EDT\n1d 1h\n53' Trailer\nTEB9 Somerset, NJ 08873\nMon, Sep 29, 13:00 EDT\nDrop\n$1 227,39\n$1.70/mi\nI. Nusratov\n\\",
+    "time_seconds": 2.145
+  },
+  {
+    "split": "test",
+    "source_image": "152.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "11147RR7K\nStarts in\nSpot\n2h 43m\nJAN1 CANTON, MS 39046\n426 mi\nFri, Sep 26, 02:30 CDT\n8h 55m\n53' Trailer\nBNA8 Lebanon, TN 37090\nFri, Sep 26, 10:54 CDT\nDrop\n$970\n$2.27/mi\nK. Khamrudinov",
+    "time_seconds": 2.737
+  },
+  {
+    "split": "test",
+    "source_image": "153.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "T-114D2CVP1\nStarts in\nSpot\n8h 47m\nRFD2 HUNTLEY, IL 60142\n814 mi\nFri, Sep 26, 06:58 CDT\n1d 4h\n53' TrailerP\nABE4 EASTON, PA 18045\nSat, Sep 27, 12:00 EDT\nDrop/Live\n$1,928.74\n$2.37/mi\nP. MIRSALIMOV",
+    "time_seconds": 2.882
+  },
+  {
+    "split": "test",
+    "source_image": "154.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "5P4ZZ1V\nStarts in\not\n6h 15m\nFSD1 Sioux Falls, SD 57107\n720 mia\nFri, Sep 26, 04:30 CDT\n14h 2m\n53' Trailer \nDEN5 AURORA, CO 80011\nFri, Sep 26, 17:01 MDT\nLive/Drop\n$2,255.04\n$3.13/mi\nU. Safarov, M. Qosimov",
+    "time_seconds": 2.749
+  },
+  {
+    "split": "test",
+    "source_image": "155.jpg",
+    "noise_type": "rotation",
+    "ocr_text": "113B21C75\nStarts in\nSpot\n4h 40m\nRDU2 SMITHFIELD, NC 27...\n378 mi\nFri, Sep 26, 03:0Q EDT\n8h 55m\n53' Trailer P\nAGS2 Jefferson, GA 30549\nFri, Sep 26, 11:24 EDT\nDrop\n$783.55\n$2.08/mi\nM. Khudoydodov",
+    "time_seconds": 2.658
+  },
+  {
+    "split": "test",
+    "source_image": "156.jpg",
+    "noise_type": "gaussian_noise",
+    "ocr_text": "114LLJMK1\nStarts in\nSpot\n1h 31m\nSHV1 Shreveport, LA 71107\n214 mia\nThu, Sep 25, 22:13 CDT\n5h 4m\n53' Trailer\nLIT1 LITTLE ROCK, AR 72206\nFri, Sep 26, 02:46 CDT\nDrop\n$483.73\n$2.26/mi\nU. Mukimov",
+    "time_seconds": 2.731
+  },
+  {
+    "split": "test",
+    "source_image": "157.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "T-11449VS3G\nStarts in\nSpot\n11h 32m\nTUL2 Tulsa, OK 74116\n754 mi\nFri, Sep 26, 07:42 CDT\n15h 53m\nI\n53' TrailerP\nCVG9 Hebron, KY 41048\nSat, Sep 27, 00:04 EDT\nDrop/Live\n$1,268.45\n$1.68/mi\nI. Gafurov",
+    "time_seconds": 2.884
+  },
+  {
+    "split": "test",
+    "source_image": "158.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "4CZVQT6\nStarts in\nSAT6 SAN MARCOS, TeXaS 78666\nBNSF-ALLIANCE-MC HASLET, TX 7... 232 mi\n53' Container P\nDrop\n$618,73\n2h 27m\nD. Yarmukham...\n:\nSat, Jan 20, 13:41 CST\nSat. Jan 20, 21:11 CST\nSh 1m\nUIIA(BNSF)\n$2.67/mi\n114CZVQT6\nSAT6\n232 mi\nDrop\n←\nBNSF-ALLIANCE-MC\n$99,82\nD. Yarmukh...\n^\n8h 1m\nUIIA(BNSF)\ntop\nEquipment\nArrival\nDeparture\nSAT6\nTractor ID 36755PF\n-\n346 Fortuna Road\n53' Container\nSch. 20 Jan, 13:41 CST\nSch. 20 Jan, 14:41 CST\nAN MARCOS, Texas 78666\nTrailer ID -\nReport delay\nReport delay\nPreloaded\nPick-up instructions\nBNSF-ALLIANCE-MC\nTractor ID 36755PF\nSch. 20 Jan, 21:11 CST\nSch, 20 Jan, 21:42 CST\n11 Intermodal Pkwy\n53' Container\nReport delay\nASLET, TX 76052\nTrailer ID -\nDrop",
+    "time_seconds": 6.597
+  },
+  {
+    "split": "test",
+    "source_image": "159.jpg",
+    "noise_type": "jpeg",
+    "ocr_text": "T-11398DWRQ\nStarts in\nSpot\n14h 13m\nSAT2 SAN MARCOS, TX 78666\n719 mi\nSat, Jan20, 18:15 CST\n1d 5h\n53' Trailer\nP\nSTL3 Republic, Missouri 65738\nDrop\nSun, Jan 21, 23:06 CST\n$1 336,74\n$1.86/mi\nE. Sulaimonov",
+    "time_seconds": 3.84
+  },
+  {
+    "split": "test",
+    "source_image": "160.jpg",
+    "noise_type": "blur",
+    "ocr_text": "T-113R7954F\nStarts in\nSpot\n10h 35m\nSTL8 St Charles, MO 63376\n440 mi\nSat, Jan 20, 16:15 CST\n13h 21m\n53' Containe...\nMDW9 AURORA, IL 60502\nDrop\nSun, Jan 21, 05:05 CST\n$918,59\n$2.09/mi\nB. Azamatov",
+    "time_seconds": 2.348
+  }
+]

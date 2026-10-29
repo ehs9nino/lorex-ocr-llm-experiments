@@ -1,16 +1,73 @@
-# Python
+
+# ==========================================
+# LoREx-160 Research Repository
+# ==========================================
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+.pytest_cache/
 
-# Virtual env
+# Virtual environments
 .venv/
+venv/
 
-# Secrets
+# Secrets and local configuration
 .env
+.env.*
+!.env.example
 
-# Notebook outputs
+# Jupyter temporary files
 .ipynb_checkpoints/
 
-
-# OS
+# OS and editor
 .DS_Store
+Thumbs.db
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+*_backup.py
+
+# Generated noisy images
+experiments/noise_robustness/images/
+
+# Local diagnostics
+evaluation_code_extract.txt
+evaluation_functions.txt
+e2e_results/
+
+# Intermediate prompt-ablation outputs
+experiments/prompt_ablation/raw_and_parsed.json
+
+
+
+# ==========================================
+# LoREx-160 experiment cleanup
+# ==========================================
+
+# Generated images and intermediate OCR outputs
+experiments/noise_robustness/images/
+experiments/noise_robustness/oise_robustness/
+experiments/matched_inference/ocr/
+
+# Runtime logs
+experiments/matched_inference/logs/
+*.log
+
+# Temporary scripts and diagnostics
+*_backup.py
+experiments/noise_robustness/test_ocr.py
+
+# Raw prompt-ablation responses
+experiments/prompt_ablation/raw_and_parsed.json
+
+# Optional exploratory pilot outputs
+experiments/prompt_ablation/fields_10.csv
+experiments/prompt_ablation/paired_common_10.csv
+experiments/prompt_ablation/summary_10.csv
+experiments/prompt_ablation/figures/*_10.png

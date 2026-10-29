@@ -1,0 +1,9 @@
+method,exact_match,fuzzy_score,lev_similarity,f1_score
+qwen_vlm,78.6243,93.3068,92.7878,79.9687
+paddle_llm_p2,68.0423,92.1875,90.4404,68.4302
+doctr_llm_p2,44.7619,90.1265,87.7342,44.8083
+regex_tesseract,37.9894,62.0352,60.4057,42.1654
+tesseract_llm_p2,34.6032,85.2963,81.8906,35.2199
+openocr_llm_p2,33.2275,87.0782,83.3705,33.2275
+tesseract_llm_p1,21.9048,63.6699,60.6164,23.2672
+easyocr_llm_p2,9.6296,75.8261,72.1432,9.7975

@@ -1,0 +1,7 @@
+variant,parser,n_requested,n_success,n_api_failed,n_parse_failed,N_pairs,EM_pct,precision_pct,recall_pct,F1_pct,fuzzy_pct,lev_pct,TP,FP,FN
+A0_full_P2,recovery,135,135,0,0,945,42.54,43.74,42.54,43.13,88.01,85.25,402,517,543
+A1_no_load_guidance,recovery,135,134,0,1,938,32.94,39.41,32.94,35.89,75.22,72.5,309,475,629
+A2_no_field_guidance,recovery,135,135,0,0,945,32.59,34.18,32.59,33.37,84.8,81.3,308,593,637
+A3_no_format_null_rules,recovery,135,135,0,0,945,41.8,42.7,41.8,42.25,88.03,85.18,395,530,550
+A4_P1_controlled,recovery,135,135,0,0,945,28.68,36.87,28.68,32.26,69.07,66.22,271,464,674
+A5_P2_strict_parser,strict,135,135,0,0,945,42.54,43.74,42.54,43.13,88.01,85.25,402,517,543
